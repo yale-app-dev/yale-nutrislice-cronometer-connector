@@ -1,17 +1,25 @@
 # Yale Nutrislice → Cronometer
 
 Every 15 minutes a GitHub Actions job pulls every Yale Hospitality menu from
-[Nutrislice](https://yalehospitality.nutrislice.com/) and adds each dish to your
-Cronometer account as a **custom food**. Search "Yale -" in Cronometer and log
-dishes **by the ounce**. Each food also has Yale's posted portion as a serving.
-The job runs on GitHub's servers, so your computer can be off.
+[Nutrislice](https://yalehospitality.nutrislice.com/) and mirrors each dish into
+your Cronometer account as a **custom food** with the app's exact numbers. Search
+"Yale -" in Cronometer and log dishes **by the ounce**. The job runs on GitHub's
+servers, so your computer can be off.
 
+- Food names show the portion and calories the app shows, e.g.
+  `Yale - Sour Cream (1 oz, 60 cal)`. Yale serves some dishes at different
+  portions on different menus, and each one is its own food, matching what
+  the app shows for that menu.
 - Calories, macros, fiber, sugar, sodium, saturated/trans fat, cholesterol,
-  potassium, calcium, iron and vitamin C come from Yale's nutrition data.
-- A dish is created once and updated only if Yale changes its nutrition. The
-  job commits its sync history to `state/synced.json`, so don't delete that file.
-- The job logs in to Cronometer only when there is something new to save, so
-  most runs never log in.
+  potassium, calcium, iron and vitamin C come from the app's nutrition label.
+- **Same-day changes:** Yale sometimes edits menus mid-meal. A new dish shows up
+  on the next run. If Yale changes a dish's nutrition or name, the existing
+  Cronometer food is updated in place, not duplicated. If you deleted the food
+  in Cronometer, it's re-created.
+- Dishes Yale removes stay in Cronometer, since you may have eaten them.
+- The job commits its sync history to `state/synced.json`. Don't delete or
+  edit that file, or the job will create duplicates.
+- The job logs in to Cronometer only when there is something to write.
 - Dishes without nutrition info or a weight-based serving are skipped.
 
 > Cronometer has no official API. This uses the same private API as the
@@ -32,8 +40,9 @@ The job runs on GitHub's servers, so your computer can be off.
    The first run creates about 400 foods and takes a few minutes. After that
    the job runs every 15 minutes on its own.
 
-GitHub can start scheduled runs late, by a few minutes up to about half an hour
-when its servers are busy.
+GitHub doesn't guarantee schedule times. Runs usually start within a few
+minutes, but can be late or occasionally skipped when GitHub is busy. To sync
+right away, use **Run workflow**.
 
 ## Config
 

@@ -24,6 +24,7 @@ import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 HERE = Path(__file__).resolve().parent
 NUTRISLICE_API = "https://yalehospitality.api.nutrislice.com/menu/api"
@@ -112,7 +113,7 @@ def list_menus(halls):
 
 
 def fetch_foods(menus, dates):
-    """Return Nutrislice food dicts served at the given menus on the given dates."""
+    """Return Nutrislice food dicts served at the given menus, earliest date first."""
     weeks = {}
     for d in dates:
         # Nutrislice weeks start on Sunday.
@@ -127,12 +128,14 @@ def fetch_foods(menus, dates):
         except (urllib.error.URLError, json.JSONDecodeError, OSError) as exc:
             log.warning("Could not fetch %s/%s: %s", school, menu_type, exc)
             return []
-        return [item["food"] for day in week.get("days", []) if day.get("date") in day_strs
+        return [(day["date"], item["food"]) for day in week.get("days", [])
+                if day.get("date") in day_strs
                 for item in day.get("menu_items", []) if item.get("food")]
 
     jobs = [(m, w) for m in menus for w in weeks.items()]
     with ThreadPoolExecutor(max_workers=8) as pool:
-        return [food for foods in pool.map(fetch, jobs) for food in foods]
+        found = [pair for pairs in pool.map(fetch, jobs) for pair in pairs]
+    return [food for _, food in sorted(found, key=lambda pair: pair[0])]
 
 
 def serving_grams(food):
@@ -150,10 +153,18 @@ def serving_grams(food):
     return amount * factor
 
 
-def serving_label(food):
+def portion_text(food):
     info = food["serving_size_info"]
-    amount = float(info["serving_size_amount"])
-    return f"Yale serving ({amount:g} {info['serving_size_unit'].strip()})"
+    return f"{float(info['serving_size_amount']):g} {info['serving_size_unit'].strip()}"
+
+
+def version_key(food):
+    """Identity of one dish as the app shows it: Yale food id + portion.
+
+    Yale serves the same dish at different portions on different menus, each
+    with its own (rounded) nutrition, so each portion is its own food.
+    """
+    return f"{food['id']}@{portion_text(food)}"
 
 
 def build_food(food, prefix):
@@ -183,9 +194,10 @@ def build_food(food, prefix):
     per100[-221] = 0.0  # alcohol
     per100[-1205] = round(max(0.0, per100.get(205, 0.0) - per100.get(291, 0.0)), 3)
 
+    calories = float(info["calories"])
     return {
         "id": 0,
-        "name": f"{prefix}{food['name'].strip()}",
+        "name": f"{prefix}{food['name'].strip()} ({portion_text(food)}, {calories:g} cal)",
         "category": 0,
         "owner": None,
         "retired": None,
@@ -195,7 +207,7 @@ def build_food(food, prefix):
         "alternateId": None,
         "measures": [
             {"id": 0, "name": "oz", "value": OZ_GRAMS, "amount": 1.0, "type": "Weight"},
-            {"id": 0, "name": serving_label(food), "value": round(grams, 2),
+            {"id": 0, "name": f"Yale serving ({portion_text(food)})", "value": round(grams, 2),
              "amount": 1.0, "type": "Atomic"},
         ],
         "labelType": "AMERICAN_2016",
@@ -205,8 +217,54 @@ def build_food(food, prefix):
     }
 
 
+def disambiguate_names(foods, state):
+    """Make names unique when two different Yale dishes would look identical.
+
+    Names already carry portion and calories, so this only triggers for two
+    dishes with the same name, portion and calories but different recipes.
+    """
+    keys_by_name = {}
+    for key, entry in state.items():
+        if key not in foods:
+            keys_by_name.setdefault(entry["name"].split(" #")[0], set()).add(key)
+    for key, data in foods.items():
+        keys_by_name.setdefault(data["name"], set()).add(key)
+    for key, data in foods.items():
+        if len({k.split("@")[0] for k in keys_by_name[data["name"]]}) > 1:
+            data["name"] += f" #{key.split('@')[0]}"
+
+
+def nutrition_sig(data):
+    return hashlib.sha256(json.dumps(data["nutrients"], sort_keys=True).encode()).hexdigest()[:16]
+
+
+def migrate_legacy_state(state, foods, prefix):
+    """Re-key entries written before foods were split by portion.
+
+    Old entries are keyed by bare Yale food id. Each is moved to the version
+    it was created from (or another version of the dish if that one is gone),
+    so the existing Cronometer food is renamed and corrected, not duplicated.
+    """
+    by_id = {}
+    for key in sorted(foods):
+        by_id.setdefault(key.split("@")[0], []).append(key)
+    for nid in [k for k in state if "@" not in k]:
+        candidates = [k for k in by_id.get(nid, []) if k not in state]
+        if not candidates:
+            continue  # dish not on today's menus; migrate when it reappears
+        entry = state.pop(nid)
+
+        def legacy_fp(key):
+            data = dict(foods[key], name=entry.get("base_name") or entry["name"])
+            return fingerprint(data)
+        match = next((k for k in candidates if legacy_fp(k) == entry.get("fingerprint")),
+                     candidates[0])
+        state[match] = {"cronometer_id": entry["cronometer_id"], "name": entry["name"],
+                        "sig": None}
+
+
 def fingerprint(data):
-    """Hash of the parts of a food that matter for change detection."""
+    """Change-detection hash used by older versions of this script."""
     key = {"name": data["name"], "nutrients": data["nutrients"],
            "measures": [(m["name"], m["value"]) for m in data["measures"]]}
     return hashlib.sha256(json.dumps(key, sort_keys=True).encode()).hexdigest()[:16]
@@ -218,6 +276,10 @@ def fingerprint(data):
 
 class CronometerError(Exception):
     pass
+
+
+class FoodGone(CronometerError):
+    """The custom food no longer exists (or was deleted) in Cronometer."""
 
 
 class Cronometer:
@@ -296,6 +358,8 @@ class Cronometer:
     def update_food(self, food_id, data):
         """Update an existing custom food's name, nutrients and serving weights."""
         food = self.get_food(food_id)
+        if food.get("id") != food_id or food.get("retired"):
+            raise FoodGone(food_id)
         food.pop("messages", None)
         food["name"] = data["name"]
         food["nutrients"] = data["nutrients"]
@@ -321,38 +385,45 @@ def run(args):
     menus = list_menus(config.get("halls", "all"))
     if config.get("menus"):
         menus = [m for m in menus if m[1] in set(config["menus"])]
-    today = dt.date.today()
+    today = dt.datetime.now(ZoneInfo("America/New_York")).date()  # Yale time, not the server's
     dates = [today + dt.timedelta(days=i) for i in range(int(config.get("days_ahead", 1)) + 1)]
     prefix = config.get("name_prefix", "Yale - ")
 
     foods = {}
-    seen = set()
-    skipped = 0
+    skipped = set()
     for food in fetch_foods(menus, dates):
-        if food["id"] in seen:
-            continue
-        seen.add(food["id"])
         data = build_food(food, prefix)
         if data is None:
-            skipped += 1
+            skipped.add(food["id"])
             continue
-        foods[str(food["id"])] = data
-    log.info("Found %d dishes with nutrition across %d menus (%d skipped: no nutrition/weight)",
-             len(foods), len(menus), skipped)
+        key = version_key(food)
+        # Foods arrive earliest date first, so today's label wins over tomorrow's.
+        if key in foods and nutrition_sig(foods[key]) != nutrition_sig(data):
+            log.info("%s has a different label on a later date; using today's", key)
+        foods.setdefault(key, data)
+    log.info("Found %d dishes (%d portion versions) across %d menus; %d skipped (no nutrition/weight)",
+             len({k.split("@")[0] for k in foods}), len(foods), len(menus),
+             len(skipped - {int(k.split("@")[0]) for k in foods}))
 
     state_path = args.state_dir / "synced.json"
     state = read_json(state_path, {})
-    todo = [(nid, data) for nid, data in foods.items()
-            if state.get(nid, {}).get("fingerprint") != fingerprint(data)]
+    migrate_legacy_state(state, foods, prefix)
+    disambiguate_names(foods, state)
+    todo = []
+    for key, data in foods.items():
+        entry = state.get(key)
+        if entry is None:
+            todo.append((key, data, "new"))
+        elif entry["name"] != data["name"] or entry["sig"] != nutrition_sig(data):
+            todo.append((key, data, "changed"))
     if args.limit:
         todo = todo[:args.limit]
 
     if args.dry_run:
-        for nid, data in todo:
-            action = "update" if nid in state else "create"
+        for key, data, reason in todo:
             serving = data["measures"][1]["name"]
             kcal = next(n["amount"] for n in data["nutrients"] if n["id"] == 208)
-            print(f"[{action}] {data['name']}  —  {serving}, {kcal * OZ_GRAMS / 100:.0f} kcal/oz")
+            print(f"[{reason}] {data['name']}  —  {serving}, {kcal * OZ_GRAMS / 100:.0f} kcal/oz")
         print(f"\n{len(todo)} foods would be written to Cronometer.")
         return
 
@@ -362,11 +433,16 @@ def run(args):
     crono = Cronometer(email, password, args.state_dir / "session.json")
 
     created = updated = failed = 0
-    for nid, data in todo:
+    for key, data, reason in todo:
         try:
-            if nid in state:
-                crono_id = crono.update_food(state[nid]["cronometer_id"], data)
-                updated += 1
+            if key in state:
+                try:
+                    crono_id = crono.update_food(state[key]["cronometer_id"], data)
+                    updated += 1
+                except FoodGone:
+                    log.warning("%r was deleted in Cronometer; creating it again", data["name"])
+                    crono_id = crono.save_food(data)
+                    created += 1
             else:
                 crono_id = crono.save_food(data)
                 created += 1
@@ -376,10 +452,11 @@ def run(args):
             if isinstance(exc, CronometerError) and "login failed" in str(exc).lower():
                 break
             continue
-        state[nid] = {"cronometer_id": crono_id, "name": data["name"],
-                      "fingerprint": fingerprint(data),
+        state[key] = {"cronometer_id": crono_id, "name": data["name"],
+                      "sig": nutrition_sig(data),
                       "synced_at": dt.datetime.now().isoformat(timespec="seconds")}
         write_json(state_path, state)  # save as we go so a crash never duplicates
+    write_json(state_path, state)
     log.info("Done: %d created, %d updated, %d failed, %d already up to date",
              created, updated, failed, len(foods) - len(todo))
     if failed:

@@ -2,7 +2,8 @@ name: Sync Yale menus to Cronometer
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    # Off the :00/:15/:30/:45 marks, when GitHub delays scheduled jobs most.
+    - cron: "4,19,34,49 * * * *"
   workflow_dispatch:
 
 # Never run two syncs at once, or both could create the same food.
@@ -18,9 +19,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
+      # Check out the branch tip, not the commit this run was queued at, so a
+      # run that waited behind another sees that run's sync history.
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.event.repository.default_branch }}
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -39,5 +44,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
           git commit -m "Update Cronometer sync history"
-          git pull --rebase
-          git push
+          # If this push is lost, the next run would re-create these foods.
+          for i in 1 2 3 4 5; do
+            git pull --rebase && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1
