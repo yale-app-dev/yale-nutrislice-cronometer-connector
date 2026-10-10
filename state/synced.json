@@ -275,6 +275,12 @@
     "sig": "faef0cb5162f5624",
     "synced_at": "2026-10-10T13:54:32"
   },
+  "2234853@3.53 oz": {
+    "cronometer_id": 84795646,
+    "name": "Yale - Sliced Watermelon (3.53 oz, 30 cal)",
+    "sig": "24992f6f9aa24a5a",
+    "synced_at": "2026-10-10T14:42:12"
+  },
   "2234884@5.85 oz": {
     "cronometer_id": 84769034,
     "name": "Yale - Honey-Glazed Chicken Thighs (5.85 oz, 210 cal)",
@@ -820,6 +826,12 @@
     "name": "Yale - Garlic and Chili Spiced Shrimp with Green Beans (7.15 oz, 300 cal)",
     "sig": "eaf2f93b1b2f544c",
     "synced_at": "2026-10-10T03:52:53"
+  },
+  "2235200@3.53 oz": {
+    "cronometer_id": 84795642,
+    "name": "Yale - Roasted Brussels Sprouts (3.53 oz, 80 cal)",
+    "sig": "517246119ea4f2b5",
+    "synced_at": "2026-10-10T14:42:12"
   },
   "2235201@2.52 oz": {
     "cronometer_id": 84769033,
