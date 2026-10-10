@@ -1,0 +1,4 @@
+.env
+state/session.json
+logs/
+__pycache__/

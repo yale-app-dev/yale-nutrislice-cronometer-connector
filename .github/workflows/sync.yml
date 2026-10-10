@@ -1,0 +1,43 @@
+name: Sync Yale menus to Cronometer
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+# Never run two syncs at once, or both could create the same food.
+concurrency:
+  group: cronometer-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync
+        env:
+          CRONOMETER_EMAIL: ${{ secrets.CRONOMETER_EMAIL }}
+          CRONOMETER_PASSWORD: ${{ secrets.CRONOMETER_PASSWORD }}
+        run: python yale_cronometer_sync.py
+
+      # Save sync history even if some foods failed, so nothing is re-created.
+      - name: Save sync history
+        if: always()
+        run: |
+          git add state/synced.json 2>/dev/null || exit 0
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update Cronometer sync history"
+          git pull --rebase
+          git push
