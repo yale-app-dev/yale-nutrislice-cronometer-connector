@@ -191,6 +191,12 @@
     "sig": "0f154544ecd9fc73",
     "synced_at": "2026-10-10T04:10:51"
   },
+  "2234798@7.06 oz": {
+    "cronometer_id": 84788334,
+    "name": "Yale - Vegetable Barley Soup (7.06 oz, 70 cal)",
+    "sig": "954e7a0a702bde0e",
+    "synced_at": "2026-10-10T12:33:19"
+  },
   "2234801@4.04 oz": {
     "cronometer_id": 84767129,
     "name": "Yale - Sea Salt Roasted Potato Wedges (4.04 oz, 90 cal)",
@@ -2968,6 +2974,12 @@
     "name": "Yale - Beef Pizzaiola (3.53 oz, 150 cal)",
     "sig": "5d2ae59f26008dcc",
     "synced_at": "2026-10-10T03:53:21"
+  },
+  "2462355@3.53 oz": {
+    "cronometer_id": 84788333,
+    "name": "Yale - Chicken Pozole Broth (3.53 oz, 35 cal)",
+    "sig": "5b32f85c93d07e39",
+    "synced_at": "2026-10-10T12:33:19"
   },
   "2462357@2 oz": {
     "cronometer_id": 84769148,
