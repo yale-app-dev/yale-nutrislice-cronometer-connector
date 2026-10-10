@@ -1799,6 +1799,12 @@
     "sig": "b682ce2220521ad0",
     "synced_at": "2026-10-10T04:10:44"
   },
+  "2264531@3.53 oz": {
+    "cronometer_id": 84787233,
+    "name": "Yale - Macerated Strawberries and Blueberries (3.53 oz, 50 cal)",
+    "sig": "013b7e09cf515ee8",
+    "synced_at": "2026-10-10T12:11:25"
+  },
   "2264532@1.07 oz": {
     "cronometer_id": 84767118,
     "name": "Yale - Sweetened Whipped Cream (1.07 oz, 120 cal)",
@@ -1967,6 +1973,12 @@
     "sig": "8709f1fc76c4016d",
     "synced_at": "2026-10-10T03:53:05"
   },
+  "2264581@3.53 oz": {
+    "cronometer_id": 84787232,
+    "name": "Yale - Turkey Sausage Patty (3.53 oz, 210 cal)",
+    "sig": "4619274c73399db1",
+    "synced_at": "2026-10-10T12:11:25"
+  },
   "2272538@9.53 oz": {
     "cronometer_id": 84769179,
     "name": "Yale - Tofu and Sweet Corn Curry (9.53 oz, 430 cal)",
@@ -2044,6 +2056,12 @@
     "name": "Yale - Steamed Corn (4 oz, 100 cal)",
     "sig": "2b4e0c10516f1188",
     "synced_at": "2026-10-10T03:53:54"
+  },
+  "2272560@3.53 oz": {
+    "cronometer_id": 84787231,
+    "name": "Yale - Oven Baked Sweet Potato Fries (3.53 oz, 90 cal)",
+    "sig": "787f1548fb00ebd6",
+    "synced_at": "2026-10-10T12:11:24"
   },
   "2272561@0.25 oz": {
     "cronometer_id": 84769137,
