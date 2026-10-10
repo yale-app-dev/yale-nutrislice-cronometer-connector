@@ -2555,6 +2555,12 @@
     "sig": "c4165f8ad12df0cf",
     "synced_at": "2026-10-10T03:53:52"
   },
+  "2314945@3.53 oz": {
+    "cronometer_id": 84809878,
+    "name": "Yale - Roasted Peas and Carrots (3.53 oz, 130 cal)",
+    "sig": "a5354618fce508f1",
+    "synced_at": "2026-10-10T17:53:44"
+  },
   "2314990@2 oz": {
     "cronometer_id": 84769194,
     "name": "Yale - YSC Slaw Green Papaya (2 oz, 20 cal)",
@@ -3028,6 +3034,12 @@
     "name": "Yale - Rigatoni Pasta with Pomodoro Sauce (8.25 oz, 360 cal)",
     "sig": "cb12caebee2eafe9",
     "synced_at": "2026-10-10T03:53:22"
+  },
+  "2462362@3.53 oz": {
+    "cronometer_id": 84809876,
+    "name": "Yale - Murray Chicken Tenders (3.53 oz, 260 cal)",
+    "sig": "87b2f395cfdeb0d7",
+    "synced_at": "2026-10-10T17:53:44"
   },
   "2463326@1.01 oz": {
     "cronometer_id": 84767367,
