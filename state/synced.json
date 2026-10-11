@@ -2303,6 +2303,12 @@
     "sig": "fe281928f696aa75",
     "synced_at": "2026-10-10T03:53:42"
   },
+  "2264571@3.53 oz": {
+    "cronometer_id": 84875000,
+    "name": "Yale - Cheese Blintz with Raspberry Sauce (3.53 oz, 170 cal)",
+    "sig": "40db1aef9c186940",
+    "synced_at": "2026-10-11T14:43:13"
+  },
   "2264572@0.5 oz": {
     "cronometer_id": 84767152,
     "name": "Yale - Chiptole Mayonnaise (0.5 oz, 70 cal)",
@@ -2873,6 +2879,12 @@
     "sig": "9c2e59c4a4c7d527",
     "synced_at": "2026-10-10T03:53:52"
   },
+  "2292830@3.53 oz": {
+    "cronometer_id": 84875001,
+    "name": "Yale - Coconut Ranger Cookie (3.53 oz, 0 cal)",
+    "sig": "9c2e59c4a4c7d527",
+    "synced_at": "2026-10-11T14:43:13"
+  },
   "2292837@3.53 oz": {
     "cronometer_id": 84769186,
     "name": "Yale - Pink Dot Donut (3.53 oz, 420 cal)",
@@ -3016,6 +3028,12 @@
     "name": "Yale - Strawberry Cheesecake Bar (3.16 oz, 260 cal)",
     "sig": "c4165f8ad12df0cf",
     "synced_at": "2026-10-10T03:53:52"
+  },
+  "2314917@3.53 oz": {
+    "cronometer_id": 84874998,
+    "name": "Yale - Strawberry Cheesecake Bar (3.53 oz, 290 cal)",
+    "sig": "e92154964e8e8b94",
+    "synced_at": "2026-10-11T14:43:13"
   },
   "2314945@3.53 oz": {
     "cronometer_id": 84809878,
@@ -3694,6 +3712,12 @@
     "name": "Yale - Apple Cider Blondie (2.7 oz, 280 cal)",
     "sig": "3f3d55034be9faf9",
     "synced_at": "2026-10-10T03:53:52"
+  },
+  "2456235@3.53 oz": {
+    "cronometer_id": 84874999,
+    "name": "Yale - Apple Cider Blondie (3.53 oz, 360 cal)",
+    "sig": "bd396a6673ab2671",
+    "synced_at": "2026-10-11T14:43:13"
   },
   "2456236@2.59 oz": {
     "cronometer_id": 84846501,
