@@ -1295,6 +1295,12 @@
     "sig": "f2c600e7b4eb2278",
     "synced_at": "2026-10-10T03:53:42"
   },
+  "2237730@3.53 oz": {
+    "cronometer_id": 84901263,
+    "name": "Yale - Creamy Macaroni and Cheese (3.53 oz, 250 cal)",
+    "sig": "956131f159eb089b",
+    "synced_at": "2026-10-11T19:27:55"
+  },
   "2237730@5.81 oz": {
     "cronometer_id": 84769130,
     "name": "Yale - Creamy Macaroni and Cheese (5.81 oz, 410 cal)",
@@ -2501,6 +2507,12 @@
     "sig": "c081f6ad77c77d46",
     "synced_at": "2026-10-10T03:53:19"
   },
+  "2272573@3.53 oz": {
+    "cronometer_id": 84901266,
+    "name": "Yale - Chipotle Raspberry Chicken (3.53 oz, 120 cal)",
+    "sig": "9fd634f3ec7a3ed6",
+    "synced_at": "2026-10-11T19:27:56"
+  },
   "2272573@6.07 oz": {
     "cronometer_id": 84769131,
     "name": "Yale - Chipotle Raspberry Chicken (6.07 oz, 210 cal)",
@@ -3028,6 +3040,12 @@
     "name": "Yale - Cocoa Sprinkled Donut (1.94 oz, 230 cal)",
     "sig": "94955684fdcb2d56",
     "synced_at": "2026-10-10T03:52:17"
+  },
+  "2314909@3.53 oz": {
+    "cronometer_id": 84901265,
+    "name": "Yale - Lemon Buttercream Golden Cupcakes (3.53 oz, 350 cal)",
+    "sig": "36294e472b900823",
+    "synced_at": "2026-10-11T19:27:55"
   },
   "2314909@3.97 oz": {
     "cronometer_id": 84769062,
