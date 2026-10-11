@@ -977,6 +977,12 @@
     "sig": "160f5cba36bd1078",
     "synced_at": "2026-10-10T03:53:40"
   },
+  "2235225@3.53 oz": {
+    "cronometer_id": 84875896,
+    "name": "Yale - Cage-Free Scrambled Eggs (3.53 oz, 170 cal)",
+    "sig": "d9851a40a4588bd1",
+    "synced_at": "2026-10-11T14:55:12"
+  },
   "2235225@4.08 oz": {
     "cronometer_id": 84767094,
     "name": "Yale - Cage-Free Scrambled Eggs (4.08 oz, 190 cal)",
@@ -3634,6 +3640,12 @@
     "name": "Yale - Shiitake and Jackfruit Pernil (16 oz, 750 cal)",
     "sig": "05a3c29be6b3d7cb",
     "synced_at": "2026-10-11T04:11:02"
+  },
+  "2368221@3.53 oz": {
+    "cronometer_id": 84875895,
+    "name": "Yale - Strawberry Melon Fruit Salad (3.53 oz, 35 cal)",
+    "sig": "7233fda3c7fdf1b3",
+    "synced_at": "2026-10-11T14:55:12"
   },
   "2368221@6 oz": {
     "cronometer_id": 84767099,
