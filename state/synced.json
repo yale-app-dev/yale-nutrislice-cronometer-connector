@@ -887,6 +887,12 @@
     "sig": "04aa48d4092b1d4e",
     "synced_at": "2026-10-11T04:11:09"
   },
+  "2235171@3.53 oz": {
+    "cronometer_id": 84870167,
+    "name": "Yale - Steamed Spinach (3.53 oz, 35 cal)",
+    "sig": "b5100f8a77a949de",
+    "synced_at": "2026-10-11T13:29:27"
+  },
   "2235171@4 oz": {
     "cronometer_id": 84767114,
     "name": "Yale - Steamed Spinach (4 oz, 40 cal)",
@@ -922,6 +928,12 @@
     "name": "Yale - Spicy Chili Crisp Oil (0.5 oz, 90 cal)",
     "sig": "162b909a3442d3dd",
     "synced_at": "2026-10-10T03:53:09"
+  },
+  "2235188@3.53 oz": {
+    "cronometer_id": 84870168,
+    "name": "Yale - Roasted Green Beans (3.53 oz, 50 cal)",
+    "sig": "481c2faaee1466a2",
+    "synced_at": "2026-10-11T13:29:27"
   },
   "2235195@7.15 oz": {
     "cronometer_id": 84769098,
@@ -964,6 +976,12 @@
     "name": "Yale - Cage-Free Scrambled Eggs (4.08 oz, 190 cal)",
     "sig": "7d085f981b56d96a",
     "synced_at": "2026-10-10T03:51:51"
+  },
+  "2235229@3.53 oz": {
+    "cronometer_id": 84870165,
+    "name": "Yale - 'Just Egg' Broccoli and Cheese Frittata (3.53 oz, 190 cal)",
+    "sig": "5eda81302f98a0f6",
+    "synced_at": "2026-10-11T13:29:27"
   },
   "2235229@4.61 oz": {
     "cronometer_id": 84767096,
@@ -2770,6 +2788,12 @@
     "name": "Yale - Glazed Donut (1.83 oz, 200 cal)",
     "sig": "1d90cc84e68f5ca5",
     "synced_at": "2026-10-10T03:53:27"
+  },
+  "2272695@3.53 oz": {
+    "cronometer_id": 84870166,
+    "name": "Yale - Chicken, Rice and Ginger Soup (3.53 oz, 40 cal)",
+    "sig": "2d12877026f118a2",
+    "synced_at": "2026-10-11T13:29:27"
   },
   "2272696@13.8 oz": {
     "cronometer_id": 84767374,
