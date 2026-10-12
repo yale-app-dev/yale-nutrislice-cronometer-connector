@@ -1187,6 +1187,12 @@
     "sig": "b5cdc370a9732912",
     "synced_at": "2026-10-10T03:51:57"
   },
+  "2235234@3.53 oz": {
+    "cronometer_id": 84959211,
+    "name": "Yale - Orange Julius Smoothie 6.23.26 (3.53 oz, 40 cal)",
+    "sig": "329cf45e4cafb083",
+    "synced_at": "2026-10-12T11:47:40"
+  },
   "2235234@4.94 oz": {
     "cronometer_id": 84767125,
     "name": "Yale - Orange Julius Smoothie 6.23.26 (4.94 oz, 60 cal)",
@@ -2237,6 +2243,12 @@
     "sig": "41ddd40691a2919d",
     "synced_at": "2026-10-10T03:51:58"
   },
+  "2264498@3.53 oz": {
+    "cronometer_id": 84959210,
+    "name": "Yale - Blueberry Bagel (3.53 oz, 260 cal)",
+    "sig": "2fbc1a67de4a120f",
+    "synced_at": "2026-10-12T11:47:40"
+  },
   "2264499@2 oz": {
     "cronometer_id": 84767397,
     "name": "Yale - Wheat English Muffin (2 oz, 120 cal)",
@@ -2290,6 +2302,12 @@
     "name": "Yale - Parmesan Cheese (1 oz, 110 cal)",
     "sig": "4ca580f7490749db",
     "synced_at": "2026-10-10T03:52:44"
+  },
+  "2264507@3.53 oz": {
+    "cronometer_id": 84959208,
+    "name": "Yale - Shredded Hash Brown (3.53 oz, 130 cal)",
+    "sig": "9024e7c68ef7e11d",
+    "synced_at": "2026-10-12T11:47:39"
   },
   "2264507@4 oz": {
     "cronometer_id": 84846510,
@@ -3053,6 +3071,12 @@
     "sig": "efcb4b702f368ec2",
     "synced_at": "2026-10-11T04:11:05"
   },
+  "2272633@3.53 oz": {
+    "cronometer_id": 84959212,
+    "name": "Yale - 'Just Egg' Soy Chorizo Vegetable Frittata (3.53 oz, 230 cal)",
+    "sig": "232953816e54a65a",
+    "synced_at": "2026-10-12T11:47:40"
+  },
   "2272633@4.54 oz": {
     "cronometer_id": 84767308,
     "name": "Yale - 'Just Egg' Soy Chorizo Vegetable Frittata (4.54 oz, 290 cal)",
@@ -3100,6 +3124,12 @@
     "name": "Yale - Artisan Bakery French Toast Casserole (5.62 oz, 470 cal)",
     "sig": "b35e60922be56d37",
     "synced_at": "2026-10-10T03:53:25"
+  },
+  "2272656@3.53 oz": {
+    "cronometer_id": 84959209,
+    "name": "Yale - Eggs Benedict Strata (3.53 oz, 300 cal)",
+    "sig": "9139c7f7b8b47bd5",
+    "synced_at": "2026-10-12T11:47:39"
   },
   "2272662@8.25 oz": {
     "cronometer_id": 84769121,
