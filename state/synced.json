@@ -59,6 +59,12 @@
     "sig": "1b636cb7aebac684",
     "synced_at": "2026-10-10T03:52:55"
   },
+  "2234732@3.53 oz": {
+    "cronometer_id": 84966025,
+    "name": "Yale - Cheese and Butternut Squash Lasagna (3.53 oz, 190 cal)",
+    "sig": "ac73b9f126c4c6a3",
+    "synced_at": "2026-10-12T13:28:50"
+  },
   "2234732@7.41 oz": {
     "cronometer_id": 84767142,
     "name": "Yale - Cheese and Butternut Squash Lasagna (7.41 oz, 390 cal)",
@@ -1066,6 +1072,12 @@
     "name": "Yale - Romaine Lettuce (4 oz, 20 cal)",
     "sig": "bcce021477a17236",
     "synced_at": "2026-10-11T04:11:06"
+  },
+  "2235174@3.53 oz": {
+    "cronometer_id": 84966026,
+    "name": "Yale - Chicken Chili Silliman (3.53 oz, 90 cal)",
+    "sig": "b2bb9d38fc37c4cb",
+    "synced_at": "2026-10-12T13:28:51"
   },
   "2235174@4 oz": {
     "cronometer_id": 84769174,
