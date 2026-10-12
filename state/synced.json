@@ -359,6 +359,12 @@
     "sig": "532c1cf6e317c0bd",
     "synced_at": "2026-10-11T04:11:11"
   },
+  "2234833@3.53 oz": {
+    "cronometer_id": 84963484,
+    "name": "Yale - Butter Pecan Cookie (3.53 oz, 470 cal)",
+    "sig": "4f1dd12052d7ba83",
+    "synced_at": "2026-10-12T12:52:11"
+  },
   "2234835@1 oz": {
     "cronometer_id": 84769024,
     "name": "Yale - Chunky Salsa (1 oz, 0 cal)",
@@ -838,6 +844,12 @@
     "name": "Yale - Lite Soy Sauce (0.5 oz, 10 cal)",
     "sig": "6af8908f3a249d6e",
     "synced_at": "2026-10-10T03:52:45"
+  },
+  "2235088@3.53 oz": {
+    "cronometer_id": 84963483,
+    "name": "Yale - Cream Cheese Brownies (3.53 oz, 390 cal)",
+    "sig": "754196051b6c901d",
+    "synced_at": "2026-10-12T12:52:11"
   },
   "2235123@1 oz": {
     "cronometer_id": 84767176,
@@ -2542,6 +2554,12 @@
     "name": "Yale - Ham and Cheese Egg Bite (4.17 oz, 870 cal)",
     "sig": "8420bca053efd5ee",
     "synced_at": "2026-10-12T04:00:53"
+  },
+  "2264545@3.53 oz": {
+    "cronometer_id": 84963482,
+    "name": "Yale - Mojo Beef (3.53 oz, 230 cal)",
+    "sig": "b59f52514525be4a",
+    "synced_at": "2026-10-12T12:52:11"
   },
   "2264546@3.98 oz": {
     "cronometer_id": 84846554,
