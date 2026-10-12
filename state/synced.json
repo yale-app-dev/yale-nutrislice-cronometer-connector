@@ -287,6 +287,12 @@
     "sig": "25026f9187990b31",
     "synced_at": "2026-10-12T04:00:49"
   },
+  "2234785@3.53 oz": {
+    "cronometer_id": 85004718,
+    "name": "Yale - Crispy Tofu Bites (3.53 oz, 210 cal)",
+    "sig": "074e434cf0817a41",
+    "synced_at": "2026-10-12T20:12:32"
+  },
   "2234785@4 oz": {
     "cronometer_id": 84846541,
     "name": "Yale - Crispy Tofu Bites (4 oz, 240 cal)",
@@ -1151,6 +1157,12 @@
     "sig": "ed4c486d8d40efe5",
     "synced_at": "2026-10-10T03:52:00"
   },
+  "2235201@3.53 oz": {
+    "cronometer_id": 85004716,
+    "name": "Yale - Steamed Carrots (3.53 oz, 45 cal)",
+    "sig": "3350e6723aff0088",
+    "synced_at": "2026-10-12T20:12:31"
+  },
   "2235203@6.35 oz": {
     "cronometer_id": 84939025,
     "name": "Yale - Chicken Carnitas Tacos (6.35 oz, 210 cal)",
@@ -1900,6 +1912,12 @@
     "name": "Yale - Roasted Sweet Potato (1 oz, 60 cal)",
     "sig": "7833a219225e2ced",
     "synced_at": "2026-10-10T03:52:13"
+  },
+  "2264395@3.53 oz": {
+    "cronometer_id": 85004717,
+    "name": "Yale - Roasted Sweet Potato (3.53 oz, 210 cal)",
+    "sig": "ce27cbb2ffd6acb2",
+    "synced_at": "2026-10-12T20:12:32"
   },
   "2264398@11.8 oz": {
     "cronometer_id": 84767339,
@@ -4387,9 +4405,9 @@
   },
   "2456246@4.14 oz": {
     "cronometer_id": 84846496,
-    "name": "Yale - Blue Corn Pancakes (4.14 oz, 360 cal)",
+    "name": "Yale - Corn Pancakes (4.14 oz, 360 cal)",
     "sig": "2ba541d62ba589d2",
-    "synced_at": "2026-10-11T04:10:47"
+    "synced_at": "2026-10-12T20:12:31"
   },
   "2456247@4 oz": {
     "cronometer_id": 84846497,
