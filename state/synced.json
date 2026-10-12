@@ -3137,6 +3137,12 @@
     "sig": "eb1e248764929a85",
     "synced_at": "2026-10-10T03:53:33"
   },
+  "2272621@3.53 oz": {
+    "cronometer_id": 85009825,
+    "name": "Yale - Pork Sausage with Onions and Peppers (3.53 oz, 180 cal)",
+    "sig": "3c8d3b2f7fbbe7bc",
+    "synced_at": "2026-10-12T21:10:07"
+  },
   "2272621@5 oz": {
     "cronometer_id": 84846504,
     "name": "Yale - Pork Sausage with Onions and Peppers (5 oz, 260 cal)",
@@ -3148,6 +3154,12 @@
     "name": "Yale - Roasted Eggplant with Salsa Verde (5.91 oz, 250 cal)",
     "sig": "e11cc365b5580a4d",
     "synced_at": "2026-10-11T04:10:50"
+  },
+  "2272623@3.53 oz": {
+    "cronometer_id": 85009826,
+    "name": "Yale - Baked Penne Pasta (3.53 oz, 100 cal)",
+    "sig": "da53b0b520ce62a0",
+    "synced_at": "2026-10-12T21:10:07"
   },
   "2272623@4.11 oz": {
     "cronometer_id": 84846507,
