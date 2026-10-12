@@ -1811,6 +1811,12 @@
     "sig": "f11d8b0f9707eebd",
     "synced_at": "2026-10-10T03:52:10"
   },
+  "2264382@3.53 oz": {
+    "cronometer_id": 84974826,
+    "name": "Yale - Cream of Broccoli Soup (3.53 oz, 80 cal)",
+    "sig": "ac603f48b263462e",
+    "synced_at": "2026-10-12T15:22:46"
+  },
   "2264382@7.2 oz": {
     "cronometer_id": 84939019,
     "name": "Yale - Cream of Broccoli Soup (7.2 oz, 160 cal)",
@@ -3760,6 +3766,12 @@
     "name": "Yale - Capers (0.05 oz, 0 cal)",
     "sig": "2aaf203318af3a26",
     "synced_at": "2026-10-10T03:53:46"
+  },
+  "2350755@3.53 oz": {
+    "cronometer_id": 84974825,
+    "name": "Yale - Pepperoni Pizza (3.53 oz, 240 cal)",
+    "sig": "8864677991232d38",
+    "synced_at": "2026-10-12T15:22:46"
   },
   "2354674@3.53 oz": {
     "cronometer_id": 84820572,
