@@ -4709,6 +4709,12 @@
     "sig": "8773d6163ef38837",
     "synced_at": "2026-10-13T02:50:27"
   },
+  "2369941@18 oz": {
+    "cronometer_id": 85070816,
+    "name": "Yale - Shrimp and Sweet Corn Coconut Curry with Jasmine Rice (18 oz, 1010 cal)",
+    "sig": "ec47a0061209341d",
+    "synced_at": "2026-10-13T14:04:39"
+  },
   "2369942@10.5 oz": {
     "cronometer_id": 84846544,
     "name": "Yale - Tofu and Sweet Corn Coconut Curry with Jasmine Rice (10.5 oz, 690 cal)",
@@ -4720,6 +4726,12 @@
     "name": "Yale - Tofu and Sweet Corn Coconut Curry with Jasmine Rice (15 oz, 980 cal)",
     "sig": "6e5bd4e176ec8a48",
     "synced_at": "2026-10-13T02:50:28"
+  },
+  "2369942@18 oz": {
+    "cronometer_id": 85070818,
+    "name": "Yale - Tofu and Sweet Corn Coconut Curry with Jasmine Rice (18 oz, 1170 cal)",
+    "sig": "8391809b10f034dc",
+    "synced_at": "2026-10-13T14:04:40"
   },
   "2369944@8.7 oz": {
     "cronometer_id": 84846533,
@@ -4936,6 +4948,12 @@
     "name": "Yale - Chicken and Sweet Corn Coconut Curry with Jasmine Rice (15 oz, 900 cal)",
     "sig": "30efdcb06c8b4492",
     "synced_at": "2026-10-13T02:50:28"
+  },
+  "2468362@18 oz": {
+    "cronometer_id": 85070820,
+    "name": "Yale - Chicken and Sweet Corn Coconut Curry with Jasmine Rice (18 oz, 1080 cal)",
+    "sig": "4819347533e9fde5",
+    "synced_at": "2026-10-13T14:04:40"
   },
   "2468363@4 oz": {
     "cronometer_id": 85042645,
