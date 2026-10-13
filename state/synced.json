@@ -3329,6 +3329,12 @@
     "sig": "d1c55c2e36d859b4",
     "synced_at": "2026-10-10T03:53:55"
   },
+  "2272591@3.53 oz": {
+    "cronometer_id": 85073009,
+    "name": "Yale - Cheese Dip Nacho Seven Layer (3.53 oz, 120 cal)",
+    "sig": "42d69c0f0f1b8dad",
+    "synced_at": "2026-10-13T14:35:59"
+  },
   "2272591@4.07 oz": {
     "cronometer_id": 84767322,
     "name": "Yale - Cheese Dip Nacho Seven Layer (4.07 oz, 140 cal)",
@@ -4810,6 +4816,12 @@
     "name": "Yale - Wojapi Sauce (1 oz, 20 cal)",
     "sig": "7c40fa7a943182c6",
     "synced_at": "2026-10-11T04:10:49"
+  },
+  "2456241@3.53 oz": {
+    "cronometer_id": 85073007,
+    "name": "Yale - Bison Stew with Sunchokes and Juniper IDP 26 (3.53 oz, 90 cal)",
+    "sig": "f3b0182fc85a59e9",
+    "synced_at": "2026-10-13T14:35:59"
   },
   "2456241@8.09 oz": {
     "cronometer_id": 84846490,
