@@ -3107,6 +3107,12 @@
     "sig": "1d737ea06c2d615e",
     "synced_at": "2026-10-10T03:53:41"
   },
+  "2272545@3.53 oz": {
+    "cronometer_id": 85085727,
+    "name": "Yale - Jackfruit Chili (3.53 oz, 50 cal)",
+    "sig": "5c49559f4ed84cd4",
+    "synced_at": "2026-10-13T17:02:40"
+  },
   "2272545@4 oz": {
     "cronometer_id": 84769135,
     "name": "Yale - Jackfruit Chili (4 oz, 60 cal)",
@@ -4198,6 +4204,12 @@
     "name": "Yale - Shrimp and Sausage Gumbo (12 oz, 200 cal)",
     "sig": "b71d2d01a6dcf465",
     "synced_at": "2026-10-12T04:00:52"
+  },
+  "2325532@3.53 oz": {
+    "cronometer_id": 85085726,
+    "name": "Yale - Rigatoni and Fennel Sausage Ragu (3.53 oz, 240 cal)",
+    "sig": "3ae80eeb828e9112",
+    "synced_at": "2026-10-13T17:02:40"
   },
   "2326686@39.4 oz": {
     "cronometer_id": 84767139,
