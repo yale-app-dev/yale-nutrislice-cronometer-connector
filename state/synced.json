@@ -1889,6 +1889,12 @@
     "sig": "a5c2bbf24d6d8afc",
     "synced_at": "2026-10-10T03:52:57"
   },
+  "2264361@3.53 oz": {
+    "cronometer_id": 85078543,
+    "name": "Yale - Mediterranean Bowl (3.53 oz, 60 cal)",
+    "sig": "fee51ce8a6330d1f",
+    "synced_at": "2026-10-13T15:47:53"
+  },
   "2264362@14.8 oz": {
     "cronometer_id": 84767335,
     "name": "Yale - Tex-Mex Bowl (14.8 oz, 610 cal)",
@@ -2908,6 +2914,12 @@
     "name": "Yale - Blueberry Granola Overnight Oat Parfait (3.57 oz, 140 cal)",
     "sig": "1dd108b2085b01a9",
     "synced_at": "2026-10-10T03:52:51"
+  },
+  "2264562@3.53 oz": {
+    "cronometer_id": 85078542,
+    "name": "Yale - Raspberry Yogurt Parfait with Granola (3.53 oz, 130 cal)",
+    "sig": "5bc83ca63764ae12",
+    "synced_at": "2026-10-13T15:47:52"
   },
   "2264562@5.23 oz": {
     "cronometer_id": 84939021,
