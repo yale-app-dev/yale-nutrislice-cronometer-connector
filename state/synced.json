@@ -491,6 +491,12 @@
     "sig": "32a79876541c9d25",
     "synced_at": "2026-10-14T04:11:42"
   },
+  "2234818@3.53 oz": {
+    "cronometer_id": 85172349,
+    "name": "Yale - Rockefeller Oyster Mushroom (3.53 oz, 130 cal)",
+    "sig": "65288bb29361dcd5",
+    "synced_at": "2026-10-14T15:34:52"
+  },
   "2234818@4.05 oz": {
     "cronometer_id": 84939050,
     "name": "Yale - Rockefeller Oyster Mushroom (4.05 oz, 150 cal)",
@@ -2969,6 +2975,12 @@
     "sig": "174438dbbb476e13",
     "synced_at": "2026-10-10T04:11:01"
   },
+  "2264530@3.53 oz": {
+    "cronometer_id": 85172348,
+    "name": "Yale - Roasted Asparagus (3.53 oz, 45 cal)",
+    "sig": "308c87858fab4f2a",
+    "synced_at": "2026-10-14T15:34:52"
+  },
   "2264530@4.12 oz": {
     "cronometer_id": 84767358,
     "name": "Yale - Roasted Asparagus (4.12 oz, 50 cal)",
@@ -3466,6 +3478,12 @@
     "name": "Yale - Chicken Katsu Bowl (12.5 oz, 670 cal)",
     "sig": "976faed927d1e019",
     "synced_at": "2026-10-11T04:11:09"
+  },
+  "2272558@3.53 oz": {
+    "cronometer_id": 85172347,
+    "name": "Yale - Steamed Corn (3.53 oz, 90 cal)",
+    "sig": "7c1e3974a8ade477",
+    "synced_at": "2026-10-14T15:34:52"
   },
   "2272558@4 oz": {
     "cronometer_id": 84767320,
