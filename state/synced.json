@@ -341,6 +341,12 @@
     "sig": "aecd7bf361b13b6c",
     "synced_at": "2026-10-10T03:53:23"
   },
+  "2234778@3.53 oz": {
+    "cronometer_id": 85169873,
+    "name": "Yale - Steamed Cauliflower (3.53 oz, 25 cal)",
+    "sig": "153829141c49fbb3",
+    "synced_at": "2026-10-14T15:02:58"
+  },
   "2234778@4 oz": {
     "cronometer_id": 84767313,
     "name": "Yale - Steamed Cauliflower (4 oz, 30 cal)",
@@ -400,6 +406,12 @@
     "name": "Yale - Spiced Naan (2.48 oz, 250 cal)",
     "sig": "aa257cb63dd4a177",
     "synced_at": "2026-10-14T04:11:39"
+  },
+  "2234794@3.53 oz": {
+    "cronometer_id": 85169875,
+    "name": "Yale - Basmati Rice (3.53 oz, 210 cal)",
+    "sig": "85584054449adbea",
+    "synced_at": "2026-10-14T15:02:59"
   },
   "2234794@3.56 oz": {
     "cronometer_id": 85138552,
@@ -3652,6 +3664,12 @@
     "name": "Yale - Black Olives (0.5 oz, 20 cal)",
     "sig": "1665c9e82e4f69a7",
     "synced_at": "2026-10-10T03:53:57"
+  },
+  "2272596@3.53 oz": {
+    "cronometer_id": 85169874,
+    "name": "Yale - Chicken Scarpariello (3.53 oz, 150 cal)",
+    "sig": "5a56dde413c647b3",
+    "synced_at": "2026-10-14T15:02:58"
   },
   "2272596@4.42 oz": {
     "cronometer_id": 84767140,
