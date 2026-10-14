@@ -3005,6 +3005,12 @@
     "sig": "7c1686afa1c7f7a9",
     "synced_at": "2026-10-10T04:11:02"
   },
+  "2264539@3.53 oz": {
+    "cronometer_id": 85154904,
+    "name": "Yale - Challah French Toast (3.53 oz, 210 cal)",
+    "sig": "1b727b66b2ec9d27",
+    "synced_at": "2026-10-14T11:11:17"
+  },
   "2264539@6.95 oz": {
     "cronometer_id": 84767112,
     "name": "Yale - Challah French Toast (6.95 oz, 410 cal)",
@@ -3022,6 +3028,12 @@
     "name": "Yale - Milk Chocolate (8 oz, 0 cal)",
     "sig": "9c2e59c4a4c7d527",
     "synced_at": "2026-10-10T04:10:47"
+  },
+  "2264541@3.53 oz": {
+    "cronometer_id": 85154905,
+    "name": "Yale - Chicken Sausage (3.53 oz, 140 cal)",
+    "sig": "734682f3db47a3fb",
+    "synced_at": "2026-10-14T11:11:17"
   },
   "2264542@9 oz": {
     "cronometer_id": 84767371,
