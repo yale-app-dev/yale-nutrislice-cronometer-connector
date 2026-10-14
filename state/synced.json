@@ -1439,6 +1439,12 @@
     "sig": "160f5cba36bd1078",
     "synced_at": "2026-10-10T03:53:40"
   },
+  "2235220@3.53 oz": {
+    "cronometer_id": 85193487,
+    "name": "Yale - Shoestring French Fries (3.53 oz, 170 cal)",
+    "sig": "684ebb647c567709",
+    "synced_at": "2026-10-14T19:27:37"
+  },
   "2235222@1 oz": {
     "cronometer_id": 84939036,
     "name": "Yale - Duck Sauce (1 oz, 45 cal)",
@@ -2038,6 +2044,12 @@
     "name": "Yale - Meatless Meatballs in Marinara Sauce (8 oz, 280 cal)",
     "sig": "2e5f79c415506da4",
     "synced_at": "2026-10-10T03:53:34"
+  },
+  "2261055@3.53 oz": {
+    "cronometer_id": 85193486,
+    "name": "Yale - Oven Baked Tater Tots (3.53 oz, 260 cal)",
+    "sig": "ff8f36775e4000fd",
+    "synced_at": "2026-10-14T19:27:37"
   },
   "2264348@3.53 oz": {
     "cronometer_id": 85106161,
