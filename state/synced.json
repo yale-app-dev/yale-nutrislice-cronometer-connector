@@ -4154,8 +4154,8 @@
   "2315010@17 oz": {
     "cronometer_id": 84846564,
     "name": "Yale - Pesto Rosso Chicken Pasta (17 oz, 780 cal)",
-    "sig": "1074767fc6d1771e",
-    "synced_at": "2026-10-11T04:11:02"
+    "sig": "2f31b34f2448e3d3",
+    "synced_at": "2026-10-14T03:09:12"
   },
   "2320958@1 oz": {
     "cronometer_id": 84767299,
@@ -5074,5 +5074,11 @@
     "name": "Yale - Chicken Empanadas with Aguacate (9 oz, 410 cal)",
     "sig": "94af19f9cb327c16",
     "synced_at": "2026-10-13T04:13:03"
+  },
+  "2471567@6 oz": {
+    "cronometer_id": 85135703,
+    "name": "Yale - Hot Chocolate Bulk (6 oz, 630 cal)",
+    "sig": "7b5c63a10362ec9c",
+    "synced_at": "2026-10-14T03:09:12"
   }
 }
