@@ -1279,9 +1279,9 @@
   },
   "2235168@3.53 oz": {
     "cronometer_id": 84769161,
-    "name": "Yale - Crispy Falafel (3.53 oz, 260 cal)",
+    "name": "Yale - Crispy Falafel (3.53 oz, 260 cal) #2235168",
     "sig": "b7141609544e6c27",
-    "synced_at": "2026-10-10T03:53:18"
+    "synced_at": "2026-10-15T14:50:07"
   },
   "2235169@8.66 oz": {
     "cronometer_id": 84846595,
@@ -3640,6 +3640,12 @@
     "name": "Yale - Bulgogi Peanut Bowl (12.7 oz, 480 cal)",
     "sig": "d2453174ed531c58",
     "synced_at": "2026-10-13T04:13:04"
+  },
+  "2272569@3.53 oz": {
+    "cronometer_id": 85257271,
+    "name": "Yale - Chermoula Salmon (3.53 oz, 230 cal)",
+    "sig": "ba4d7b6a1a6d6d24",
+    "synced_at": "2026-10-15T14:50:07"
   },
   "2272569@4.55 oz": {
     "cronometer_id": 85042602,
