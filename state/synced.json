@@ -2489,6 +2489,12 @@
     "sig": "08476dcab32deee0",
     "synced_at": "2026-10-15T03:09:32"
   },
+  "2264442@3.53 oz": {
+    "cronometer_id": 85259716,
+    "name": "Yale - Cream of Mushroom Soup (3.53 oz, 120 cal)",
+    "sig": "dde59d2abe93c384",
+    "synced_at": "2026-10-15T15:26:56"
+  },
   "2264442@7 oz": {
     "cronometer_id": 85138565,
     "name": "Yale - Cream of Mushroom Soup (7 oz, 250 cal)",
@@ -4265,6 +4271,12 @@
     "sig": "be3a750454b2e5ee",
     "synced_at": "2026-10-10T03:53:37"
   },
+  "2272726@3.53 oz": {
+    "cronometer_id": 85259717,
+    "name": "Yale - Cajun-Spiced Shrimp (3.53 oz, 80 cal)",
+    "sig": "fe752c6e5b310b21",
+    "synced_at": "2026-10-15T15:26:56"
+  },
   "2288148@8 oz": {
     "cronometer_id": 84769156,
     "name": "Yale - Crispy Chicken Caesar Salad Wrap (8 oz, 610 cal)",
@@ -4984,6 +4996,12 @@
     "name": "Yale - Creamy Tomato Soup (12 oz, 110 cal)",
     "sig": "cff24cc1bf9556c3",
     "synced_at": "2026-10-10T03:53:33"
+  },
+  "2354739@3.53 oz": {
+    "cronometer_id": 85259714,
+    "name": "Yale - Creamy Tomato Soup (3.53 oz, 35 cal)",
+    "sig": "0f56cf148c8c9b2a",
+    "synced_at": "2026-10-15T15:26:56"
   },
   "2354747@9.3 oz": {
     "cronometer_id": 84846573,
