@@ -1733,6 +1733,12 @@
     "sig": "0d514b499272394d",
     "synced_at": "2026-10-12T04:00:53"
   },
+  "2235273@3.53 oz": {
+    "cronometer_id": 85329277,
+    "name": "Yale - Rosemary Garlic Hashbrown Egg Bite (3.53 oz, 190 cal)",
+    "sig": "aa558d68657c7555",
+    "synced_at": "2026-10-16T12:09:17"
+  },
   "2235274@5.56 oz": {
     "cronometer_id": 84767123,
     "name": "Yale - Waffles (5.56 oz, 280 cal)",
@@ -4294,6 +4300,12 @@
     "name": "Yale - Glazed Donut (1.83 oz, 200 cal)",
     "sig": "1d90cc84e68f5ca5",
     "synced_at": "2026-10-10T03:53:27"
+  },
+  "2272694@3.53 oz": {
+    "cronometer_id": 85329278,
+    "name": "Yale - Glazed Donut (3.53 oz, 390 cal)",
+    "sig": "49e5a45934a2f54f",
+    "synced_at": "2026-10-16T12:09:17"
   },
   "2272695@3.53 oz": {
     "cronometer_id": 84870166,
