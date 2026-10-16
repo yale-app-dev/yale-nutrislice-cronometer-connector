@@ -3965,6 +3965,12 @@
     "sig": "51f721e06a9ba0d6",
     "synced_at": "2026-10-14T04:11:39"
   },
+  "2272613@3.53 oz": {
+    "cronometer_id": 85357006,
+    "name": "Yale - Kalmi Curry Chicken (3.53 oz, 180 cal)",
+    "sig": "e464ba01c66b0c3f",
+    "synced_at": "2026-10-16T19:14:11"
+  },
   "2272613@9.25 oz": {
     "cronometer_id": 85138547,
     "name": "Yale - Kalmi Curry Chicken (9.25 oz, 460 cal)",
@@ -4930,6 +4936,12 @@
     "name": "Yale - Mozzarella Flatbread Pizza (4.67 oz, 330 cal)",
     "sig": "cc6bfac3d28b8b65",
     "synced_at": "2026-10-10T03:53:07"
+  },
+  "2354675@3.53 oz": {
+    "cronometer_id": 85357007,
+    "name": "Yale - Appetizer Pakora (3.53 oz, 110 cal)",
+    "sig": "1b37226222c1f34b",
+    "synced_at": "2026-10-16T19:14:11"
   },
   "2354675@4.23 oz": {
     "cronometer_id": 85138555,
