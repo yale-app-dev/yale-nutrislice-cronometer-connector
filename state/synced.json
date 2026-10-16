@@ -29,6 +29,12 @@
     "sig": "05bd3e1aef0a7a99",
     "synced_at": "2026-10-10T03:52:00"
   },
+  "2234714@3.53 oz": {
+    "cronometer_id": 85363549,
+    "name": "Yale - Sauteed Bok Choy with Ginger (3.53 oz, 35 cal)",
+    "sig": "03dad6c17672a001",
+    "synced_at": "2026-10-16T20:56:54"
+  },
   "2234715@3 oz": {
     "cronometer_id": 85229203,
     "name": "Yale - Sauteed Spinach with Garlic (3 oz, 60 cal)",
@@ -490,6 +496,12 @@
     "name": "Yale - Baked Ziti (4.78 oz, 240 cal)",
     "sig": "88861fa1e857b146",
     "synced_at": "2026-10-10T03:53:34"
+  },
+  "2234811@3.53 oz": {
+    "cronometer_id": 85363550,
+    "name": "Yale - Roasted Green Squash with Herbs (3.53 oz, 45 cal)",
+    "sig": "a4237eed0de62b6b",
+    "synced_at": "2026-10-16T20:56:55"
   },
   "2234811@5 oz": {
     "cronometer_id": 85042632,
