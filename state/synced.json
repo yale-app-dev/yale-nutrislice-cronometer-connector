@@ -1937,6 +1937,12 @@
     "sig": "8500a8f99401eefc",
     "synced_at": "2026-10-12T12:04:37"
   },
+  "2235425@3.53 oz": {
+    "cronometer_id": 85335696,
+    "name": "Yale - Basmati Rice (3.53 oz, 210 cal) #2235425",
+    "sig": "eff286cbfee394d0",
+    "synced_at": "2026-10-16T14:09:39"
+  },
   "2236648@1 oz": {
     "cronometer_id": 84769286,
     "name": "Yale - Portuguese Roll (1 oz, 60 cal)",
@@ -3353,6 +3359,12 @@
     "sig": "7234182b89dacac3",
     "synced_at": "2026-10-14T04:11:41"
   },
+  "2264566@3.53 oz": {
+    "cronometer_id": 85335698,
+    "name": "Yale - Vegetable Samosa (3.53 oz, 220 cal)",
+    "sig": "7f5b37887e8ff80d",
+    "synced_at": "2026-10-16T14:09:39"
+  },
   "2264567@1.5 oz": {
     "cronometer_id": 84767148,
     "name": "Yale - Kettle Chips (1.5 oz, 230 cal)",
@@ -3869,6 +3881,12 @@
     "sig": "1cbccb041f7c878f",
     "synced_at": "2026-10-12T04:00:48"
   },
+  "2272604@3.53 oz": {
+    "cronometer_id": 85335694,
+    "name": "Yale - Steamed Vegetables (3.53 oz, 45 cal)",
+    "sig": "36995c20ea1a9cca",
+    "synced_at": "2026-10-16T14:09:39"
+  },
   "2272604@4 oz": {
     "cronometer_id": 84939035,
     "name": "Yale - Steamed Vegetables (4 oz, 50 cal)",
@@ -3910,6 +3928,12 @@
     "name": "Yale - Crispy Fried Onion (1 oz, 160 cal)",
     "sig": "e6036dd161f43500",
     "synced_at": "2026-10-10T03:52:49"
+  },
+  "2272612@3.53 oz": {
+    "cronometer_id": 85335695,
+    "name": "Yale - Herb and Honey Roasted Salmon (3.53 oz, 210 cal)",
+    "sig": "5340ea39e4a73058",
+    "synced_at": "2026-10-16T14:09:39"
   },
   "2272612@6.74 oz": {
     "cronometer_id": 85138546,
