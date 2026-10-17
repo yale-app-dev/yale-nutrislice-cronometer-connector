@@ -143,6 +143,12 @@
     "sig": "8971191b87354f26",
     "synced_at": "2026-10-10T03:52:03"
   },
+  "2234742@3.53 oz": {
+    "cronometer_id": 85431834,
+    "name": "Yale - Corn Casserole (3.53 oz, 200 cal)",
+    "sig": "8538ca4ea7a2bd70",
+    "synced_at": "2026-10-17T19:06:34"
+  },
   "2234742@3.96 oz": {
     "cronometer_id": 84939051,
     "name": "Yale - Corn Casserole (3.96 oz, 230 cal)",
@@ -1510,6 +1516,12 @@
     "name": "Yale - Buffalo Sauce (1.5 oz, 0 cal)",
     "sig": "bf2d5179fba747d8",
     "synced_at": "2026-10-14T04:11:37"
+  },
+  "2235218@3.53 oz": {
+    "cronometer_id": 85431836,
+    "name": "Yale - Oven-Roasted Chicken with Tailgate Pepper Sauce (3.53 oz, 260 cal)",
+    "sig": "e490df4dc83d3577",
+    "synced_at": "2026-10-17T19:06:35"
   },
   "2235218@5.24 oz": {
     "cronometer_id": 85229192,
@@ -4343,6 +4355,12 @@
     "sig": "c90afbd740b39fb3",
     "synced_at": "2026-10-10T03:53:49"
   },
+  "2272672@3.53 oz": {
+    "cronometer_id": 85431835,
+    "name": "Yale - Celery (3.53 oz, 15 cal)",
+    "sig": "0e6615c2067a5bda",
+    "synced_at": "2026-10-17T19:06:35"
+  },
   "2272673@2 oz": {
     "cronometer_id": 84767135,
     "name": "Yale - Blue Cheese Dip (2 oz, 200 cal)",
@@ -5404,6 +5422,12 @@
     "name": "Yale - Crumbled Bacon (1 oz, 110 cal)",
     "sig": "bb8967957b6c14c2",
     "synced_at": "2026-10-11T04:11:08"
+  },
+  "2357149@3.53 oz": {
+    "cronometer_id": 85431837,
+    "name": "Yale - Crumbled Bacon (3.53 oz, 400 cal)",
+    "sig": "62fa378f39a41272",
+    "synced_at": "2026-10-17T19:06:35"
   },
   "2357150@2 oz": {
     "cronometer_id": 84846591,
