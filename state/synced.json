@@ -251,6 +251,12 @@
     "sig": "f4762b2d952a74a4",
     "synced_at": "2026-10-11T04:11:07"
   },
+  "2234762@3.53 oz": {
+    "cronometer_id": 85441129,
+    "name": "Yale - Cheddar Cheese (3.53 oz, 390 cal)",
+    "sig": "9b247a7c705bdd21",
+    "synced_at": "2026-10-17T21:24:56"
+  },
   "2234763@1 oz": {
     "cronometer_id": 84767315,
     "name": "Yale - Sour Cream (1 oz, 60 cal)",
@@ -1127,6 +1133,18 @@
     "sig": "030f81550a9d3ca6",
     "synced_at": "2026-10-10T03:52:13"
   },
+  "2235123@3.53 oz": {
+    "cronometer_id": 85441131,
+    "name": "Yale - Classic Smooth Hummus (3.53 oz, 270 cal)",
+    "sig": "e36ec6158379b8c3",
+    "synced_at": "2026-10-17T21:24:56"
+  },
+  "2235124@3.53 oz": {
+    "cronometer_id": 85441133,
+    "name": "Yale - Roasted Tofu (3.53 oz, 160 cal)",
+    "sig": "960edf77940193f8",
+    "synced_at": "2026-10-17T21:24:57"
+  },
   "2235124@3.73 oz": {
     "cronometer_id": 84767177,
     "name": "Yale - Roasted Tofu (3.73 oz, 160 cal)",
@@ -1139,11 +1157,23 @@
     "sig": "3f83aa0aa4cfce0e",
     "synced_at": "2026-10-10T03:52:14"
   },
+  "2235125@3.53 oz": {
+    "cronometer_id": 85441132,
+    "name": "Yale - Edamame (3.53 oz, 120 cal)",
+    "sig": "b6d27046a807882d",
+    "synced_at": "2026-10-17T21:24:57"
+  },
   "2235127@0.25 oz": {
     "cronometer_id": 84767174,
     "name": "Yale - Feta Cheese (0.25 oz, 20 cal)",
     "sig": "18d0cec371333da9",
     "synced_at": "2026-10-10T03:52:13"
+  },
+  "2235127@3.53 oz": {
+    "cronometer_id": 85441130,
+    "name": "Yale - Feta Cheese (3.53 oz, 290 cal)",
+    "sig": "07460a655df0e0e7",
+    "synced_at": "2026-10-17T21:24:56"
   },
   "2235128@1 oz": {
     "cronometer_id": 84767202,
@@ -1169,11 +1199,23 @@
     "sig": "3989b1307b62a78d",
     "synced_at": "2026-10-14T04:11:36"
   },
+  "2235129@3.53 oz": {
+    "cronometer_id": 85441137,
+    "name": "Yale - Buttermilk Ranch Dressing (3.53 oz, 480 cal)",
+    "sig": "8d10b1a1882b915c",
+    "synced_at": "2026-10-17T21:24:58"
+  },
   "2235130@1 oz": {
     "cronometer_id": 84767182,
     "name": "Yale - Lemon Vinaigrette (1 oz, 100 cal)",
     "sig": "d9b60108c9487520",
     "synced_at": "2026-10-10T03:52:15"
+  },
+  "2235130@3.53 oz": {
+    "cronometer_id": 85441135,
+    "name": "Yale - Lemon Vinaigrette (3.53 oz, 360 cal)",
+    "sig": "42551e49ea66ed9d",
+    "synced_at": "2026-10-17T21:24:57"
   },
   "2235131@0.5 oz": {
     "cronometer_id": 84769166,
@@ -1504,6 +1546,12 @@
     "name": "Yale - Honey Mustard Dressing (1.5 oz, 200 cal)",
     "sig": "a3de8ae64f232bad",
     "synced_at": "2026-10-14T04:11:37"
+  },
+  "2235213@3.53 oz": {
+    "cronometer_id": 85441141,
+    "name": "Yale - Honey Mustard Dressing (3.53 oz, 470 cal)",
+    "sig": "e30e39129df2a710",
+    "synced_at": "2026-10-17T21:24:58"
   },
   "2235215@3.73 oz": {
     "cronometer_id": 84846548,
@@ -2297,6 +2345,12 @@
     "sig": "f5c50606b67925db",
     "synced_at": "2026-10-10T03:52:06"
   },
+  "2264360@3.53 oz": {
+    "cronometer_id": 85441128,
+    "name": "Yale - Tri Color Couscous (3.53 oz, 390 cal)",
+    "sig": "f4f9426d5afa7bff",
+    "synced_at": "2026-10-17T21:24:56"
+  },
   "2264361@16.2 oz": {
     "cronometer_id": 84767334,
     "name": "Yale - Mediterranean Bowl (16.2 oz, 290 cal)",
@@ -2537,6 +2591,12 @@
     "sig": "eeb78d34b53159db",
     "synced_at": "2026-10-10T03:52:15"
   },
+  "2264410@3.53 oz": {
+    "cronometer_id": 85441134,
+    "name": "Yale - Cottage Cheese (3.53 oz, 100 cal)",
+    "sig": "948545af37028ac7",
+    "synced_at": "2026-10-17T21:24:57"
+  },
   "2264412@0.5 oz": {
     "cronometer_id": 84769152,
     "name": "Yale - Avocado Ranch Dressing (0.5 oz, 60 cal)",
@@ -2555,6 +2615,12 @@
     "sig": "3b74e31ad6203361",
     "synced_at": "2026-10-11T04:11:08"
   },
+  "2264412@3.53 oz": {
+    "cronometer_id": 85441140,
+    "name": "Yale - Avocado Ranch Dressing (3.53 oz, 450 cal)",
+    "sig": "81c5d09bf7e695b4",
+    "synced_at": "2026-10-17T21:24:58"
+  },
   "2264415@10.5 oz": {
     "cronometer_id": 84767341,
     "name": "Yale - Salad Bowl Wild Card Inspired Rotation C (10.5 oz, 440 cal)",
@@ -2566,6 +2632,12 @@
     "name": "Yale - Sesame Ginger Vinaigrette (1 oz, 120 cal)",
     "sig": "5963efa27146bc46",
     "synced_at": "2026-10-10T03:52:17"
+  },
+  "2264416@3.53 oz": {
+    "cronometer_id": 85441139,
+    "name": "Yale - Sesame Ginger Vinaigrette (3.53 oz, 430 cal)",
+    "sig": "e8392377cfdb318a",
+    "synced_at": "2026-10-17T21:24:58"
   },
   "2264418@1 oz": {
     "cronometer_id": 84767205,
@@ -6064,5 +6136,11 @@
     "name": "Yale - Pull Apart Bread (2 oz, 130 cal)",
     "sig": "c41f5f622441906d",
     "synced_at": "2026-10-17T04:09:24"
+  },
+  "2472988@3.53 oz": {
+    "cronometer_id": 85441142,
+    "name": "Yale - Fall Fest 22- Butternut Squash Bisque (3.53 oz, 100 cal)",
+    "sig": "3eb31c764e945d5c",
+    "synced_at": "2026-10-17T21:24:59"
   }
 }
