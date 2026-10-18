@@ -5,6 +5,18 @@
     "sig": "2019192cfb6b47a3",
     "synced_at": "2026-10-12T04:00:51"
   },
+  "2234706@5.09 oz": {
+    "cronometer_id": 85463282,
+    "name": "Yale - Habichuelas Guisadas (5.09 oz, 70 cal)",
+    "sig": "869db5903fb4ab94",
+    "synced_at": "2026-10-18T04:10:14"
+  },
+  "2234709@3.29 oz": {
+    "cronometer_id": 85463284,
+    "name": "Yale - Cilantro Rice (3.29 oz, 200 cal)",
+    "sig": "520fe09943ebe7f4",
+    "synced_at": "2026-10-18T04:10:14"
+  },
   "2234710@3.88 oz": {
     "cronometer_id": 85138581,
     "name": "Yale - Classic Mashed Potatoes (3.88 oz, 110 cal)",
@@ -341,6 +353,12 @@
     "sig": "3d5e9167130bd10d",
     "synced_at": "2026-10-13T04:12:59"
   },
+  "2234772@3.96 oz": {
+    "cronometer_id": 85463285,
+    "name": "Yale - Steamed Zucchini (3.96 oz, 20 cal)",
+    "sig": "7a807c8512648415",
+    "synced_at": "2026-10-18T04:10:14"
+  },
   "2234773@3.53 oz": {
     "cronometer_id": 85163669,
     "name": "Yale - Soy Garlic Braised Tofu and Mushrooms (3.53 oz, 120 cal)",
@@ -539,6 +557,12 @@
     "sig": "532c1cf6e317c0bd",
     "synced_at": "2026-10-17T04:09:24"
   },
+  "2234810@6.15 oz": {
+    "cronometer_id": 85463270,
+    "name": "Yale - Tandoori-style Chicken (6.15 oz, 200 cal)",
+    "sig": "f1c0d0bf7d18c50c",
+    "synced_at": "2026-10-18T04:10:11"
+  },
   "2234811@3.53 oz": {
     "cronometer_id": 85363550,
     "name": "Yale - Roasted Green Squash with Herbs (3.53 oz, 45 cal)",
@@ -556,6 +580,12 @@
     "name": "Yale - Tri-Color Roasted Carrots (3.53 oz, 60 cal)",
     "sig": "5e0c02f7c4ceaf15",
     "synced_at": "2026-10-10T03:53:21"
+  },
+  "2234813@3.88 oz": {
+    "cronometer_id": 85463271,
+    "name": "Yale - Lentils Dal Gobi (3.88 oz, 80 cal)",
+    "sig": "4593424c673ee7ff",
+    "synced_at": "2026-10-18T04:10:11"
   },
   "2234814@1 oz": {
     "cronometer_id": 85138564,
@@ -730,6 +760,18 @@
     "name": "Yale - Homestyle Turkey Meatloaf (8 oz, 480 cal)",
     "sig": "458f4ffc2656a32f",
     "synced_at": "2026-10-14T04:11:43"
+  },
+  "2234883@3.02 oz": {
+    "cronometer_id": 85463327,
+    "name": "Yale - Chili Garlic Green Beans (3.02 oz, 60 cal)",
+    "sig": "94dcef0dee2e7788",
+    "synced_at": "2026-10-18T04:10:23"
+  },
+  "2234883@4 oz": {
+    "cronometer_id": 85463322,
+    "name": "Yale - Chili Garlic Green Beans (4 oz, 90 cal)",
+    "sig": "9f303e4be4e8d89f",
+    "synced_at": "2026-10-18T04:10:22"
   },
   "2234884@5.85 oz": {
     "cronometer_id": 84769034,
@@ -1205,6 +1247,12 @@
     "sig": "8d10b1a1882b915c",
     "synced_at": "2026-10-17T21:24:58"
   },
+  "2235130@0.5 oz": {
+    "cronometer_id": 85463296,
+    "name": "Yale - Lemon Vinaigrette (0.5 oz, 50 cal)",
+    "sig": "253d1b5571b52564",
+    "synced_at": "2026-10-18T04:10:16"
+  },
   "2235130@1 oz": {
     "cronometer_id": 84767182,
     "name": "Yale - Lemon Vinaigrette (1 oz, 100 cal)",
@@ -1231,9 +1279,9 @@
   },
   "2235135@6 oz": {
     "cronometer_id": 84846485,
-    "name": "Yale - Stewed Black Beans (6 oz, 160 cal)",
-    "sig": "93db39448d6e6f8c",
-    "synced_at": "2026-10-11T04:10:45"
+    "name": "Yale - Stewed Black Beans (6 oz, 170 cal)",
+    "sig": "e420c68665f7c5a2",
+    "synced_at": "2026-10-18T04:10:13"
   },
   "2235137@9.65 oz": {
     "cronometer_id": 85138539,
@@ -1387,9 +1435,9 @@
   },
   "2235169@8.66 oz": {
     "cronometer_id": 84846595,
-    "name": "Yale - Braised Beef, Pickled Peppers & Provolone Sandwich (8.66 oz, 660 cal)",
-    "sig": "04aa48d4092b1d4e",
-    "synced_at": "2026-10-11T04:11:09"
+    "name": "Yale - Braised Beef, Pickled Peppers & Provolone Sandwich (8.66 oz, 930 cal)",
+    "sig": "320651fe8cfcc23e",
+    "synced_at": "2026-10-18T04:10:19"
   },
   "2235170@2 oz": {
     "cronometer_id": 85042610,
@@ -1487,6 +1535,12 @@
     "sig": "a4a9cff37dde88cc",
     "synced_at": "2026-10-12T04:00:44"
   },
+  "2235191@4.78 oz": {
+    "cronometer_id": 85463286,
+    "name": "Yale - Mexican Street Corn (4.78 oz, 340 cal)",
+    "sig": "18d1fa5f7e72dec1",
+    "synced_at": "2026-10-18T04:10:15"
+  },
   "2235195@7.15 oz": {
     "cronometer_id": 84769098,
     "name": "Yale - Garlic and Chili Spiced Shrimp with Green Beans (7.15 oz, 310 cal)",
@@ -1516,6 +1570,12 @@
     "name": "Yale - Chicken Carnitas Tacos (6.35 oz, 210 cal)",
     "sig": "ba2e419802877ea1",
     "synced_at": "2026-10-12T04:00:47"
+  },
+  "2235204@4.2 oz": {
+    "cronometer_id": 85463280,
+    "name": "Yale - Pork Carnitas (4.2 oz, 300 cal)",
+    "sig": "fd510be88c6121ef",
+    "synced_at": "2026-10-18T04:10:14"
   },
   "2235205@4.43 oz": {
     "cronometer_id": 84939023,
@@ -2075,6 +2135,12 @@
     "sig": "02d5986bfeb897b7",
     "synced_at": "2026-10-10T03:53:07"
   },
+  "2237732@7.4 oz": {
+    "cronometer_id": 85463277,
+    "name": "Yale - Turkey Asado (7.4 oz, 260 cal)",
+    "sig": "805584689b7ac8fe",
+    "synced_at": "2026-10-18T04:10:13"
+  },
   "2237735@4.89 oz": {
     "cronometer_id": 84939063,
     "name": "Yale - Turkey and Sundried Tomato Mayo Sandwich (4.89 oz, 370 cal)",
@@ -2159,6 +2225,12 @@
     "sig": "bf725c9d6b66f2cf",
     "synced_at": "2026-10-14T04:11:41"
   },
+  "2239615@0.5 oz": {
+    "cronometer_id": 85463272,
+    "name": "Yale - Tamarind Chutney (0.5 oz, 35 cal)",
+    "sig": "448b61ae19c2fcfe",
+    "synced_at": "2026-10-18T04:10:12"
+  },
   "2239615@3.53 oz": {
     "cronometer_id": 85287066,
     "name": "Yale - Tamarind Chutney (3.53 oz, 250 cal)",
@@ -2225,6 +2297,12 @@
     "sig": "045a9695861228a4",
     "synced_at": "2026-10-17T04:09:23"
   },
+  "2245113@5.6 oz": {
+    "cronometer_id": 85463307,
+    "name": "Yale - Pepper and Onion Pizza (5.6 oz, 380 cal)",
+    "sig": "eb4ff8ae36aef4c5",
+    "synced_at": "2026-10-18T04:10:19"
+  },
   "2245114@5.5 oz": {
     "cronometer_id": 84767403,
     "name": "Yale - Buffalo Chicken Pizza (5.5 oz, 310 cal)",
@@ -2266,6 +2344,12 @@
     "name": "Yale - Bacon Jam Pub Burger (9.49 oz, 830 cal)",
     "sig": "d0767a069f0298c0",
     "synced_at": "2026-10-15T04:12:13"
+  },
+  "2264347@2 oz": {
+    "cronometer_id": 85463275,
+    "name": "Yale - Tostones (2 oz, 120 cal)",
+    "sig": "9d44a375073f642b",
+    "synced_at": "2026-10-18T04:10:12"
   },
   "2264348@3.53 oz": {
     "cronometer_id": 85106161,
@@ -2596,6 +2680,12 @@
     "name": "Yale - Tex-Mex Bowl (15.2 oz, 520 cal)",
     "sig": "8d85c6b0c923d584",
     "synced_at": "2026-10-10T04:10:56"
+  },
+  "2264409@8.54 oz": {
+    "cronometer_id": 85463289,
+    "name": "Yale - Tortilla Soup (8.54 oz, 150 cal)",
+    "sig": "fd2a85466334c83a",
+    "synced_at": "2026-10-18T04:10:15"
   },
   "2264410@2 oz": {
     "cronometer_id": 84767181,
@@ -3118,6 +3208,12 @@
     "name": "Yale - Pain Perdu (2.7 oz, 150 cal)",
     "sig": "7a880e1192e0d4a6",
     "synced_at": "2026-10-15T04:12:14"
+  },
+  "2264506@0.25 oz": {
+    "cronometer_id": 85463264,
+    "name": "Yale - Parmesan Cheese (0.25 oz, 25 cal)",
+    "sig": "d5c58c295e3e72b2",
+    "synced_at": "2026-10-18T04:10:10"
   },
   "2264506@0.5 oz": {
     "cronometer_id": 84769881,
@@ -3935,6 +4031,12 @@
     "sig": "43c9979db4791f64",
     "synced_at": "2026-10-10T03:53:08"
   },
+  "2272574@6.04 oz": {
+    "cronometer_id": 85463281,
+    "name": "Yale - Crispy Baja Fish Tacos with Cilantro Lime Crema (6.04 oz, 270 cal)",
+    "sig": "187f3690f466b274",
+    "synced_at": "2026-10-18T04:10:14"
+  },
   "2272575@3.53 oz": {
     "cronometer_id": 85209464,
     "name": "Yale - Spicy Mushroom Sloppy Joe Sandwich (3.53 oz, 190 cal)",
@@ -3946,6 +4048,12 @@
     "name": "Yale - Spicy Mushroom Sloppy Joe Sandwich (6.53 oz, 360 cal)",
     "sig": "14057c62396a98d4",
     "synced_at": "2026-10-13T04:13:04"
+  },
+  "2272576@1.01 oz": {
+    "cronometer_id": 85463287,
+    "name": "Yale - Corn Tortilla (1.01 oz, 70 cal)",
+    "sig": "d7c6b397a07a990e",
+    "synced_at": "2026-10-18T04:10:15"
   },
   "2272577@13.3 oz": {
     "cronometer_id": 84769106,
@@ -4007,6 +4115,12 @@
     "sig": "564c001d03b86581",
     "synced_at": "2026-10-10T03:53:54"
   },
+  "2272589@4.02 oz": {
+    "cronometer_id": 85463261,
+    "name": "Yale - Turkey Breast Roasted with Lemon Thyme (4.02 oz, 180 cal)",
+    "sig": "047a27d44b827c97",
+    "synced_at": "2026-10-18T04:10:09"
+  },
   "2272590@2.05 oz": {
     "cronometer_id": 84767321,
     "name": "Yale - Cheddar Cheese Sauce (2.05 oz, 120 cal)",
@@ -4025,11 +4139,23 @@
     "sig": "4e52582507771e13",
     "synced_at": "2026-10-10T03:53:55"
   },
+  "2272592@9.99 oz": {
+    "cronometer_id": 85463262,
+    "name": "Yale - Risotto Bar (9.99 oz, 230 cal)",
+    "sig": "c1281b97bf16f4b0",
+    "synced_at": "2026-10-18T04:10:09"
+  },
   "2272593@0.5 oz": {
     "cronometer_id": 84767326,
     "name": "Yale - Black Olives (0.5 oz, 20 cal)",
     "sig": "1665c9e82e4f69a7",
     "synced_at": "2026-10-10T03:53:57"
+  },
+  "2272594@7.12 oz": {
+    "cronometer_id": 85463263,
+    "name": "Yale - Cauliflower with Chimichurri and Chickpeas (7.12 oz, 160 cal)",
+    "sig": "827230dff774844b",
+    "synced_at": "2026-10-18T04:10:09"
   },
   "2272596@3.53 oz": {
     "cronometer_id": 85169874,
@@ -4043,11 +4169,29 @@
     "sig": "1c2483da44a92d4b",
     "synced_at": "2026-10-10T04:10:47"
   },
+  "2272597@0.58 oz": {
+    "cronometer_id": 85463265,
+    "name": "Yale - Blistered Tomatoes (0.58 oz, 5 cal)",
+    "sig": "7147ae8a293c41ce",
+    "synced_at": "2026-10-18T04:10:10"
+  },
   "2272598@4.42 oz": {
     "cronometer_id": 84767141,
     "name": "Yale - Sausage, peppers, and Onions (4.42 oz, 260 cal)",
     "sig": "9e79fbde11994de3",
     "synced_at": "2026-10-10T04:10:48"
+  },
+  "2272599@6.97 oz": {
+    "cronometer_id": 85463266,
+    "name": "Yale - Asparagus Blanched (6.97 oz, 40 cal)",
+    "sig": "35f6246dd6611c2d",
+    "synced_at": "2026-10-18T04:10:10"
+  },
+  "2272600@1 oz": {
+    "cronometer_id": 85463267,
+    "name": "Yale - Green Peas (1 oz, 20 cal)",
+    "sig": "e2097250e23a088f",
+    "synced_at": "2026-10-18T04:10:10"
   },
   "2272601@4 oz": {
     "cronometer_id": 84939032,
@@ -4120,6 +4264,18 @@
     "name": "Yale - Crispy Fried Onion (1 oz, 160 cal)",
     "sig": "e6036dd161f43500",
     "synced_at": "2026-10-10T03:52:49"
+  },
+  "2272608@5.19 oz": {
+    "cronometer_id": 85463308,
+    "name": "Yale - Lomo Saltado (5.19 oz, 190 cal)",
+    "sig": "18510f528ea03871",
+    "synced_at": "2026-10-18T04:10:19"
+  },
+  "2272609@3.5 oz": {
+    "cronometer_id": 85463276,
+    "name": "Yale - Sweet Corn on the Cob (3.5 oz, 80 cal)",
+    "sig": "6527a1fe8dba9297",
+    "synced_at": "2026-10-18T04:10:12"
   },
   "2272612@3.53 oz": {
     "cronometer_id": 85335695,
@@ -4225,9 +4381,9 @@
   },
   "2272625@12.5 oz": {
     "cronometer_id": 84846600,
-    "name": "Yale - Tuna Poke Bowl (12.5 oz, 500 cal)",
-    "sig": "ec248e3f9c7f48f0",
-    "synced_at": "2026-10-11T04:11:10"
+    "name": "Yale - Tuna Poke Bowl (12.5 oz, 540 cal)",
+    "sig": "10a96f8ef13094f2",
+    "synced_at": "2026-10-18T04:10:22"
   },
   "2272626@11.8 oz": {
     "cronometer_id": 84846601,
@@ -4535,11 +4691,35 @@
     "sig": "41eaf6f9493e6779",
     "synced_at": "2026-10-16T04:11:43"
   },
+  "2272687@8.21 oz": {
+    "cronometer_id": 85463323,
+    "name": "Yale - Beef Birria Melt (8.21 oz, 740 cal)",
+    "sig": "7a9cc459a6cbe1ed",
+    "synced_at": "2026-10-18T04:10:23"
+  },
+  "2272688@1 oz": {
+    "cronometer_id": 85463279,
+    "name": "Yale - Butter Croissants (1 oz, 30 cal)",
+    "sig": "afc950b7e497e333",
+    "synced_at": "2026-10-18T04:10:13"
+  },
   "2272689@3.5 oz": {
     "cronometer_id": 85229195,
     "name": "Yale - Blueberry Muffins (3.5 oz, 320 cal)",
     "sig": "910ceda27d78f1bf",
     "synced_at": "2026-10-15T04:12:14"
+  },
+  "2272690@4.18 oz": {
+    "cronometer_id": 85463268,
+    "name": "Yale - Orange Cranberry White Chocolate Bars (4.18 oz, 500 cal)",
+    "sig": "f85906cbe68c4092",
+    "synced_at": "2026-10-18T04:10:11"
+  },
+  "2272691@3.37 oz": {
+    "cronometer_id": 85463269,
+    "name": "Yale - Chocolate Sheet Cake with Vanilla Buttercream Icing (3.37 oz, 360 cal)",
+    "sig": "263188c6c77694c6",
+    "synced_at": "2026-10-18T04:10:11"
   },
   "2272692@5.3 oz": {
     "cronometer_id": 85386152,
@@ -4630,6 +4810,36 @@
     "name": "Yale - Coconut Caramel Brownie (2.11 oz, 200 cal)",
     "sig": "8bf66f7c2df49653",
     "synced_at": "2026-10-17T04:09:21"
+  },
+  "2272723@5.38 oz": {
+    "cronometer_id": 85463325,
+    "name": "Yale - Stir-Fried Teriyaki Chicken (5.38 oz, 210 cal)",
+    "sig": "929ac3e813813de1",
+    "synced_at": "2026-10-18T04:10:23"
+  },
+  "2272723@8 oz": {
+    "cronometer_id": 85463319,
+    "name": "Yale - Stir-Fried Teriyaki Chicken (8 oz, 310 cal)",
+    "sig": "8ed6f54de130cff3",
+    "synced_at": "2026-10-18T04:10:21"
+  },
+  "2272724@8 oz": {
+    "cronometer_id": 85463320,
+    "name": "Yale - Korean Tofu (8 oz, 590 cal)",
+    "sig": "7551d4b5f414b663",
+    "synced_at": "2026-10-18T04:10:22"
+  },
+  "2272725@4 oz": {
+    "cronometer_id": 85463321,
+    "name": "Yale - Rice Pilaf (4 oz, 140 cal)",
+    "sig": "31b8edfdc35ef353",
+    "synced_at": "2026-10-18T04:10:22"
+  },
+  "2272725@5.52 oz": {
+    "cronometer_id": 85463326,
+    "name": "Yale - Rice Pilaf (5.52 oz, 200 cal)",
+    "sig": "e952bc8658ded875",
+    "synced_at": "2026-10-18T04:10:23"
   },
   "2272726@3.53 oz": {
     "cronometer_id": 85259717,
@@ -4763,11 +4973,65 @@
     "sig": "df9e34c962b3f531",
     "synced_at": "2026-10-11T04:11:03"
   },
+  "2308034@6 oz": {
+    "cronometer_id": 85463291,
+    "name": "Yale - Salmon with Harissa Butter and Lemon (6 oz, 440 cal)",
+    "sig": "a75fe3c8be151030",
+    "synced_at": "2026-10-18T04:10:15"
+  },
+  "2308035@5 oz": {
+    "cronometer_id": 85463292,
+    "name": "Yale - Eggplant, Chickpea, and Spinach with Ras el Hanout (5 oz, 150 cal)",
+    "sig": "3b26f02454012375",
+    "synced_at": "2026-10-18T04:10:16"
+  },
+  "2308036@3 oz": {
+    "cronometer_id": 85463293,
+    "name": "Yale - Couscous with Dried Apricots (3 oz, 190 cal)",
+    "sig": "a3ef1cee9f4e4116",
+    "synced_at": "2026-10-18T04:10:16"
+  },
+  "2308037@3 oz": {
+    "cronometer_id": 85463294,
+    "name": "Yale - Roasted Orange Cauliflower with Herbs (3 oz, 180 cal)",
+    "sig": "b9d5442274b935ca",
+    "synced_at": "2026-10-18T04:10:16"
+  },
+  "2308038@0.5 oz": {
+    "cronometer_id": 85463295,
+    "name": "Yale - Coconut Yogurt Labneh (0.5 oz, 35 cal)",
+    "sig": "777e72e8920cc92d",
+    "synced_at": "2026-10-18T04:10:16"
+  },
   "2308039@0.5 oz": {
     "cronometer_id": 84846526,
     "name": "Yale - Arcadian Harvest Lettuce Blend (0.5 oz, 0 cal)",
     "sig": "bc48f8487ea73085",
     "synced_at": "2026-10-11T04:10:54"
+  },
+  "2308040@14 oz": {
+    "cronometer_id": 85463303,
+    "name": "Yale - Orange Ginger Chicken over Jasmine Rice (14 oz, 800 cal)",
+    "sig": "9cf908b2560740a5",
+    "synced_at": "2026-10-18T04:10:18"
+  },
+  "2308041@12 oz": {
+    "cronometer_id": 85463304,
+    "name": "Yale - Orange Ginger Tofu over Jasmine Rice (12 oz, 610 cal)",
+    "sig": "9c783cbe28aa5226",
+    "synced_at": "2026-10-18T04:10:18"
+  },
+  "2308043@2 oz": {
+    "cronometer_id": 85463301,
+    "name": "Yale - Roasted Beet and Pearl Onion Salad with an Apple Cider Dressing (2 oz, 110 cal)",
+    "sig": "60303644ccce31a7",
+    "synced_at": "2026-10-18T04:10:18"
+  },
+  "2308044@7 oz": {
+    "cronometer_id": 85463302,
+    "name": "Yale - Pasta Fagioli Soup (7 oz, 150 cal)",
+    "sig": "462fc9547b112dbe",
+    "synced_at": "2026-10-18T04:10:18"
   },
   "2308045@0.5 oz": {
     "cronometer_id": 84846536,
@@ -4780,6 +5044,18 @@
     "name": "Yale - Balsamic Vinaigrette (2 oz, 110 cal)",
     "sig": "09f67a92b4a5d930",
     "synced_at": "2026-10-10T03:53:38"
+  },
+  "2308046@8 oz": {
+    "cronometer_id": 85463297,
+    "name": "Yale - Smoky Sweet Potato and Corn Quesadilla (8 oz, 470 cal)",
+    "sig": "adef7335765099fd",
+    "synced_at": "2026-10-18T04:10:17"
+  },
+  "2308047@8 oz": {
+    "cronometer_id": 85463298,
+    "name": "Yale - Shallot and Dill Egg Salad on a Croissant (8 oz, 540 cal)",
+    "sig": "f3146a3ff7a14ed1",
+    "synced_at": "2026-10-18T04:10:17"
   },
   "2310331@3.71 oz": {
     "cronometer_id": 84767095,
@@ -4973,6 +5249,12 @@
     "sig": "20313457caa62175",
     "synced_at": "2026-10-13T04:13:02"
   },
+  "2314980@12 oz": {
+    "cronometer_id": 85463318,
+    "name": "Yale - Chicken Tortilla Soup (12 oz, 170 cal)",
+    "sig": "d7a4da55b5bed09d",
+    "synced_at": "2026-10-18T04:10:21"
+  },
   "2314984@12 oz": {
     "cronometer_id": 84939070,
     "name": "Yale - Roasted Red Pepper & Gouda Cheese Soup (12 oz, 290 cal)",
@@ -4985,11 +5267,23 @@
     "sig": "8ac5f9864af361f5",
     "synced_at": "2026-10-11T04:11:01"
   },
+  "2314988@20 oz": {
+    "cronometer_id": 85463312,
+    "name": "Yale - Tofu Tom Kha Gai (20 oz, 830 cal)",
+    "sig": "96f96a0a8ffebee8",
+    "synced_at": "2026-10-18T04:10:20"
+  },
   "2314989@18 oz": {
     "cronometer_id": 84846559,
     "name": "Yale - Red Curry Chicken (18 oz, 910 cal)",
     "sig": "39d2b6d9c17b3006",
     "synced_at": "2026-10-11T04:11:01"
+  },
+  "2314989@20 oz": {
+    "cronometer_id": 85463313,
+    "name": "Yale - Red Curry Chicken (20 oz, 1010 cal)",
+    "sig": "229dd79206fd3459",
+    "synced_at": "2026-10-18T04:10:20"
   },
   "2314990@2 oz": {
     "cronometer_id": 84769194,
@@ -4997,11 +5291,23 @@
     "sig": "c7c20fbdfe5104cf",
     "synced_at": "2026-10-10T03:53:24"
   },
+  "2314995@15 oz": {
+    "cronometer_id": 85463309,
+    "name": "Yale - Thai Style Citrus Ponzu Chicken Dumplings (15 oz, 580 cal)",
+    "sig": "4c973724d750eb8f",
+    "synced_at": "2026-10-18T04:10:19"
+  },
   "2314995@15.1 oz": {
     "cronometer_id": 84846556,
     "name": "Yale - Thai Style Citrus Ponzu Chicken Dumplings (15.1 oz, 590 cal)",
     "sig": "1a188c77e119feef",
     "synced_at": "2026-10-11T04:11:01"
+  },
+  "2314997@15 oz": {
+    "cronometer_id": 85463310,
+    "name": "Yale - Thai Style Citrus Ponzu Vegetable Dumplings (15 oz, 600 cal)",
+    "sig": "da808c106131fa52",
+    "synced_at": "2026-10-18T04:10:20"
   },
   "2314997@15.1 oz": {
     "cronometer_id": 84846557,
@@ -5021,17 +5327,35 @@
     "sig": "44b0ca555372479d",
     "synced_at": "2026-10-11T04:11:02"
   },
+  "2315001@20.5 oz": {
+    "cronometer_id": 85463315,
+    "name": "Yale - Slow Roasted Pork Pernil (20.5 oz, 1210 cal)",
+    "sig": "7b08bf36752f6950",
+    "synced_at": "2026-10-18T04:10:21"
+  },
   "2315006@15 oz": {
     "cronometer_id": 84846563,
     "name": "Yale - Eggplant alla Nonna Pasta (15 oz, 680 cal)",
     "sig": "e4c21bddca3ffae7",
     "synced_at": "2026-10-11T04:11:02"
   },
+  "2315006@19.5 oz": {
+    "cronometer_id": 85463316,
+    "name": "Yale - Eggplant alla Nonna Pasta (19.5 oz, 880 cal)",
+    "sig": "4125099a4271b9e0",
+    "synced_at": "2026-10-18T04:10:21"
+  },
   "2315010@17 oz": {
     "cronometer_id": 84846564,
     "name": "Yale - Pesto Rosso Chicken Pasta (17 oz, 780 cal)",
     "sig": "2f31b34f2448e3d3",
     "synced_at": "2026-10-14T03:09:12"
+  },
+  "2315010@18.8 oz": {
+    "cronometer_id": 85463317,
+    "name": "Yale - Pesto Rosso Chicken Pasta (18.8 oz, 870 cal)",
+    "sig": "d33425e3734a369f",
+    "synced_at": "2026-10-18T04:10:21"
   },
   "2320958@1 oz": {
     "cronometer_id": 84767299,
@@ -5159,6 +5483,12 @@
     "sig": "ebd32b910c397e22",
     "synced_at": "2026-10-14T04:11:40"
   },
+  "2354676@2.39 oz": {
+    "cronometer_id": 85463306,
+    "name": "Yale - Cheeseburger Pizza (2.39 oz, 170 cal)",
+    "sig": "6371db1bd9c57083",
+    "synced_at": "2026-10-18T04:10:19"
+  },
   "2354677@3.53 oz": {
     "cronometer_id": 84769103,
     "name": "Yale - Margherita Pizza (3.53 oz, 110 cal)",
@@ -5188,6 +5518,12 @@
     "name": "Yale - Garden Vegetable Pizza (45.1 oz, 2500 cal)",
     "sig": "35d22bb87db9ce2a",
     "synced_at": "2026-10-15T04:12:14"
+  },
+  "2354682@2.09 oz": {
+    "cronometer_id": 85463288,
+    "name": "Yale - Taco Accompaniments (2.09 oz, 80 cal)",
+    "sig": "2701a275349da139",
+    "synced_at": "2026-10-18T04:10:15"
   },
   "2354683@2.17 oz": {
     "cronometer_id": 84769180,
@@ -5549,11 +5885,23 @@
     "sig": "44e6b1296b7e2b8b",
     "synced_at": "2026-10-10T03:53:36"
   },
+  "2360555@8.25 oz": {
+    "cronometer_id": 85463299,
+    "name": "Yale - Eggplant, Mozzarella Cheese, Basil Pesto Panini (8.25 oz, 420 cal)",
+    "sig": "c23c414072b74a53",
+    "synced_at": "2026-10-18T04:10:17"
+  },
   "2362571@3.53 oz": {
     "cronometer_id": 84821530,
     "name": "Yale - Chicken Tinga (3.53 oz, 160 cal)",
     "sig": "0e24cddc6a473f0c",
     "synced_at": "2026-10-10T20:42:55"
+  },
+  "2365568@44.1 oz": {
+    "cronometer_id": 85463273,
+    "name": "Yale - Broccoli and Garlic Pizza (44.1 oz, 2770 cal)",
+    "sig": "8d55f44bbbe86562",
+    "synced_at": "2026-10-18T04:10:12"
   },
   "2365570@5.5 oz": {
     "cronometer_id": 84939029,
@@ -5608,6 +5956,12 @@
     "name": "Yale - Chimichurri Rotisserie Chicken (24.6 oz, 1300 cal)",
     "sig": "ea2cf93e774da50b",
     "synced_at": "2026-10-11T04:11:01"
+  },
+  "2367572@26.8 oz": {
+    "cronometer_id": 85463314,
+    "name": "Yale - Chimichurri Rotisserie Chicken (26.8 oz, 1420 cal)",
+    "sig": "e9e8ea8e5f6efae1",
+    "synced_at": "2026-10-18T04:10:20"
   },
   "2367573@16 oz": {
     "cronometer_id": 84846562,
@@ -5945,6 +6299,12 @@
     "sig": "e3ca1de9d078c17a",
     "synced_at": "2026-10-16T04:11:47"
   },
+  "2461602@41.1 oz": {
+    "cronometer_id": 85463278,
+    "name": "Yale - Pizza Chicken Tender Berkeley (41.1 oz, 2630 cal)",
+    "sig": "4e342801dfaa90ac",
+    "synced_at": "2026-10-18T04:10:13"
+  },
   "2461607@3.53 oz": {
     "cronometer_id": 84769178,
     "name": "Yale - Beef Pizzaiola (3.53 oz, 150 cal)",
@@ -6094,6 +6454,12 @@
     "name": "Yale - SOM Arroz con Gandules (4 oz, 140 cal)",
     "sig": "bdce81a28dfd6455",
     "synced_at": "2026-10-10T03:53:15"
+  },
+  "2469847@7.24 oz": {
+    "cronometer_id": 85463300,
+    "name": "Yale - SOM Turkey Burger/Cheddar/Turkey Bacon/Mayo (7.24 oz, 520 cal)",
+    "sig": "5318a4eff649ee4e",
+    "synced_at": "2026-10-18T04:10:17"
   },
   "2470419@5.46 oz": {
     "cronometer_id": 85386164,
