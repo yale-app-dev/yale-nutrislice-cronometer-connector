@@ -1421,6 +1421,12 @@
     "sig": "d7f8a3bc9c9a3e02",
     "synced_at": "2026-10-10T03:53:38"
   },
+  "2235163@3.53 oz": {
+    "cronometer_id": 85521667,
+    "name": "Yale - Creamy Caesar Dressing (3.53 oz, 520 cal)",
+    "sig": "aea738938e523d3c",
+    "synced_at": "2026-10-18T19:59:33"
+  },
   "2235167@7.36 oz": {
     "cronometer_id": 85042593,
     "name": "Yale - Chicken Shawarma (7.36 oz, 320 cal)",
@@ -6394,6 +6400,12 @@
     "name": "Yale - Oven Baked Sweet Plantains (2 oz, 140 cal)",
     "sig": "00683fd2dde673c9",
     "synced_at": "2026-10-10T03:53:15"
+  },
+  "2462358@3.53 oz": {
+    "cronometer_id": 85521666,
+    "name": "Yale - Rigatoni Pasta with Pomodoro Sauce (3.53 oz, 150 cal)",
+    "sig": "cdea06bdd625fbeb",
+    "synced_at": "2026-10-18T19:59:32"
   },
   "2462358@8.25 oz": {
     "cronometer_id": 84769182,
