@@ -1283,6 +1283,12 @@
     "sig": "e420c68665f7c5a2",
     "synced_at": "2026-10-18T04:10:13"
   },
+  "2235137@3.53 oz": {
+    "cronometer_id": 85490844,
+    "name": "Yale - Vegan Roasted Tomato Soup (3.53 oz, 45 cal)",
+    "sig": "3718c6cb8dd8246d",
+    "synced_at": "2026-10-18T14:17:15"
+  },
   "2235137@9.65 oz": {
     "cronometer_id": 85138539,
     "name": "Yale - Vegan Roasted Tomato Soup (9.65 oz, 130 cal)",
@@ -2398,6 +2404,12 @@
     "name": "Yale - Greek-style Chicken (5.08 oz, 170 cal)",
     "sig": "77dff206567f7307",
     "synced_at": "2026-10-13T04:12:59"
+  },
+  "2264356@3.53 oz": {
+    "cronometer_id": 85490845,
+    "name": "Yale - French Onion Soup with Croutons (3.53 oz, 80 cal)",
+    "sig": "b1dbbdf8ee3e9ba0",
+    "synced_at": "2026-10-18T14:17:15"
   },
   "2264356@6.73 oz": {
     "cronometer_id": 85042607,
@@ -6244,6 +6256,12 @@
     "name": "Yale - Whipped Butter (0.5 oz, 100 cal)",
     "sig": "aba707960446439e",
     "synced_at": "2026-10-10T03:53:45"
+  },
+  "2456250@3.53 oz": {
+    "cronometer_id": 85490846,
+    "name": "Yale - Roasted Pumpkin and Butternut Cappuccino (3.53 oz, 140 cal)",
+    "sig": "08e78878c39ec447",
+    "synced_at": "2026-10-18T14:17:15"
   },
   "2456250@7.5 oz": {
     "cronometer_id": 85312281,
