@@ -2849,6 +2849,12 @@
     "sig": "ddd2056605897600",
     "synced_at": "2026-10-12T15:47:39"
   },
+  "2264451@3.53 oz": {
+    "cronometer_id": 85487086,
+    "name": "Yale - Banana Pudding (3.53 oz, 190 cal)",
+    "sig": "cebc985c64d11a8e",
+    "synced_at": "2026-10-18T13:22:33"
+  },
   "2264451@5.37 oz": {
     "cronometer_id": 85229184,
     "name": "Yale - Banana Pudding (5.37 oz, 290 cal)",
@@ -4684,6 +4690,12 @@
     "name": "Yale - Blueberry Orange Cake with Ginger (3.25 oz, 320 cal)",
     "sig": "eace3163d6a27b31",
     "synced_at": "2026-10-16T04:11:43"
+  },
+  "2272686@3.53 oz": {
+    "cronometer_id": 85487087,
+    "name": "Yale - Golden Cupcakes with Chocolate Icing (3.53 oz, 390 cal)",
+    "sig": "0ddaf1cea385a5a7",
+    "synced_at": "2026-10-18T13:22:33"
   },
   "2272686@3.56 oz": {
     "cronometer_id": 85312280,
