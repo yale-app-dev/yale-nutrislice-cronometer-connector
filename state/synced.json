@@ -1547,6 +1547,12 @@
     "sig": "18d1fa5f7e72dec1",
     "synced_at": "2026-10-18T04:10:15"
   },
+  "2235195@3.53 oz": {
+    "cronometer_id": 85492637,
+    "name": "Yale - Garlic and Chili Spiced Shrimp with Green Beans (3.53 oz, 150 cal)",
+    "sig": "2be71135bdaad649",
+    "synced_at": "2026-10-18T14:43:05"
+  },
   "2235195@7.15 oz": {
     "cronometer_id": 84769098,
     "name": "Yale - Garlic and Chili Spiced Shrimp with Green Beans (7.15 oz, 310 cal)",
@@ -1588,6 +1594,12 @@
     "name": "Yale - Soy-Chorizo Pastor Tostada (4.43 oz, 240 cal)",
     "sig": "75debf95d6a049d4",
     "synced_at": "2026-10-12T04:00:46"
+  },
+  "2235208@3.53 oz": {
+    "cronometer_id": 85492636,
+    "name": "Yale - Yale Breaded Chicken Tenders (3.53 oz, 290 cal)",
+    "sig": "656294242cd3db18",
+    "synced_at": "2026-10-18T14:43:05"
   },
   "2235208@6.35 oz": {
     "cronometer_id": 85138541,
@@ -2417,6 +2429,12 @@
     "sig": "5bf0a562b5b9c816",
     "synced_at": "2026-10-13T04:12:59"
   },
+  "2264357@3.53 oz": {
+    "cronometer_id": 85492634,
+    "name": "Yale - Soba Noodles (3.53 oz, 200 cal)",
+    "sig": "129e3cfcc3e4ecb3",
+    "synced_at": "2026-10-18T14:43:04"
+  },
   "2264357@4.1 oz": {
     "cronometer_id": 84767189,
     "name": "Yale - Soba Noodles (4.1 oz, 230 cal)",
@@ -2428,6 +2446,12 @@
     "name": "Yale - Farro Cooked (1.08 oz, 110 cal)",
     "sig": "8d833c8d63e743b2",
     "synced_at": "2026-10-10T03:52:57"
+  },
+  "2264358@3.53 oz": {
+    "cronometer_id": 85492635,
+    "name": "Yale - Farro Cooked (3.53 oz, 370 cal)",
+    "sig": "73ad36084cea5738",
+    "synced_at": "2026-10-18T14:43:04"
   },
   "2264359@2 oz": {
     "cronometer_id": 84767158,
