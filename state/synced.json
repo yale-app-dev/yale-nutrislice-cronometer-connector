@@ -1691,6 +1691,12 @@
     "sig": "e30e39129df2a710",
     "synced_at": "2026-10-17T21:24:58"
   },
+  "2235215@3.53 oz": {
+    "cronometer_id": 85597000,
+    "name": "Yale - Gluten-Free Maccheroni al Forno (3.53 oz, 150 cal)",
+    "sig": "024497612314d18d",
+    "synced_at": "2026-10-19T15:59:40"
+  },
   "2235215@3.73 oz": {
     "cronometer_id": 84846548,
     "name": "Yale - Gluten-Free Maccheroni al Forno (3.73 oz, 160 cal)",
@@ -3118,6 +3124,12 @@
     "name": "Yale - Yuzu Salmon Bowl (10.8 oz, 500 cal)",
     "sig": "9862cc53def882dd",
     "synced_at": "2026-10-12T04:00:52"
+  },
+  "2264476@3.53 oz": {
+    "cronometer_id": 85596999,
+    "name": "Yale - Eggplant-Parm Hero (3.53 oz, 200 cal)",
+    "sig": "f70055aecd9a3a41",
+    "synced_at": "2026-10-19T15:59:40"
   },
   "2264476@7.31 oz": {
     "cronometer_id": 84846546,
