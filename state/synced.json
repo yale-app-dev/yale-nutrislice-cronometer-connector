@@ -1835,6 +1835,12 @@
     "sig": "0b5647bb9a73123e",
     "synced_at": "2026-10-10T04:11:05"
   },
+  "2235241@3.53 oz": {
+    "cronometer_id": 85579385,
+    "name": "Yale - Cinnamon Raisin Bagel (3.53 oz, 270 cal)",
+    "sig": "86c1fd56122f964e",
+    "synced_at": "2026-10-19T12:01:33"
+  },
   "2235243@6 oz": {
     "cronometer_id": 84767390,
     "name": "Yale - Coconut Yogurt (6 oz, 90 cal)",
@@ -3677,6 +3683,12 @@
     "sig": "c15743bd814c1d0c",
     "synced_at": "2026-10-11T04:10:49"
   },
+  "2264553@3.53 oz": {
+    "cronometer_id": 85579384,
+    "name": "Yale - Empanada Egg Sausage and Cheese (3.53 oz, 270 cal)",
+    "sig": "2676b301aed31b27",
+    "synced_at": "2026-10-19T12:01:33"
+  },
   "2264554@4.28 oz": {
     "cronometer_id": 84939053,
     "name": "Yale - Roasted Brussels Sprouts and Honeycrisp Apple (4.28 oz, 100 cal)",
@@ -3922,6 +3934,12 @@
     "name": "Yale - Oklahoma-Style Beef Burger (8.35 oz, 620 cal)",
     "sig": "42a1503257e32baa",
     "synced_at": "2026-10-10T03:53:41"
+  },
+  "2272542@3.53 oz": {
+    "cronometer_id": 85579386,
+    "name": "Yale - 'Just Egg' and Chorizo Sandwich (3.53 oz, 250 cal)",
+    "sig": "ae764fa366b6e435",
+    "synced_at": "2026-10-19T12:01:33"
   },
   "2272542@5.66 oz": {
     "cronometer_id": 84767108,
