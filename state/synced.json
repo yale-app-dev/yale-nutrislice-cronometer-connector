@@ -2381,6 +2381,12 @@
     "sig": "cb666149f1615ba6",
     "synced_at": "2026-10-13T04:13:01"
   },
+  "2239306@3.53 oz": {
+    "cronometer_id": 85721820,
+    "name": "Yale - Roasted Broccoli and Cauliflower (3.53 oz, 60 cal)",
+    "sig": "22805ad3b21b0869",
+    "synced_at": "2026-10-20T20:44:07"
+  },
   "2239306@5.5 oz": {
     "cronometer_id": 85386165,
     "name": "Yale - Roasted Broccoli and Cauliflower (5.5 oz, 90 cal)",
@@ -4342,6 +4348,12 @@
     "name": "Yale - Baked Penne Pasta Ratatouille (9.2 oz, 270 cal)",
     "sig": "9e6d318fa550aa27",
     "synced_at": "2026-10-20T04:00:34"
+  },
+  "2272583@3.53 oz": {
+    "cronometer_id": 85721819,
+    "name": "Yale - Shrimp Green Curry Stir Fry (3.53 oz, 120 cal)",
+    "sig": "564eafc4f11713b1",
+    "synced_at": "2026-10-20T20:44:06"
   },
   "2272583@5.05 oz": {
     "cronometer_id": 84939015,
