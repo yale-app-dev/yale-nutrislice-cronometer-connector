@@ -167,6 +167,12 @@
     "sig": "8027220231fd9112",
     "synced_at": "2026-10-10T04:10:49"
   },
+  "2234739@3.53 oz": {
+    "cronometer_id": 85717194,
+    "name": "Yale - Roasted Acorn Squash (3.53 oz, 60 cal)",
+    "sig": "f40f9ada7ac099d7",
+    "synced_at": "2026-10-20T19:43:51"
+  },
   "2234740@4 oz": {
     "cronometer_id": 85660108,
     "name": "Yale - Farro Risotto with Mushroom and Fennel (4 oz, 180 cal)",
@@ -5092,6 +5098,12 @@
     "name": "Yale - Chocolate Sheet Cake with Vanilla Buttercream Icing (3.37 oz, 360 cal)",
     "sig": "263188c6c77694c6",
     "synced_at": "2026-10-18T04:10:11"
+  },
+  "2272691@3.53 oz": {
+    "cronometer_id": 85717195,
+    "name": "Yale - Chocolate Sheet Cake with Vanilla Buttercream Icing (3.53 oz, 380 cal)",
+    "sig": "5ca6478f7d1befdc",
+    "synced_at": "2026-10-20T19:43:51"
   },
   "2272692@5.3 oz": {
     "cronometer_id": 85386152,
