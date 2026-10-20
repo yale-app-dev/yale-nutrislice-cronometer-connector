@@ -557,6 +557,12 @@
     "sig": "954e7a0a702bde0e",
     "synced_at": "2026-10-10T12:33:19"
   },
+  "2234801@3.53 oz": {
+    "cronometer_id": 85683680,
+    "name": "Yale - Sea Salt Roasted Potato Wedges (3.53 oz, 80 cal)",
+    "sig": "e4470ac0d77c153b",
+    "synced_at": "2026-10-20T12:53:17"
+  },
   "2234801@4.04 oz": {
     "cronometer_id": 84767129,
     "name": "Yale - Sea Salt Roasted Potato Wedges (4.04 oz, 90 cal)",
@@ -4834,6 +4840,12 @@
     "name": "Yale - Chicken Sausage (2.6 oz, 120 cal)",
     "sig": "e325d187187fa0b1",
     "synced_at": "2026-10-17T04:09:22"
+  },
+  "2272657@3.53 oz": {
+    "cronometer_id": 85683678,
+    "name": "Yale - Chicken Sausage (3.53 oz, 170 cal)",
+    "sig": "2c88d6e9d6f94a5c",
+    "synced_at": "2026-10-20T12:53:17"
   },
   "2272658@4.5 oz": {
     "cronometer_id": 85660083,
