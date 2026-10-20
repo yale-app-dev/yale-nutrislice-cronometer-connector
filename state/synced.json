@@ -3461,6 +3461,12 @@
     "sig": "9c2e59c4a4c7d527",
     "synced_at": "2026-10-10T03:52:46"
   },
+  "2264509@3.53 oz": {
+    "cronometer_id": 85680897,
+    "name": "Yale - Potato Chorizo Egg Bites with Cotija Cheese (3.53 oz, 190 cal)",
+    "sig": "e9cb57494a026c3f",
+    "synced_at": "2026-10-20T12:10:45"
+  },
   "2264509@4 oz": {
     "cronometer_id": 84769267,
     "name": "Yale - Potato Chorizo Egg Bites with Cotija Cheese (4 oz, 220 cal)",
@@ -3478,6 +3484,12 @@
     "name": "Yale - Tomato & Arugula Egg Bite (3.17 oz, 190 cal)",
     "sig": "4e3738e724e3a7b3",
     "synced_at": "2026-10-10T03:53:38"
+  },
+  "2264511@3.53 oz": {
+    "cronometer_id": 85680899,
+    "name": "Yale - Tomato & Arugula Egg Bite (3.53 oz, 220 cal)",
+    "sig": "751b4eb49e27b67d",
+    "synced_at": "2026-10-20T12:10:45"
   },
   "2264512@0.02 oz": {
     "cronometer_id": 84767294,
