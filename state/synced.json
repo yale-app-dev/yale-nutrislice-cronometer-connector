@@ -4661,6 +4661,12 @@
     "sig": "ec248e3f9c7f48f0",
     "synced_at": "2026-10-20T02:59:37"
   },
+  "2272625@3.53 oz": {
+    "cronometer_id": 85695470,
+    "name": "Yale - Tuna Poke Bowl (3.53 oz, 140 cal)",
+    "sig": "d36667d0baeacb52",
+    "synced_at": "2026-10-20T15:46:21"
+  },
   "2272626@11.8 oz": {
     "cronometer_id": 84846601,
     "name": "Yale - Cauliflower Beet Sabich (11.8 oz, 580 cal)",
@@ -6424,6 +6430,12 @@
     "name": "Yale - Chicken Tinga (3.53 oz, 160 cal)",
     "sig": "0e24cddc6a473f0c",
     "synced_at": "2026-10-10T20:42:55"
+  },
+  "2365568@3.53 oz": {
+    "cronometer_id": 85695469,
+    "name": "Yale - Broccoli and Garlic Pizza (3.53 oz, 220 cal)",
+    "sig": "64891880e2813d6b",
+    "synced_at": "2026-10-20T15:46:21"
   },
   "2365568@44.1 oz": {
     "cronometer_id": 85463273,
