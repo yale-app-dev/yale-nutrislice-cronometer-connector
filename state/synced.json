@@ -197,6 +197,12 @@
     "sig": "9c2e59c4a4c7d527",
     "synced_at": "2026-10-10T04:10:49"
   },
+  "2234747@3.53 oz": {
+    "cronometer_id": 85686307,
+    "name": "Yale - Roasted Cauliflower (3.53 oz, 70 cal)",
+    "sig": "416d81fc7dca211e",
+    "synced_at": "2026-10-20T13:34:00"
+  },
   "2234750@5 oz": {
     "cronometer_id": 85138538,
     "name": "Yale - Chefs Choice Rigatoni Pasta (5 oz, 200 cal)",
@@ -2458,6 +2464,12 @@
     "name": "Yale - BBQ Chicken Pizza (5.52 oz, 360 cal)",
     "sig": "5f6e19332092adeb",
     "synced_at": "2026-10-12T04:00:52"
+  },
+  "2245111@3.53 oz": {
+    "cronometer_id": 85686308,
+    "name": "Yale - ESM Spiced Onion Pizza (3.53 oz, 220 cal)",
+    "sig": "291d993f168257a8",
+    "synced_at": "2026-10-20T13:34:00"
   },
   "2245112@5.6 oz": {
     "cronometer_id": 85386162,
@@ -5479,15 +5491,15 @@
   },
   "2308043@2 oz": {
     "cronometer_id": 85463301,
-    "name": "Yale - Roasted Beet and Pearl Onion Salad with an Apple Cider Dressing (2 oz, 100 cal)",
+    "name": "Yale - Roasted Beet and Winter Vegetable Salad with an Apple Cider Dressing (2 oz, 100 cal)",
     "sig": "549c12a7958c306c",
-    "synced_at": "2026-10-20T00:05:40"
+    "synced_at": "2026-10-20T13:34:00"
   },
   "2308043@3 oz": {
     "cronometer_id": 85660089,
-    "name": "Yale - Roasted Beet and Pearl Onion Salad with an Apple Cider Dressing (3 oz, 150 cal)",
+    "name": "Yale - Roasted Beet and Winter Vegetable Salad with an Apple Cider Dressing (3 oz, 150 cal)",
     "sig": "531b01e2cc7b8377",
-    "synced_at": "2026-10-20T04:00:35"
+    "synced_at": "2026-10-20T13:34:00"
   },
   "2308044@7 oz": {
     "cronometer_id": 85463302,
