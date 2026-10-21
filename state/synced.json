@@ -851,6 +851,12 @@
     "sig": "0d32b412ac1295ff",
     "synced_at": "2026-10-15T04:12:11"
   },
+  "2234877@3.53 oz": {
+    "cronometer_id": 85797258,
+    "name": "Yale - Teriyaki Glazed Salmon (3.53 oz, 220 cal)",
+    "sig": "944b12537eb5509d",
+    "synced_at": "2026-10-21T17:40:52"
+  },
   "2234877@5.39 oz": {
     "cronometer_id": 84846602,
     "name": "Yale - Teriyaki Glazed Salmon (5.39 oz, 340 cal)",
@@ -1450,6 +1456,12 @@
     "name": "Yale - Sauteed Broccoli with Garlic (4 oz, 50 cal)",
     "sig": "3c6f4cc4557f8c33",
     "synced_at": "2026-10-10T03:53:34"
+  },
+  "2235142@3.53 oz": {
+    "cronometer_id": 85797257,
+    "name": "Yale - Chicken Tinga (3.53 oz, 140 cal)",
+    "sig": "3f7f626605647d6a",
+    "synced_at": "2026-10-21T17:40:52"
   },
   "2235142@6.16 oz": {
     "cronometer_id": 84939007,
