@@ -2501,6 +2501,12 @@
     "sig": "cb666149f1615ba6",
     "synced_at": "2026-10-13T04:13:01"
   },
+  "2239305@3.53 oz": {
+    "cronometer_id": 85793869,
+    "name": "Yale - Pasta al Forno (3.53 oz, 140 cal)",
+    "sig": "b380defa7e52e543",
+    "synced_at": "2026-10-21T17:05:05"
+  },
   "2239306@3.53 oz": {
     "cronometer_id": 85721820,
     "name": "Yale - Roasted Broccoli and Cauliflower (3.53 oz, 60 cal)",
@@ -5548,6 +5554,12 @@
     "name": "Yale - Graham Ring Cake with Strawberry Icing (2.53 oz, 290 cal)",
     "sig": "295b7e715663e3b8",
     "synced_at": "2026-10-19T04:16:11"
+  },
+  "2292827@3.53 oz": {
+    "cronometer_id": 85793868,
+    "name": "Yale - Graham Ring Cake with Strawberry Icing (3.53 oz, 400 cal)",
+    "sig": "61a9b808d23dfe2e",
+    "synced_at": "2026-10-21T17:05:05"
   },
   "2292829@3.2 oz": {
     "cronometer_id": 84939084,
