@@ -527,6 +527,12 @@
     "sig": "d2486201417e84a0",
     "synced_at": "2026-10-14T04:11:38"
   },
+  "2234790@3.53 oz": {
+    "cronometer_id": 85785455,
+    "name": "Yale - Steamed Green Beans (3.53 oz, 30 cal)",
+    "sig": "570b39f2a2ac3eed",
+    "synced_at": "2026-10-21T15:25:02"
+  },
   "2234790@4 oz": {
     "cronometer_id": 84939027,
     "name": "Yale - Steamed Green Beans (4 oz, 35 cal)",
@@ -2476,6 +2482,12 @@
     "name": "Yale - Lentil & Butternut Squash Tostada (7.98 oz, 540 cal)",
     "sig": "62cc6ceb94efc1c8",
     "synced_at": "2026-10-12T04:00:49"
+  },
+  "2238919@3.53 oz": {
+    "cronometer_id": 85785456,
+    "name": "Yale - Fajita Vegetables (3.53 oz, 45 cal)",
+    "sig": "150ef5b1222afc4d",
+    "synced_at": "2026-10-21T15:25:02"
   },
   "2239298@3.53 oz": {
     "cronometer_id": 85296330,
