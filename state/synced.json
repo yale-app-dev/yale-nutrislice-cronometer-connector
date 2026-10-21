@@ -5639,6 +5639,12 @@
     "sig": "074e434cf0817a41",
     "synced_at": "2026-10-20T17:19:39"
   },
+  "2307969@5.93 oz": {
+    "cronometer_id": 85775362,
+    "name": "Yale - Tomato Soup (5.93 oz, 200 cal)",
+    "sig": "488521074939c1b3",
+    "synced_at": "2026-10-21T12:52:39"
+  },
   "2307986@4 oz": {
     "cronometer_id": 84769210,
     "name": "Yale - Cinnamon Walnut Pound Cake (4 oz, 450 cal)",
@@ -5680,6 +5686,24 @@
     "name": "Yale - Shiitake Mushroom Pasta (10.2 oz, 460 cal)",
     "sig": "df9e34c962b3f531",
     "synced_at": "2026-10-11T04:11:03"
+  },
+  "2308027@15.5 oz": {
+    "cronometer_id": 85775357,
+    "name": "Yale - Chicken Tenders (15.5 oz, 1830 cal)",
+    "sig": "f5217ebb05ca7c74",
+    "synced_at": "2026-10-21T12:52:39"
+  },
+  "2308028@16.5 oz": {
+    "cronometer_id": 85775359,
+    "name": "Yale - IVY Hot Chicken Sandwich (16.5 oz, 1040 cal)",
+    "sig": "1878a4862d6852b8",
+    "synced_at": "2026-10-21T12:52:39"
+  },
+  "2308030@12.1 oz": {
+    "cronometer_id": 85775363,
+    "name": "Yale - Crinkle Cut Fries (12.1 oz, 580 cal)",
+    "sig": "d69589b0c0a17135",
+    "synced_at": "2026-10-21T12:52:40"
   },
   "2308034@6 oz": {
     "cronometer_id": 85463291,
@@ -6659,6 +6683,12 @@
     "sig": "58dee0be8d0efcf5",
     "synced_at": "2026-10-10T03:53:49"
   },
+  "2358504@18 oz": {
+    "cronometer_id": 85775364,
+    "name": "Yale - Loaded Chopped Cheese Fries (18 oz, 1080 cal)",
+    "sig": "86696abbbfcff8ec",
+    "synced_at": "2026-10-21T12:52:40"
+  },
   "2360552@0.25 oz": {
     "cronometer_id": 84769260,
     "name": "Yale - Glazed Walnuts (0.25 oz, 50 cal)",
@@ -6910,6 +6940,18 @@
     "name": "Yale - Roasted Butternut Squash (3.53 oz, 110 cal)",
     "sig": "d30ca89ec723d37b",
     "synced_at": "2026-10-16T16:12:16"
+  },
+  "2453785@6.74 oz": {
+    "cronometer_id": 85775361,
+    "name": "Yale - Grilled Cheese Sandwich (6.74 oz, 880 cal)",
+    "sig": "dbc609bcb5fea4f3",
+    "synced_at": "2026-10-21T12:52:39"
+  },
+  "2453791@14.3 oz": {
+    "cronometer_id": 85775360,
+    "name": "Yale - Beef Chopped Cheese (14.3 oz, 1090 cal)",
+    "sig": "92a39cdd1748de51",
+    "synced_at": "2026-10-21T12:52:39"
   },
   "2454623@1.3 oz": {
     "cronometer_id": 84939083,
