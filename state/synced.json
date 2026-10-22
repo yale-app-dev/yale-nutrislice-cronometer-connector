@@ -635,6 +635,18 @@
     "sig": "88861fa1e857b146",
     "synced_at": "2026-10-10T03:53:34"
   },
+  "2234804@8 oz": {
+    "cronometer_id": 85841699,
+    "name": "Yale - Beef Pizzaiola (8 oz, 280 cal)",
+    "sig": "52a190babd0201a2",
+    "synced_at": "2026-10-22T04:03:12"
+  },
+  "2234804@8.75 oz": {
+    "cronometer_id": 85841703,
+    "name": "Yale - Beef Pizzaiola (8.75 oz, 310 cal)",
+    "sig": "d9b466ecb06ef95b",
+    "synced_at": "2026-10-22T04:03:13"
+  },
   "2234807@2.54 oz": {
     "cronometer_id": 85386159,
     "name": "Yale - Cheesy Garlic Bread (2.54 oz, 260 cal)",
@@ -4115,6 +4127,12 @@
     "sig": "21360bd646621a2d",
     "synced_at": "2026-10-13T04:13:01"
   },
+  "2264577@4 oz": {
+    "cronometer_id": 85841702,
+    "name": "Yale - Broccoli Roasted with Butter and Parm (4 oz, 70 cal)",
+    "sig": "2c64f804f8db20f1",
+    "synced_at": "2026-10-22T04:03:13"
+  },
   "2264578@6.77 oz": {
     "cronometer_id": 85042637,
     "name": "Yale - Chicken Pesto Panini (6.77 oz, 460 cal)",
@@ -4312,6 +4330,18 @@
     "name": "Yale - Aji Amarillo Sauce (1.03 oz, 150 cal)",
     "sig": "3f2302491922c883",
     "synced_at": "2026-10-11T04:10:46"
+  },
+  "2272555@3.88 oz": {
+    "cronometer_id": 85841705,
+    "name": "Yale - Baked Pesto Penne (3.88 oz, 200 cal)",
+    "sig": "5157a8e0df175d10",
+    "synced_at": "2026-10-22T04:03:13"
+  },
+  "2272555@4 oz": {
+    "cronometer_id": 85841701,
+    "name": "Yale - Baked Pesto Penne (4 oz, 200 cal)",
+    "sig": "1714c4fa642a1720",
+    "synced_at": "2026-10-22T04:03:12"
   },
   "2272555@4.48 oz": {
     "cronometer_id": 84846596,
@@ -5417,6 +5447,12 @@
     "sig": "be3a750454b2e5ee",
     "synced_at": "2026-10-10T03:53:37"
   },
+  "2272714@4.37 oz": {
+    "cronometer_id": 85841692,
+    "name": "Yale - Warm Sticky Toffee Pudding (4.37 oz, 400 cal)",
+    "sig": "3e5e0f42eb40034f",
+    "synced_at": "2026-10-22T04:03:10"
+  },
   "2272715@3.84 oz": {
     "cronometer_id": 85752841,
     "name": "Yale - Chocolate Tahini Banana Bread (3.84 oz, 350 cal)",
@@ -5464,6 +5500,18 @@
     "name": "Yale - Ratatouille of Eggplant and Squash (8 oz, 160 cal)",
     "sig": "febba94c38f90716",
     "synced_at": "2026-10-20T04:00:38"
+  },
+  "2272722@6.12 oz": {
+    "cronometer_id": 85841704,
+    "name": "Yale - Kale and Feta Meatballs (6.12 oz, 200 cal)",
+    "sig": "1ac8d8b841ede8c9",
+    "synced_at": "2026-10-22T04:03:13"
+  },
+  "2272722@8 oz": {
+    "cronometer_id": 85841700,
+    "name": "Yale - Kale and Feta Meatballs (8 oz, 260 cal)",
+    "sig": "84f8dd61bbc03aaa",
+    "synced_at": "2026-10-22T04:03:12"
   },
   "2272723@5.38 oz": {
     "cronometer_id": 85463325,
@@ -5554,6 +5602,12 @@
     "name": "Yale - Crispy Chicken Caesar Salad Wrap (8 oz, 610 cal)",
     "sig": "434b0bbae5f44567",
     "synced_at": "2026-10-10T03:53:17"
+  },
+  "2292823@5.68 oz": {
+    "cronometer_id": 85841691,
+    "name": "Yale - Strawberry Coffee Cake (5.68 oz, 590 cal)",
+    "sig": "6f45608f37ecc475",
+    "synced_at": "2026-10-22T04:03:10"
   },
   "2292826@6 oz": {
     "cronometer_id": 85660082,
@@ -5687,6 +5741,12 @@
     "sig": "488521074939c1b3",
     "synced_at": "2026-10-21T12:52:39"
   },
+  "2307974@1.99 oz": {
+    "cronometer_id": 85841696,
+    "name": "Yale - YSC Sub Sauce Ginger Soy Dumpling (1.99 oz, 60 cal)",
+    "sig": "8fe5d0b897c45310",
+    "synced_at": "2026-10-22T04:03:11"
+  },
   "2307986@4 oz": {
     "cronometer_id": 84769210,
     "name": "Yale - Cinnamon Walnut Pound Cake (4 oz, 450 cal)",
@@ -5716,6 +5776,12 @@
     "name": "Yale - Butter Croissant (2.5 oz, 290 cal)",
     "sig": "f5d354aeb84ed520",
     "synced_at": "2026-10-10T03:53:26"
+  },
+  "2307997@1 oz": {
+    "cronometer_id": 85841695,
+    "name": "Yale - YSC Sauce Aguacate (1 oz, 25 cal)",
+    "sig": "d648d8fbd4d8dd13",
+    "synced_at": "2026-10-22T04:03:11"
   },
   "2307999@2 oz": {
     "cronometer_id": 84769192,
@@ -5818,6 +5884,12 @@
     "name": "Yale - Roasted Beet and Winter Vegetable Salad with an Apple Cider Dressing (3 oz, 150 cal)",
     "sig": "a9e869b3732f9f3e",
     "synced_at": "2026-10-21T03:01:24"
+  },
+  "2308043@3.08 oz": {
+    "cronometer_id": 85841693,
+    "name": "Yale - Roasted Beet and Winter Vegetable Salad with an Apple Cider Dressing (3.08 oz, 160 cal)",
+    "sig": "2f5dba6e7b02edb5",
+    "synced_at": "2026-10-22T04:03:10"
   },
   "2308044@7 oz": {
     "cronometer_id": 85463302,
@@ -6971,6 +7043,12 @@
     "sig": "b0bec64b81b408f8",
     "synced_at": "2026-10-10T03:53:24"
   },
+  "2369953@0.21 oz": {
+    "cronometer_id": 85841697,
+    "name": "Yale - YSC Salad Cucumber Dressing (0.21 oz, 15 cal)",
+    "sig": "71bae92b260c6a41",
+    "synced_at": "2026-10-22T04:03:12"
+  },
   "2369954@304 oz": {
     "cronometer_id": 85660100,
     "name": "Yale - YSC Paste Pambazo Cooked (304 oz, 17870 cal)",
@@ -7259,6 +7337,12 @@
     "sig": "87b2f395cfdeb0d7",
     "synced_at": "2026-10-10T17:53:44"
   },
+  "2463325@5.81 oz": {
+    "cronometer_id": 85841698,
+    "name": "Yale - Pasta Macaroni and Cheese Creamy Yale Baked (5.81 oz, 410 cal)",
+    "sig": "02d5986bfeb897b7",
+    "synced_at": "2026-10-22T04:03:12"
+  },
   "2463326@1.01 oz": {
     "cronometer_id": 84767367,
     "name": "Yale - Sauce Mayonnaise Furikake (1.01 oz, 170 cal)",
@@ -7306,6 +7390,12 @@
     "name": "Yale - Chicken \"Noodle Soup\" Pizza (31.8 oz, 2220 cal)",
     "sig": "a67587e03ef01cef",
     "synced_at": "2026-10-21T04:01:28"
+  },
+  "2465949@20.4 oz": {
+    "cronometer_id": 85841694,
+    "name": "Yale - Spinach and Artichoke Dip Pizza (20.4 oz, 1580 cal)",
+    "sig": "4e44b36c9de872c1",
+    "synced_at": "2026-10-22T04:03:11"
   },
   "2465950@2.13 oz": {
     "cronometer_id": 85660095,
