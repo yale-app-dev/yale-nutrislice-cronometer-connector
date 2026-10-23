@@ -791,6 +791,12 @@
     "sig": "5d0d0a3ba8ffffc4",
     "synced_at": "2026-10-10T03:53:22"
   },
+  "2234842@7.49 oz": {
+    "cronometer_id": 85923577,
+    "name": "Yale - Shrimp and Grits (7.49 oz, 440 cal)",
+    "sig": "526bd78d324be601",
+    "synced_at": "2026-10-23T04:14:50"
+  },
   "2234843@4.85 oz": {
     "cronometer_id": 84769172,
     "name": "Yale - Crispy Fried Potatoes with Sage, Garlic and Sea Salt (4.85 oz, 270 cal)",
@@ -2411,6 +2417,12 @@
     "sig": "f2c600e7b4eb2278",
     "synced_at": "2026-10-10T03:53:42"
   },
+  "2237728@4.92 oz": {
+    "cronometer_id": 85923578,
+    "name": "Yale - 'Just Egg' Scramble with Corn, Tomatoes and Basil (4.92 oz, 250 cal)",
+    "sig": "00ac41f84535b007",
+    "synced_at": "2026-10-23T04:14:50"
+  },
   "2237729@7.5 oz": {
     "cronometer_id": 85660112,
     "name": "Yale - Barbecue Beef Brisket Grinder (7.5 oz, 390 cal)",
@@ -2722,6 +2734,12 @@
     "name": "Yale - Oven Baked Tater Tots (3.53 oz, 260 cal)",
     "sig": "ff8f36775e4000fd",
     "synced_at": "2026-10-14T19:27:37"
+  },
+  "2261055@3.54 oz": {
+    "cronometer_id": 85923574,
+    "name": "Yale - Oven Baked Tater Tots (3.54 oz, 260 cal)",
+    "sig": "bd7ad32bc62775f7",
+    "synced_at": "2026-10-23T04:14:50"
   },
   "2264346@9.49 oz": {
     "cronometer_id": 85229190,
@@ -4211,6 +4229,12 @@
     "sig": "d48d50f6f41c88fc",
     "synced_at": "2026-10-13T04:13:02"
   },
+  "2264794@5 oz": {
+    "cronometer_id": 85923570,
+    "name": "Yale - Espresso Spice Rubbed Beef Brisket (5 oz, 650 cal)",
+    "sig": "0545b3f6ca7340c6",
+    "synced_at": "2026-10-23T04:14:49"
+  },
   "2264796@4.74 oz": {
     "cronometer_id": 84939016,
     "name": "Yale - Lemongrass Chicken (4.74 oz, 430 cal)",
@@ -4324,6 +4348,12 @@
     "name": "Yale - Slow Cooked Pork Pernil (5.61 oz, 270 cal)",
     "sig": "21e1cd13ff8ce6f8",
     "synced_at": "2026-10-10T03:53:08"
+  },
+  "2272549@4.25 oz": {
+    "cronometer_id": 85923573,
+    "name": "Yale - Cage-Free Fried Eggs (4.25 oz, 220 cal)",
+    "sig": "1f80dc2cf3d1489c",
+    "synced_at": "2026-10-23T04:14:50"
   },
   "2272550@2 oz": {
     "cronometer_id": 85386156,
@@ -5099,11 +5129,29 @@
     "sig": "b35e60922be56d37",
     "synced_at": "2026-10-10T03:53:25"
   },
+  "2272652@4.13 oz": {
+    "cronometer_id": 85923579,
+    "name": "Yale - Steamed Asparagus (4.13 oz, 45 cal)",
+    "sig": "b5d11dc936a23e4f",
+    "synced_at": "2026-10-23T04:14:51"
+  },
+  "2272653@4 oz": {
+    "cronometer_id": 85923580,
+    "name": "Yale - Steamed Spinach with Olive Oil (4 oz, 50 cal)",
+    "sig": "1ea8f660d9ea457f",
+    "synced_at": "2026-10-23T04:14:51"
+  },
   "2272654@4.92 oz": {
     "cronometer_id": 85386153,
     "name": "Yale - Everything Bagel with Tofu Salad (4.92 oz, 240 cal)",
     "sig": "152f778296971877",
     "synced_at": "2026-10-17T04:09:22"
+  },
+  "2272655@1 oz": {
+    "cronometer_id": 85923575,
+    "name": "Yale - Caramelized Pineapple (1 oz, 40 cal)",
+    "sig": "7b9174686c97154f",
+    "synced_at": "2026-10-23T04:14:50"
   },
   "2272656@3.53 oz": {
     "cronometer_id": 84959209,
@@ -5639,6 +5687,18 @@
     "sig": "6f45608f37ecc475",
     "synced_at": "2026-10-22T04:03:10"
   },
+  "2292824@3.6 oz": {
+    "cronometer_id": 85923568,
+    "name": "Yale - Chocolate Cupcake with Passionfruit Buttercream (3.6 oz, 390 cal)",
+    "sig": "a60856cf8cabc3fb",
+    "synced_at": "2026-10-23T04:14:49"
+  },
+  "2292825@3.43 oz": {
+    "cronometer_id": 85923569,
+    "name": "Yale - Blueberry Cheesecake (3.43 oz, 310 cal)",
+    "sig": "ef46c88c82199cd0",
+    "synced_at": "2026-10-23T04:14:49"
+  },
   "2292826@6 oz": {
     "cronometer_id": 85660082,
     "name": "Yale - Boston Cream Trifle (6 oz, 580 cal)",
@@ -5704,6 +5764,12 @@
     "name": "Yale - Sauce Gravy Wafu (1.51 oz, 80 cal)",
     "sig": "10321ee8168d80f9",
     "synced_at": "2026-10-10T03:53:59"
+  },
+  "2292843@7.78 oz": {
+    "cronometer_id": 85923571,
+    "name": "Yale - Gemelli Pasta with Mushrooms and White Beans (7.78 oz, 240 cal)",
+    "sig": "d7fdd0589e9deb94",
+    "synced_at": "2026-10-23T04:14:49"
   },
   "2293850@3.53 oz": {
     "cronometer_id": 85519363,
@@ -7438,6 +7504,12 @@
     "name": "Yale - ESM Vegan Spinach Pizza (2.13 oz, 120 cal)",
     "sig": "7198774ffa6148a6",
     "synced_at": "2026-10-20T04:00:36"
+  },
+  "2465951@41.1 oz": {
+    "cronometer_id": 85923576,
+    "name": "Yale - Jalapeno Popper Pizza (41.1 oz, 3080 cal)",
+    "sig": "f22803b851b4500a",
+    "synced_at": "2026-10-23T04:14:50"
   },
   "2466234@4.15 oz": {
     "cronometer_id": 85138572,
