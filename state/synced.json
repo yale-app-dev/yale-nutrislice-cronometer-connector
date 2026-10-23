@@ -1865,6 +1865,12 @@
     "sig": "e30e39129df2a710",
     "synced_at": "2026-10-17T21:24:58"
   },
+  "2235214@3.53 oz": {
+    "cronometer_id": 85945178,
+    "name": "Yale - Pepperoni Flatbread Pizza (3.53 oz, 310 cal)",
+    "sig": "6410b483dd3e3c6c",
+    "synced_at": "2026-10-23T13:49:35"
+  },
   "2235215@3.53 oz": {
     "cronometer_id": 85597000,
     "name": "Yale - Gluten-Free Maccheroni al Forno (3.53 oz, 150 cal)",
@@ -2203,9 +2209,9 @@
   },
   "2235291@4 oz": {
     "cronometer_id": 84769158,
-    "name": "Yale - Signature Messaged Kale Salad with Butternut Squash, Goat Cheese, Quinoa, and Pepitas (4 oz, 290 cal)",
+    "name": "Yale - Signature Massaged Kale Salad with Butternut Squash, Goat Cheese, Quinoa, and Pepitas (4 oz, 290 cal)",
     "sig": "db4bd130c5c2820c",
-    "synced_at": "2026-10-23T02:43:39"
+    "synced_at": "2026-10-23T13:49:35"
   },
   "2235291@4.01 oz": {
     "cronometer_id": 84846542,
@@ -2374,6 +2380,12 @@
     "name": "Yale - Chocolate Chunk Cookie (1.45 oz, 190 cal)",
     "sig": "fde95fd8de105e63",
     "synced_at": "2026-10-11T04:11:04"
+  },
+  "2235362@3.53 oz": {
+    "cronometer_id": 85945175,
+    "name": "Yale - Broccoli Rabe with Garlic, Calabrian Chili (3.53 oz, 70 cal)",
+    "sig": "1f48a4bf1a01ed43",
+    "synced_at": "2026-10-23T13:49:34"
   },
   "2235371@12 oz": {
     "cronometer_id": 85752853,
@@ -6019,9 +6031,9 @@
   },
   "2308047@8 oz": {
     "cronometer_id": 85463298,
-    "name": "Yale - Shallot and Dill Egg Salad on a Croissant (8 oz, 540 cal)",
+    "name": "Yale - Shallot and Dill Egg Salad on a Rustic Country Bread (8 oz, 540 cal)",
     "sig": "f3146a3ff7a14ed1",
-    "synced_at": "2026-10-18T04:10:17"
+    "synced_at": "2026-10-23T13:49:35"
   },
   "2310331@3.71 oz": {
     "cronometer_id": 84767095,
@@ -7402,6 +7414,12 @@
     "name": "Yale - Beef Pizzaiola (3.53 oz, 150 cal)",
     "sig": "5d2ae59f26008dcc",
     "synced_at": "2026-10-10T03:53:21"
+  },
+  "2461608@3.53 oz": {
+    "cronometer_id": 85945176,
+    "name": "Yale - Creamy Parmesan Polenta (3.53 oz, 220 cal)",
+    "sig": "1a18d9373184ecd6",
+    "synced_at": "2026-10-23T13:49:34"
   },
   "2462355@3.53 oz": {
     "cronometer_id": 84788333,
