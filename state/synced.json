@@ -3911,6 +3911,12 @@
     "sig": "db87012c5de0823f",
     "synced_at": "2026-10-10T04:10:54"
   },
+  "2264538@2 oz": {
+    "cronometer_id": 85995502,
+    "name": "Yale - Tofu Salad (2 oz, 120 cal)",
+    "sig": "69761809cd4a696e",
+    "synced_at": "2026-10-24T04:21:13"
+  },
   "2264538@2.88 oz": {
     "cronometer_id": 84767359,
     "name": "Yale - Tofu Salad (2.88 oz, 170 cal)",
@@ -5759,6 +5765,18 @@
     "sig": "9c2e59c4a4c7d527",
     "synced_at": "2026-10-11T14:43:13"
   },
+  "2292832@5.3 oz": {
+    "cronometer_id": 85995508,
+    "name": "Yale - Strawberry Ice Cream (5.3 oz, 320 cal)",
+    "sig": "2f68c8d373b59e15",
+    "synced_at": "2026-10-24T04:21:14"
+  },
+  "2292836@5.82 oz": {
+    "cronometer_id": 85995507,
+    "name": "Yale - Blueberry Crisp (5.82 oz, 370 cal)",
+    "sig": "c9067cd3b9154333",
+    "synced_at": "2026-10-24T04:21:14"
+  },
   "2292837@3.53 oz": {
     "cronometer_id": 84769186,
     "name": "Yale - Pink Dot Donut (3.53 oz, 420 cal)",
@@ -6479,6 +6497,12 @@
     "sig": "0c81a640e994231d",
     "synced_at": "2026-10-10T03:52:56"
   },
+  "2349903@1.5 oz": {
+    "cronometer_id": 85995501,
+    "name": "Yale - Everything Bagel (1.5 oz, 120 cal)",
+    "sig": "4473216a25011923",
+    "synced_at": "2026-10-24T04:21:13"
+  },
   "2349903@3.53 oz": {
     "cronometer_id": 84769276,
     "name": "Yale - Everything Bagel (3.53 oz, 270 cal)",
@@ -7103,6 +7127,12 @@
     "sig": "bd2d5ff852459c39",
     "synced_at": "2026-10-14T19:59:01"
   },
+  "2369937@2.01 oz": {
+    "cronometer_id": 85995506,
+    "name": "Yale - Chunky Monkey Bar (2.01 oz, 210 cal)",
+    "sig": "c52d1d96a078ee34",
+    "synced_at": "2026-10-24T04:21:13"
+  },
   "2369938@43.8 oz": {
     "cronometer_id": 85138543,
     "name": "Yale - Pizza Chicken Buffalo Berkeley (43.8 oz, 2530 cal)",
@@ -7397,6 +7427,12 @@
     "sig": "ca737b28ecc11a6c",
     "synced_at": "2026-10-16T04:11:45"
   },
+  "2456261@2.66 oz": {
+    "cronometer_id": 85995503,
+    "name": "Yale - Pomodoro Sauce (2.66 oz, 70 cal)",
+    "sig": "9af4b7c9379ce26a",
+    "synced_at": "2026-10-24T04:21:13"
+  },
   "2459981@3.53 oz": {
     "cronometer_id": 84797337,
     "name": "Yale - Pozole with Chicken (3.53 oz, 40 cal)",
@@ -7678,6 +7714,12 @@
     "name": "Yale - Pull Apart Bread (2 oz, 130 cal)",
     "sig": "c41f5f622441906d",
     "synced_at": "2026-10-17T04:09:24"
+  },
+  "2472360@5.57 oz": {
+    "cronometer_id": 85995505,
+    "name": "Yale - Salad Mediterranean Dressed Salad Bar 2026 (5.57 oz, 140 cal)",
+    "sig": "357957ca3b73df27",
+    "synced_at": "2026-10-24T04:21:13"
   },
   "2472988@3.53 oz": {
     "cronometer_id": 85441142,
