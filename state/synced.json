@@ -2963,6 +2963,12 @@
     "sig": "78410cf4dd6903f8",
     "synced_at": "2026-10-10T03:52:07"
   },
+  "2264363@3.53 oz": {
+    "cronometer_id": 86095647,
+    "name": "Yale - Cooked Quinoa (3.53 oz, 100 cal)",
+    "sig": "3b2535c84d5bf1fa",
+    "synced_at": "2026-10-25T14:18:42"
+  },
   "2264364@3.53 oz": {
     "cronometer_id": 85494111,
     "name": "Yale - Caesar Salad with Grilled Chicken (3.53 oz, 190 cal)",
@@ -3763,9 +3769,9 @@
   },
   "2264507@3.53 oz": {
     "cronometer_id": 84959208,
-    "name": "Yale - Shredded Hash Brown (3.53 oz, 130 cal)",
-    "sig": "9024e7c68ef7e11d",
-    "synced_at": "2026-10-12T11:47:39"
+    "name": "Yale - Shredded Hash Brown (3.53 oz, 140 cal)",
+    "sig": "3e687ccf9e444013",
+    "synced_at": "2026-10-25T14:18:42"
   },
   "2264507@4 oz": {
     "cronometer_id": 84846510,
