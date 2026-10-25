@@ -83,6 +83,12 @@
     "sig": "4ceee805a19f59a3",
     "synced_at": "2026-10-10T03:53:51"
   },
+  "2234725@3.53 oz": {
+    "cronometer_id": 86129518,
+    "name": "Yale - Gochujang Glazed Fried Chicken (3.53 oz, 190 cal)",
+    "sig": "2301f3592465e49a",
+    "synced_at": "2026-10-25T20:39:00"
+  },
   "2234725@7.34 oz": {
     "cronometer_id": 85660113,
     "name": "Yale - Gochujang Glazed Fried Chicken (7.34 oz, 400 cal)",
@@ -7570,6 +7576,12 @@
     "name": "Yale - Pork Pancetta Crispy for Risotto Bar (0.25 oz, 50 cal)",
     "sig": "acdb942ade38e1a7",
     "synced_at": "2026-10-11T04:10:51"
+  },
+  "2455195@3.53 oz": {
+    "cronometer_id": 86129517,
+    "name": "Yale - Pasta Penne Cooked (3.53 oz, 180 cal)",
+    "sig": "878f2dbf5cb752e0",
+    "synced_at": "2026-10-25T20:39:00"
   },
   "2456228@8 oz": {
     "cronometer_id": 84846498,
