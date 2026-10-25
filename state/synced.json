@@ -5813,6 +5813,12 @@
     "sig": "6f45608f37ecc475",
     "synced_at": "2026-10-22T04:03:10"
   },
+  "2292824@3.53 oz": {
+    "cronometer_id": 86094020,
+    "name": "Yale - Chocolate Cupcake with Passionfruit Buttercream (3.53 oz, 380 cal)",
+    "sig": "c8b758ac93375d68",
+    "synced_at": "2026-10-25T13:55:16"
+  },
   "2292824@3.6 oz": {
     "cronometer_id": 85923568,
     "name": "Yale - Chocolate Cupcake with Passionfruit Buttercream (3.6 oz, 390 cal)",
@@ -6676,6 +6682,12 @@
     "name": "Yale - Pepperoni Pizza (3.42 oz, 240 cal)",
     "sig": "f4131456f6714c8c",
     "synced_at": "2026-10-10T03:53:50"
+  },
+  "2322968@3.53 oz": {
+    "cronometer_id": 86094021,
+    "name": "Yale - Vanilla Soft Serve (3.53 oz, 660 cal)",
+    "sig": "79c1448c07c01e26",
+    "synced_at": "2026-10-25T13:55:16"
   },
   "2322968@4 oz": {
     "cronometer_id": 84767384,
