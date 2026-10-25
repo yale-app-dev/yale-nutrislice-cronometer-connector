@@ -2135,6 +2135,12 @@
     "sig": "f9850222a8d595ee",
     "synced_at": "2026-10-10T03:53:44"
   },
+  "2235252@3.53 oz": {
+    "cronometer_id": 86097665,
+    "name": "Yale - Whipped Cream Cheese (3.53 oz, 240 cal)",
+    "sig": "d2ecf1ef518f3fdf",
+    "synced_at": "2026-10-25T14:47:04"
+  },
   "2235253@3.53 oz": {
     "cronometer_id": 84807806,
     "name": "Yale - Golden Home Fries (3.53 oz, 90 cal)",
@@ -2200,6 +2206,12 @@
     "name": "Yale - Just-Egg Scramble with Corn, Tomato, Basil (4.92 oz, 250 cal)",
     "sig": "00ac41f84535b007",
     "synced_at": "2026-10-11T04:11:00"
+  },
+  "2235266@3.53 oz": {
+    "cronometer_id": 86097666,
+    "name": "Yale - Bacon (3.53 oz, 530 cal)",
+    "sig": "ae23523f9c4124f5",
+    "synced_at": "2026-10-25T14:47:04"
   },
   "2235267@1.5 oz": {
     "cronometer_id": 85138558,
