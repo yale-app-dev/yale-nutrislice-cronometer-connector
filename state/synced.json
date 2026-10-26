@@ -2189,6 +2189,12 @@
     "sig": "83959385fd9cd536",
     "synced_at": "2026-10-19T17:01:54"
   },
+  "2235261@3.53 oz": {
+    "cronometer_id": 86184806,
+    "name": "Yale - Mango Raspberry Smoothie (3.53 oz, 40 cal)",
+    "sig": "7cab52982d5c54af",
+    "synced_at": "2026-10-26T12:35:51"
+  },
   "2235261@5 oz": {
     "cronometer_id": 84767352,
     "name": "Yale - Mango Raspberry Smoothie (5 oz, 60 cal)",
@@ -6376,6 +6382,12 @@
     "name": "Yale - Cocoa Sprinkled Donut (1.94 oz, 230 cal)",
     "sig": "94955684fdcb2d56",
     "synced_at": "2026-10-10T03:52:17"
+  },
+  "2314907@3.53 oz": {
+    "cronometer_id": 86184809,
+    "name": "Yale - Cocoa Sprinkled Donut (3.53 oz, 420 cal)",
+    "sig": "963a5e2361071aa1",
+    "synced_at": "2026-10-26T12:35:52"
   },
   "2314909@3.53 oz": {
     "cronometer_id": 84901265,
