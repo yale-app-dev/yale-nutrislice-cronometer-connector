@@ -2303,6 +2303,12 @@
     "sig": "b7141609544e6c27",
     "synced_at": "2026-10-14T13:30:10"
   },
+  "2235296@12 oz": {
+    "cronometer_id": 86163230,
+    "name": "Yale - Potato, Bacon and Cheddar Soup (12 oz, 430 cal)",
+    "sig": "fdbef3892a229e54",
+    "synced_at": "2026-10-26T04:20:19"
+  },
   "2235296@7 oz": {
     "cronometer_id": 84939060,
     "name": "Yale - Potato, Bacon and Cheddar Soup (7 oz, 250 cal)",
@@ -2357,11 +2363,23 @@
     "sig": "b50322da4edc90d8",
     "synced_at": "2026-10-19T04:16:14"
   },
+  "2235308@7 oz": {
+    "cronometer_id": 86163225,
+    "name": "Yale - Caribbean Jerk Chicken Soup (7 oz, 170 cal)",
+    "sig": "fdfbdc4401c68149",
+    "synced_at": "2026-10-26T04:20:18"
+  },
   "2235309@12 oz": {
     "cronometer_id": 85660105,
     "name": "Yale - Butternut Squash and Apple Soup (12 oz, 240 cal)",
     "sig": "ff97c8924485ec74",
     "synced_at": "2026-10-20T04:00:38"
+  },
+  "2235309@7 oz": {
+    "cronometer_id": 86163226,
+    "name": "Yale - Butternut Squash and Apple Soup (7 oz, 140 cal)",
+    "sig": "6bf5f3d382997f7a",
+    "synced_at": "2026-10-26T04:20:18"
   },
   "2235315@12 oz": {
     "cronometer_id": 85042654,
@@ -2554,6 +2572,12 @@
     "name": "Yale - BBQ Chicken (6.48 oz, 280 cal)",
     "sig": "77d7bde4c625a3fb",
     "synced_at": "2026-10-15T04:12:12"
+  },
+  "2237753@5.59 oz": {
+    "cronometer_id": 86163232,
+    "name": "Yale - Honey Chipotle Glazed Salmon (5.59 oz, 400 cal)",
+    "sig": "68b443e2945a5848",
+    "synced_at": "2026-10-26T04:20:19"
   },
   "2237756@4 oz": {
     "cronometer_id": 85752825,
@@ -5909,6 +5933,18 @@
     "sig": "2f68c8d373b59e15",
     "synced_at": "2026-10-24T04:21:14"
   },
+  "2292834@2.59 oz": {
+    "cronometer_id": 86163220,
+    "name": "Yale - Raspberry Kolaches (2.59 oz, 230 cal)",
+    "sig": "0f813ce3e18e9769",
+    "synced_at": "2026-10-26T04:20:18"
+  },
+  "2292835@4 oz": {
+    "cronometer_id": 86163214,
+    "name": "Yale - Mixed Berry Trifle (4 oz, 330 cal)",
+    "sig": "a85abb11955879a9",
+    "synced_at": "2026-10-26T04:20:17"
+  },
   "2292836@5.82 oz": {
     "cronometer_id": 85995507,
     "name": "Yale - Blueberry Crisp (5.82 oz, 370 cal)",
@@ -6004,6 +6040,12 @@
     "name": "Yale - Jasmine Scallion Rice (3.99 oz, 190 cal)",
     "sig": "0ca127c052b10cb3",
     "synced_at": "2026-10-25T04:14:49"
+  },
+  "2292853@6.11 oz": {
+    "cronometer_id": 86163233,
+    "name": "Yale - Asado Tofu (6.11 oz, 340 cal)",
+    "sig": "0863317ac303699f",
+    "synced_at": "2026-10-26T04:20:19"
   },
   "2293850@3.53 oz": {
     "cronometer_id": 85519363,
@@ -6106,6 +6148,12 @@
     "name": "Yale - Cinnamon Walnut Pound Cake (4 oz, 450 cal)",
     "sig": "f4557bf9d9f3a88a",
     "synced_at": "2026-10-10T03:53:28"
+  },
+  "2307987@17 oz": {
+    "cronometer_id": 86163228,
+    "name": "Yale - Beef Birria Tostada (17 oz, 820 cal)",
+    "sig": "6ad480bde74dff6f",
+    "synced_at": "2026-10-26T04:20:19"
   },
   "2307987@18 oz": {
     "cronometer_id": 86069578,
@@ -6743,6 +6791,12 @@
     "sig": "70900837a89c964f",
     "synced_at": "2026-10-10T03:53:33"
   },
+  "2322972@12 oz": {
+    "cronometer_id": 86163231,
+    "name": "Yale - Roasted Vegetable Soup (12 oz, 270 cal)",
+    "sig": "fc874995a0f22461",
+    "synced_at": "2026-10-26T04:20:19"
+  },
   "2325349@6.58 oz": {
     "cronometer_id": 84846489,
     "name": "Yale - Chef's Choice Pizza (6.58 oz, 390 cal)",
@@ -6760,6 +6814,12 @@
     "name": "Yale - Turkey Gumbo (12 oz, 190 cal)",
     "sig": "5433b8497073ab88",
     "synced_at": "2026-10-20T04:00:37"
+  },
+  "2325505@2.3 oz": {
+    "cronometer_id": 86163217,
+    "name": "Yale - Caramelized Plantains (2.3 oz, 210 cal)",
+    "sig": "d93aa8c2dc8ae2a8",
+    "synced_at": "2026-10-26T04:20:17"
   },
   "2325532@3.53 oz": {
     "cronometer_id": 85085726,
@@ -6796,6 +6856,12 @@
     "name": "Yale - Roasted Corn (5.17 oz, 170 cal)",
     "sig": "6cb2f6471febf5d4",
     "synced_at": "2026-10-25T04:14:39"
+  },
+  "2349901@3.5 oz": {
+    "cronometer_id": 86163213,
+    "name": "Yale - Braised Beef Brisket Machaca (3.5 oz, 300 cal)",
+    "sig": "c9e1b9025703a867",
+    "synced_at": "2026-10-26T04:20:17"
   },
   "2349903@1.5 oz": {
     "cronometer_id": 85995501,
@@ -6904,6 +6970,12 @@
     "name": "Yale - Clam Pizza (2.17 oz, 160 cal)",
     "sig": "1a43be35eec78401",
     "synced_at": "2026-10-10T03:53:22"
+  },
+  "2354684@42.1 oz": {
+    "cronometer_id": 86163218,
+    "name": "Yale - Mashed Potato & Bacon Pizza (42.1 oz, 3100 cal)",
+    "sig": "6f61b17eb9707293",
+    "synced_at": "2026-10-26T04:20:18"
   },
   "2354685@4 oz": {
     "cronometer_id": 84769209,
@@ -7595,6 +7667,12 @@
     "sig": "8798ea5d7ec123d3",
     "synced_at": "2026-10-10T03:52:39"
   },
+  "2456229@75 oz": {
+    "cronometer_id": 86163215,
+    "name": "Yale - Peanut Butter (75 oz, 12160 cal)",
+    "sig": "5e88d32cd5f1fef7",
+    "synced_at": "2026-10-26T04:20:17"
+  },
   "2456230@0.5 oz": {
     "cronometer_id": 84767273,
     "name": "Yale - Jelly Assorted SS Cup (0.5 oz, 35 cal)",
@@ -7606,6 +7684,12 @@
     "name": "Yale - Butter Continental 59 Count (0.5 oz, 100 cal)",
     "sig": "aba707960446439e",
     "synced_at": "2026-10-10T03:52:39"
+  },
+  "2456232@5 oz": {
+    "cronometer_id": 86163216,
+    "name": "Yale - Butter Continental 59 Count (5 oz, 1020 cal)",
+    "sig": "9ea1c99b7ba29aaa",
+    "synced_at": "2026-10-26T04:20:17"
   },
   "2456234@3 oz": {
     "cronometer_id": 84769150,
@@ -8105,11 +8189,29 @@
     "sig": "9a04f0b7ad918b76",
     "synced_at": "2026-10-25T04:14:42"
   },
+  "2476807@10.4 oz": {
+    "cronometer_id": 86163221,
+    "name": "Yale - SOM Cavatelli/Fontina/Winter Squash/Kale/Al Forno (10.4 oz, 720 cal)",
+    "sig": "b3b41db197787977",
+    "synced_at": "2026-10-26T04:20:18"
+  },
   "2476808@3.58 oz": {
     "cronometer_id": 86069560,
     "name": "Yale - SOM Wild Rice/Leeks/Dried Cranberry/Bergamot (3.58 oz, 370 cal)",
     "sig": "cc6da30db6c3ee56",
     "synced_at": "2026-10-25T04:14:42"
+  },
+  "2476809@5.08 oz": {
+    "cronometer_id": 86163222,
+    "name": "Yale - SOM Black Lentils/Mushrooms/Lacinato Kale (5.08 oz, 230 cal)",
+    "sig": "ce9af9f5a75ec591",
+    "synced_at": "2026-10-26T04:20:18"
+  },
+  "2476810@4.68 oz": {
+    "cronometer_id": 86163224,
+    "name": "Yale - SOM Brussel Sprouts w/Dried Cranberry/Pomegranate (4.68 oz, 130 cal)",
+    "sig": "e15b3e4716bc8354",
+    "synced_at": "2026-10-26T04:20:18"
   },
   "2476812@16 oz": {
     "cronometer_id": 86069582,
