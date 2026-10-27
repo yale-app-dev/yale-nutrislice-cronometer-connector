@@ -377,6 +377,12 @@
     "sig": "8ba8c9bddead5025",
     "synced_at": "2026-10-12T04:00:45"
   },
+  "2234763@3.53 oz": {
+    "cronometer_id": 86315952,
+    "name": "Yale - Sour Cream (3.53 oz, 200 cal)",
+    "sig": "fd19e84de32fa88c",
+    "synced_at": "2026-10-27T19:35:13"
+  },
   "2234764@2 oz": {
     "cronometer_id": 84767324,
     "name": "Yale - Guacamole (2 oz, 110 cal)",
@@ -820,6 +826,12 @@
     "name": "Yale - Chunky Salsa (2 oz, 10 cal)",
     "sig": "b0125fb08b75a292",
     "synced_at": "2026-10-10T03:53:56"
+  },
+  "2234835@3.53 oz": {
+    "cronometer_id": 86315951,
+    "name": "Yale - Chunky Salsa (3.53 oz, 15 cal)",
+    "sig": "ceac1da385d85f6a",
+    "synced_at": "2026-10-27T19:35:12"
   },
   "2234837@1 oz": {
     "cronometer_id": 84769023,
@@ -6484,6 +6496,12 @@
     "name": "Yale - Achiote Butternut Squash, Cotija Cheese, Crispy Chickpeas (4.93 oz, 170 cal)",
     "sig": "a46a82f41073bc48",
     "synced_at": "2026-10-12T04:00:53"
+  },
+  "2314941@3.53 oz": {
+    "cronometer_id": 86315949,
+    "name": "Yale - Roasted Zucchini and Yellow Squash (3.53 oz, 45 cal)",
+    "sig": "18bb4acd022c8a7a",
+    "synced_at": "2026-10-27T19:35:12"
   },
   "2314944@12.1 oz": {
     "cronometer_id": 85229200,
