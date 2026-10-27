@@ -1571,6 +1571,12 @@
     "sig": "83dfa50b79113a5c",
     "synced_at": "2026-10-11T04:10:45"
   },
+  "2235149@3.53 oz": {
+    "cronometer_id": 86289802,
+    "name": "Yale - Cilantro Lime Rice (3.53 oz, 300 cal)",
+    "sig": "e5ab611a5522cfe0",
+    "synced_at": "2026-10-27T14:20:32"
+  },
   "2235150@0.5 oz": {
     "cronometer_id": 85752833,
     "name": "Yale - Whole Grain Mustard (0.5 oz, 30 cal)",
@@ -1852,6 +1858,12 @@
     "name": "Yale - Pork Carnitas (8 oz, 570 cal)",
     "sig": "b772d33507c4511f",
     "synced_at": "2026-10-19T04:16:14"
+  },
+  "2235205@3.53 oz": {
+    "cronometer_id": 86289804,
+    "name": "Yale - Soy-Chorizo Pastor Tostada (3.53 oz, 190 cal)",
+    "sig": "77ae278b65efec34",
+    "synced_at": "2026-10-27T14:20:32"
   },
   "2235205@4.43 oz": {
     "cronometer_id": 84939023,
