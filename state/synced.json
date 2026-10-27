@@ -689,6 +689,12 @@
     "sig": "8f3fa76eb60d59cf",
     "synced_at": "2026-10-17T04:09:22"
   },
+  "2234808@3.53 oz": {
+    "cronometer_id": 86296383,
+    "name": "Yale - Broccoli Rabe with Garlic and Crushed Red Pepper (3.53 oz, 60 cal)",
+    "sig": "9a41304000e27cbf",
+    "synced_at": "2026-10-27T15:53:55"
+  },
   "2234808@3.84 oz": {
     "cronometer_id": 85386160,
     "name": "Yale - Broccoli Rabe with Garlic and Crushed Red Pepper (3.84 oz, 70 cal)",
@@ -826,6 +832,12 @@
     "name": "Yale - Cranberry Apple Oatmeal Cookie (1.45 oz, 170 cal)",
     "sig": "5d0d0a3ba8ffffc4",
     "synced_at": "2026-10-10T03:53:22"
+  },
+  "2234842@3.53 oz": {
+    "cronometer_id": 86296382,
+    "name": "Yale - Shrimp and Grits (3.53 oz, 210 cal)",
+    "sig": "71d39d1a549da20c",
+    "synced_at": "2026-10-27T15:53:54"
   },
   "2234842@7.49 oz": {
     "cronometer_id": 85923577,
@@ -4768,6 +4780,12 @@
     "name": "Yale - Corn Tortilla (1.01 oz, 70 cal)",
     "sig": "d7c6b397a07a990e",
     "synced_at": "2026-10-18T04:10:15"
+  },
+  "2272576@3.53 oz": {
+    "cronometer_id": 86296381,
+    "name": "Yale - Corn Tortilla (3.53 oz, 240 cal)",
+    "sig": "c5d378cd7022f45e",
+    "synced_at": "2026-10-27T15:53:54"
   },
   "2272577@13.3 oz": {
     "cronometer_id": 84769106,
