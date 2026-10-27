@@ -71,6 +71,12 @@
     "sig": "4e3865c2c175871a",
     "synced_at": "2026-10-12T04:00:50"
   },
+  "2234722@7.32 oz": {
+    "cronometer_id": 86262592,
+    "name": "Yale - Apple Crumb Pie (7.32 oz, 320 cal)",
+    "sig": "fc2680ca1c212605",
+    "synced_at": "2026-10-27T04:18:56"
+  },
   "2234724@3.53 oz": {
     "cronometer_id": 85752852,
     "name": "Yale - Creamy Roasted Tomato Soup (3.53 oz, 60 cal)",
@@ -709,9 +715,9 @@
   },
   "2234811@5 oz": {
     "cronometer_id": 85042632,
-    "name": "Yale - Roasted Green Squash with Herbs (5 oz, 60 cal)",
-    "sig": "c8b3837191c40251",
-    "synced_at": "2026-10-13T04:13:01"
+    "name": "Yale - Roasted Green Squash with Herbs (5 oz, 70 cal)",
+    "sig": "47830ec5380ad04b",
+    "synced_at": "2026-10-27T04:18:56"
   },
   "2234812@3.53 oz": {
     "cronometer_id": 84769176,
@@ -1883,6 +1889,12 @@
     "sig": "2c37d7167894d1e0",
     "synced_at": "2026-10-14T04:11:38"
   },
+  "2235209@4 oz": {
+    "cronometer_id": 86262602,
+    "name": "Yale - Cauliflower with Garlic, Parsley and Vinegar (4 oz, 160 cal)",
+    "sig": "f7aeb82a94a8712d",
+    "synced_at": "2026-10-27T04:18:57"
+  },
   "2235209@4.5 oz": {
     "cronometer_id": 85138527,
     "name": "Yale - Cauliflower with Garlic, Parsley and Vinegar (4.5 oz, 180 cal)",
@@ -2488,6 +2500,12 @@
     "name": "Yale - Chicken Noodle Soup (12 oz, 100 cal)",
     "sig": "81da6377ebb78a19",
     "synced_at": "2026-10-21T04:01:29"
+  },
+  "2235371@7 oz": {
+    "cronometer_id": 86262595,
+    "name": "Yale - Chicken Noodle Soup (7 oz, 60 cal)",
+    "sig": "780af0cc3bc5266b",
+    "synced_at": "2026-10-27T04:18:56"
   },
   "2235378@7 oz": {
     "cronometer_id": 86069567,
@@ -6053,6 +6071,18 @@
     "sig": "0ca127c052b10cb3",
     "synced_at": "2026-10-25T04:14:49"
   },
+  "2292848@4.5 oz": {
+    "cronometer_id": 86262600,
+    "name": "Yale - Roasted Moroccan Spiced Chicken (4.5 oz, 200 cal)",
+    "sig": "3b0344dd426e19e4",
+    "synced_at": "2026-10-27T04:18:57"
+  },
+  "2292850@3.44 oz": {
+    "cronometer_id": 86262601,
+    "name": "Yale - Moroccan-Style Chickpea Tagine (3.44 oz, 70 cal)",
+    "sig": "ccc2776ba685489b",
+    "synced_at": "2026-10-27T04:18:57"
+  },
   "2292853@6.11 oz": {
     "cronometer_id": 86163233,
     "name": "Yale - Asado Tofu (6.11 oz, 340 cal)",
@@ -6539,6 +6569,12 @@
     "sig": "a47ebe746d08a0c3",
     "synced_at": "2026-10-19T04:16:13"
   },
+  "2314968@12 oz": {
+    "cronometer_id": 86262597,
+    "name": "Yale - White Chicken Chili (12 oz, 410 cal)",
+    "sig": "46da62e729759b6d",
+    "synced_at": "2026-10-27T04:18:57"
+  },
   "2314968@7 oz": {
     "cronometer_id": 85042634,
     "name": "Yale - White Chicken Chili (7 oz, 240 cal)",
@@ -6628,6 +6664,12 @@
     "name": "Yale - Shaved Roast Beef, Carmalized Onions, Swiss Cheese, Red Watercress and Horseradish Mayo (8 oz, 590 cal)",
     "sig": "daa505e46dfe4027",
     "synced_at": "2026-10-25T04:14:43"
+  },
+  "2314983@7 oz": {
+    "cronometer_id": 86262594,
+    "name": "Yale - Tomato Garden Vegetable Soup (7 oz, 80 cal)",
+    "sig": "66d15bc2713633c1",
+    "synced_at": "2026-10-27T04:18:56"
   },
   "2314984@12 oz": {
     "cronometer_id": 84939070,
@@ -6958,6 +7000,12 @@
     "name": "Yale - Margherita Pizza (9.94 oz, 320 cal)",
     "sig": "055bf5432ef831e3",
     "synced_at": "2026-10-14T04:11:43"
+  },
+  "2354678@42.1 oz": {
+    "cronometer_id": 86262593,
+    "name": "Yale - Chicken Sausage Pizza (42.1 oz, 2740 cal)",
+    "sig": "ffa2b33ee7617956",
+    "synced_at": "2026-10-27T04:18:56"
   },
   "2354679@43.4 oz": {
     "cronometer_id": 85138545,
@@ -7294,6 +7342,12 @@
     "name": "Yale - Almonds (1 oz, 160 cal)",
     "sig": "5d955f25eb0deeb2",
     "synced_at": "2026-10-10T03:53:37"
+  },
+  "2357116@1.63 oz": {
+    "cronometer_id": 86262596,
+    "name": "Yale - Vegan Broccoli Pizza (1.63 oz, 110 cal)",
+    "sig": "a3c55515ebf3b46e",
+    "synced_at": "2026-10-27T04:18:57"
   },
   "2357117@3.08 oz": {
     "cronometer_id": 84939068,
