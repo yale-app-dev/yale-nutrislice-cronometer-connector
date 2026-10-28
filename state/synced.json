@@ -2699,6 +2699,12 @@
     "sig": "12b02444d7436167",
     "synced_at": "2026-10-20T04:00:39"
   },
+  "2238054@3.53 oz": {
+    "cronometer_id": 86417647,
+    "name": "Yale - Seasoned Bok Choy (3.53 oz, 15 cal)",
+    "sig": "65d7f8e6835eb76a",
+    "synced_at": "2026-10-28T22:48:36"
+  },
   "2238912@6.88 oz": {
     "cronometer_id": 85138576,
     "name": "Yale - Vegan Gardein Meatballs Swedish (6.88 oz, 270 cal)",
@@ -5986,6 +5992,12 @@
     "name": "Yale - Roasted Zucchini and Tomatoes (4.23 oz, 60 cal)",
     "sig": "c0422a46000eeaf6",
     "synced_at": "2026-10-21T04:01:30"
+  },
+  "2275010@3.53 oz": {
+    "cronometer_id": 86417646,
+    "name": "Yale - Chicken Thigh Carnitas (3.53 oz, 140 cal)",
+    "sig": "23e680419d99d0e4",
+    "synced_at": "2026-10-28T22:48:36"
   },
   "2288148@8 oz": {
     "cronometer_id": 84769156,
