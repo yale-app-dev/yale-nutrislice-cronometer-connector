@@ -221,6 +221,12 @@
     "sig": "4335c8471f71cc1c",
     "synced_at": "2026-10-12T04:00:50"
   },
+  "2234742@4 oz": {
+    "cronometer_id": 86352795,
+    "name": "Yale - Corn Casserole (4 oz, 230 cal)",
+    "sig": "7f26a5503089a79d",
+    "synced_at": "2026-10-28T04:17:53"
+  },
   "2234746@4 oz": {
     "cronometer_id": 84767188,
     "name": "Yale - Chef Choice Soup (4 oz, 0 cal)",
@@ -1924,6 +1930,12 @@
     "name": "Yale - Yale Breaded Chicken Tenders (6.35 oz, 520 cal)",
     "sig": "2c37d7167894d1e0",
     "synced_at": "2026-10-14T04:11:38"
+  },
+  "2235208@6.39 oz": {
+    "cronometer_id": 86352789,
+    "name": "Yale - Yale Breaded Chicken Tenders (6.39 oz, 520 cal)",
+    "sig": "b7f2d6fafa04374b",
+    "synced_at": "2026-10-28T04:17:52"
   },
   "2235209@4 oz": {
     "cronometer_id": 86262602,
@@ -4307,6 +4319,12 @@
     "sig": "91b33c0f18a21dc2",
     "synced_at": "2026-10-10T03:52:03"
   },
+  "2264564@7.58 oz": {
+    "cronometer_id": 86352783,
+    "name": "Yale - Peanut, Cauliflower and Potato Kati Roll (7.58 oz, 480 cal)",
+    "sig": "75f55ba9690c170a",
+    "synced_at": "2026-10-28T04:17:50"
+  },
   "2264565@3 oz": {
     "cronometer_id": 84769042,
     "name": "Yale - Steamed Gai Lan (3 oz, 25 cal)",
@@ -5981,6 +5999,12 @@
     "sig": "61a9b808d23dfe2e",
     "synced_at": "2026-10-21T17:05:05"
   },
+  "2292828@3.36 oz": {
+    "cronometer_id": 86352784,
+    "name": "Yale - Banana Muffins (3.36 oz, 280 cal)",
+    "sig": "d64646fbeef1765d",
+    "synced_at": "2026-10-28T04:17:50"
+  },
   "2292829@3.2 oz": {
     "cronometer_id": 84939084,
     "name": "Yale - Pecan Magic Bars (3.2 oz, 370 cal)",
@@ -6004,6 +6028,12 @@
     "name": "Yale - Strawberry Ice Cream (5.3 oz, 320 cal)",
     "sig": "2f68c8d373b59e15",
     "synced_at": "2026-10-24T04:21:14"
+  },
+  "2292833@3.09 oz": {
+    "cronometer_id": 86352782,
+    "name": "Yale - Olive Oil Cupcake with Orange Buttercream (3.09 oz, 280 cal)",
+    "sig": "f345e26476886e69",
+    "synced_at": "2026-10-28T04:17:50"
   },
   "2292834@2.59 oz": {
     "cronometer_id": 86163220,
@@ -6119,17 +6149,41 @@
     "sig": "3b0344dd426e19e4",
     "synced_at": "2026-10-27T04:18:57"
   },
+  "2292849@4.76 oz": {
+    "cronometer_id": 86352791,
+    "name": "Yale - Slow-Cooked Barbequed Brisket (4.76 oz, 430 cal)",
+    "sig": "fb0e827133d1032c",
+    "synced_at": "2026-10-28T04:17:52"
+  },
   "2292850@3.44 oz": {
     "cronometer_id": 86262601,
     "name": "Yale - Moroccan-Style Chickpea Tagine (3.44 oz, 70 cal)",
     "sig": "ccc2776ba685489b",
     "synced_at": "2026-10-27T04:18:57"
   },
+  "2292851@5.42 oz": {
+    "cronometer_id": 86352792,
+    "name": "Yale - Grilled Tofu with Coffee BBQ Sauce (5.42 oz, 240 cal)",
+    "sig": "86b117a3e725ff00",
+    "synced_at": "2026-10-28T04:17:52"
+  },
+  "2292852@4.57 oz": {
+    "cronometer_id": 86352793,
+    "name": "Yale - Maple Roasted Carrots (4.57 oz, 80 cal)",
+    "sig": "07332bbe6da6db33",
+    "synced_at": "2026-10-28T04:17:53"
+  },
   "2292853@6.11 oz": {
     "cronometer_id": 86163233,
     "name": "Yale - Asado Tofu (6.11 oz, 340 cal)",
     "sig": "0863317ac303699f",
     "synced_at": "2026-10-26T04:20:19"
+  },
+  "2292854@3.45 oz": {
+    "cronometer_id": 86352794,
+    "name": "Yale - Baked Beans (3.45 oz, 100 cal)",
+    "sig": "2974afe3310774fb",
+    "synced_at": "2026-10-28T04:17:53"
   },
   "2293850@3.53 oz": {
     "cronometer_id": 85519363,
@@ -6293,6 +6347,12 @@
     "sig": "df9e34c962b3f531",
     "synced_at": "2026-10-11T04:11:03"
   },
+  "2308012@16 oz": {
+    "cronometer_id": 86352787,
+    "name": "Yale - Shiitake Mushroom Pasta (16 oz, 720 cal)",
+    "sig": "d81a873e889bd952",
+    "synced_at": "2026-10-28T04:17:51"
+  },
   "2308016@18 oz": {
     "cronometer_id": 86069581,
     "name": "Yale - Pesto Cream with Roasted Tomatoes (18 oz, 1580 cal)",
@@ -6436,6 +6496,12 @@
     "name": "Yale - Buffalo Chicken Soup (12 oz, 330 cal)",
     "sig": "9d8785ef15f11b59",
     "synced_at": "2026-10-25T04:14:48"
+  },
+  "2310286@7 oz": {
+    "cronometer_id": 86352785,
+    "name": "Yale - Buffalo Chicken Soup (7 oz, 190 cal)",
+    "sig": "89c310cd92b3dab1",
+    "synced_at": "2026-10-28T04:17:51"
   },
   "2310331@3.71 oz": {
     "cronometer_id": 84767095,
@@ -6725,6 +6791,12 @@
     "sig": "95f2796319a8a91d",
     "synced_at": "2026-10-12T04:00:52"
   },
+  "2314984@7 oz": {
+    "cronometer_id": 86352786,
+    "name": "Yale - Roasted Red Pepper & Gouda Cheese Soup (7 oz, 170 cal)",
+    "sig": "94fe611bbfbe9a9f",
+    "synced_at": "2026-10-28T04:17:51"
+  },
   "2314985@7 oz": {
     "cronometer_id": 86069568,
     "name": "Yale - Sausage Linguica and Kale Soup (7 oz, 130 cal)",
@@ -6905,6 +6977,12 @@
     "sig": "fc874995a0f22461",
     "synced_at": "2026-10-26T04:20:19"
   },
+  "2322973@12 oz": {
+    "cronometer_id": 86352790,
+    "name": "Yale - Chicken Thai Red Curry Soup (12 oz, 220 cal)",
+    "sig": "37a226ab1b0cb1f1",
+    "synced_at": "2026-10-28T04:17:52"
+  },
   "2325349@6.58 oz": {
     "cronometer_id": 84846489,
     "name": "Yale - Chef's Choice Pizza (6.58 oz, 390 cal)",
@@ -6964,6 +7042,12 @@
     "name": "Yale - Roasted Corn (5.17 oz, 170 cal)",
     "sig": "6cb2f6471febf5d4",
     "synced_at": "2026-10-25T04:14:39"
+  },
+  "2349900@6.86 oz": {
+    "cronometer_id": 86352781,
+    "name": "Yale - Soy Butter Chicken (6.86 oz, 360 cal)",
+    "sig": "f5f55eb8e93909d8",
+    "synced_at": "2026-10-28T04:17:50"
   },
   "2349901@3.5 oz": {
     "cronometer_id": 86163213,
@@ -7990,6 +8074,12 @@
     "name": "Yale - Chili-Rubbed Texas Strip Steak (2.5 oz, 120 cal)",
     "sig": "e3ca1de9d078c17a",
     "synced_at": "2026-10-16T04:11:47"
+  },
+  "2459989@0.66 oz": {
+    "cronometer_id": 86352788,
+    "name": "Yale - YSC Sub Slaw Green Papaya Dressing (0.66 oz, 15 cal)",
+    "sig": "b65b55a7e36f21f5",
+    "synced_at": "2026-10-28T04:17:51"
   },
   "2461602@41.1 oz": {
     "cronometer_id": 85463278,
