@@ -2335,9 +2335,9 @@
   },
   "2235291@4 oz": {
     "cronometer_id": 84769158,
-    "name": "Yale - Signature Massaged Kale Salad with Butternut Squash, Goat Cheese, Quinoa, and Pepitas (4 oz, 290 cal)",
-    "sig": "db4bd130c5c2820c",
-    "synced_at": "2026-10-27T02:45:17"
+    "name": "Yale - Signature Massaged Kale Salad with Butternut Squash, Goat Cheese, Quinoa, and Pepitas (4 oz, 280 cal)",
+    "sig": "e7e67de902c556da",
+    "synced_at": "2026-10-28T13:56:34"
   },
   "2235291@4.01 oz": {
     "cronometer_id": 84846542,
@@ -6269,11 +6269,29 @@
     "sig": "074e434cf0817a41",
     "synced_at": "2026-10-20T17:19:39"
   },
+  "2307962@15.1 oz": {
+    "cronometer_id": 86376781,
+    "name": "Yale - Eggplant and Hummus Sandwich (15.1 oz, 640 cal)",
+    "sig": "c93d1fa3ef22347d",
+    "synced_at": "2026-10-28T13:56:34"
+  },
+  "2307965@18.9 oz": {
+    "cronometer_id": 86376783,
+    "name": "Yale - Roast Beef and Gouda Sandwich (18.9 oz, 1030 cal)",
+    "sig": "9212ddae5d6a3797",
+    "synced_at": "2026-10-28T13:56:34"
+  },
   "2307966@15.1 oz": {
     "cronometer_id": 86069572,
     "name": "Yale - Ginger Soy Pork Dumpling (15.1 oz, 720 cal)",
     "sig": "1b2484e0eec3d54a",
     "synced_at": "2026-10-25T04:14:45"
+  },
+  "2307967@14.1 oz": {
+    "cronometer_id": 86376785,
+    "name": "Yale - Basil Avocado Turkey Sandwich (14.1 oz, 750 cal)",
+    "sig": "499e268cd3b31181",
+    "synced_at": "2026-10-28T13:56:34"
   },
   "2307968@15 oz": {
     "cronometer_id": 86069573,
@@ -6287,11 +6305,41 @@
     "sig": "488521074939c1b3",
     "synced_at": "2026-10-21T12:52:39"
   },
+  "2307971@10 oz": {
+    "cronometer_id": 86376786,
+    "name": "Yale - Tuscan Kale Caesar Salad (10 oz, 580 cal)",
+    "sig": "175983b24050cd8f",
+    "synced_at": "2026-10-28T13:56:34"
+  },
+  "2307973@25.2 oz": {
+    "cronometer_id": 86376787,
+    "name": "Yale - Southwest Cobb Salad (25.2 oz, 940 cal)",
+    "sig": "798575355b938f1c",
+    "synced_at": "2026-10-28T13:56:35"
+  },
   "2307974@1.99 oz": {
     "cronometer_id": 85841696,
     "name": "Yale - YSC Sub Sauce Ginger Soy Dumpling (1.99 oz, 60 cal)",
     "sig": "8fe5d0b897c45310",
     "synced_at": "2026-10-22T04:03:11"
+  },
+  "2307975@16.7 oz": {
+    "cronometer_id": 86376788,
+    "name": "Yale - Sesame Ginger Soba Noodle Salad (16.7 oz, 830 cal)",
+    "sig": "0fd8326134584f48",
+    "synced_at": "2026-10-28T13:56:35"
+  },
+  "2307977@11.5 oz": {
+    "cronometer_id": 86376789,
+    "name": "Yale - Cranberry Walnut Salad (11.5 oz, 510 cal)",
+    "sig": "fb02c0a3e7db4e93",
+    "synced_at": "2026-10-28T13:56:35"
+  },
+  "2307984@9.47 oz": {
+    "cronometer_id": 86376790,
+    "name": "Yale - Passion Fruit Parfait (9.47 oz, 340 cal)",
+    "sig": "0ddc1831b3e2be91",
+    "synced_at": "2026-10-28T13:56:35"
   },
   "2307986@4 oz": {
     "cronometer_id": 84769210,
@@ -6317,6 +6365,12 @@
     "sig": "9f232da0af56ffa4",
     "synced_at": "2026-10-10T03:53:28"
   },
+  "2307989@4.5 oz": {
+    "cronometer_id": 86376791,
+    "name": "Yale - Pumpkin Pound Cake (4.5 oz, 520 cal)",
+    "sig": "b25e5801b720ec6f",
+    "synced_at": "2026-10-28T13:56:35"
+  },
   "2307990@5 oz": {
     "cronometer_id": 85660101,
     "name": "Yale - YSC Beef Birria Sazon (5 oz, 240 cal)",
@@ -6341,11 +6395,41 @@
     "sig": "d648d8fbd4d8dd13",
     "synced_at": "2026-10-22T04:03:11"
   },
+  "2307998@17.5 oz": {
+    "cronometer_id": 86376794,
+    "name": "Yale - Strawberry Matcha Lemonade (17.5 oz, 780 cal)",
+    "sig": "0289e5c6feb8600b",
+    "synced_at": "2026-10-28T13:56:35"
+  },
   "2307999@2 oz": {
     "cronometer_id": 84769192,
     "name": "Yale - YSC Slaw Curtido (2 oz, 40 cal)",
     "sig": "b8c4e855f1a84b35",
     "synced_at": "2026-10-10T03:53:24"
+  },
+  "2308000@64.2 oz": {
+    "cronometer_id": 86376796,
+    "name": "Yale - Strawberry Banana Smoothie (64.2 oz, 480 cal)",
+    "sig": "ad218191ac0b0a31",
+    "synced_at": "2026-10-28T13:56:36"
+  },
+  "2308002@65 oz": {
+    "cronometer_id": 86376798,
+    "name": "Yale - Mango Tajin Smoothie (65 oz, 580 cal)",
+    "sig": "6ee419213d6ec220",
+    "synced_at": "2026-10-28T13:56:36"
+  },
+  "2308004@64.5 oz": {
+    "cronometer_id": 86376799,
+    "name": "Yale - Matcha Mango Smoothie (64.5 oz, 610 cal)",
+    "sig": "4403914382067f69",
+    "synced_at": "2026-10-28T13:56:36"
+  },
+  "2308007@52.6 oz": {
+    "cronometer_id": 86376800,
+    "name": "Yale - Lychee Boba Dragon Lemonade (52.6 oz, 910 cal)",
+    "sig": "9841a68b2e4d0506",
+    "synced_at": "2026-10-28T13:56:36"
   },
   "2308008@18 oz": {
     "cronometer_id": 86069580,
@@ -6365,11 +6449,47 @@
     "sig": "d81a873e889bd952",
     "synced_at": "2026-10-28T04:17:51"
   },
+  "2308013@82.8 oz": {
+    "cronometer_id": 86376802,
+    "name": "Yale - Brown Sugar Boba Latte (82.8 oz, 280 cal)",
+    "sig": "2ea96699e19e81bc",
+    "synced_at": "2026-10-28T13:56:36"
+  },
   "2308016@18 oz": {
     "cronometer_id": 86069581,
     "name": "Yale - Pesto Cream with Roasted Tomatoes (18 oz, 1580 cal)",
     "sig": "f311019e73f751d7",
     "synced_at": "2026-10-25T04:14:47"
+  },
+  "2308017@16.5 oz": {
+    "cronometer_id": 86376805,
+    "name": "Yale - Sweet Bowl Acai (16.5 oz, 780 cal)",
+    "sig": "99617d320ee1651e",
+    "synced_at": "2026-10-28T13:56:36"
+  },
+  "2308018@18.7 oz": {
+    "cronometer_id": 86376806,
+    "name": "Yale - Power Bowl Acai (18.7 oz, 1050 cal)",
+    "sig": "113b251abc305628",
+    "synced_at": "2026-10-28T13:56:36"
+  },
+  "2308020@17.1 oz": {
+    "cronometer_id": 86376808,
+    "name": "Yale - Elm Classic Bowl Acai (17.1 oz, 690 cal)",
+    "sig": "d23a322acdf995b9",
+    "synced_at": "2026-10-28T13:56:37"
+  },
+  "2308023@16.5 oz": {
+    "cronometer_id": 86376809,
+    "name": "Yale - Sweet Bowl Yogurt (16.5 oz, 660 cal)",
+    "sig": "ec2e1cc16b645bac",
+    "synced_at": "2026-10-28T13:56:37"
+  },
+  "2308025@17.1 oz": {
+    "cronometer_id": 86376810,
+    "name": "Yale - Elm Classic Bowl Yogurt (17.1 oz, 580 cal)",
+    "sig": "766f844ea02438c3",
+    "synced_at": "2026-10-28T13:56:37"
   },
   "2308027@15.5 oz": {
     "cronometer_id": 85775357,
@@ -7097,6 +7217,12 @@
     "sig": "8864677991232d38",
     "synced_at": "2026-10-12T15:22:46"
   },
+  "2352041@12.3 oz": {
+    "cronometer_id": 86376782,
+    "name": "Yale - Prosciutto and Stracciatella Sandwich (12.3 oz, 800 cal)",
+    "sig": "85dcacb8293fe3ce",
+    "synced_at": "2026-10-28T13:56:34"
+  },
   "2354674@3.53 oz": {
     "cronometer_id": 84820572,
     "name": "Yale - Mozzarella Flatbread Pizza (3.53 oz, 250 cal)",
@@ -7210,6 +7336,36 @@
     "name": "Yale - Chocolate Chunk Cookie (3 oz, 390 cal)",
     "sig": "1b692128c8c90681",
     "synced_at": "2026-10-10T03:53:28"
+  },
+  "2354690@7 oz": {
+    "cronometer_id": 86376792,
+    "name": "Yale - Asiago Bagel with Cream Cheese (7 oz, 580 cal)",
+    "sig": "e30de3085e23585a",
+    "synced_at": "2026-10-28T13:56:35"
+  },
+  "2354692@7 oz": {
+    "cronometer_id": 86376793,
+    "name": "Yale - Everything Bagel with Cream Cheese (7 oz, 580 cal)",
+    "sig": "eca5f6fab8dbdc95",
+    "synced_at": "2026-10-28T13:56:35"
+  },
+  "2354694@47.6 oz": {
+    "cronometer_id": 86376795,
+    "name": "Yale - Mango Dragon Fruit Lemonade (47.6 oz, 750 cal)",
+    "sig": "90b7023ce4539aaf",
+    "synced_at": "2026-10-28T13:56:35"
+  },
+  "2354695@47.6 oz": {
+    "cronometer_id": 86376801,
+    "name": "Yale - Mango Boba Lemonade (47.6 oz, 750 cal)",
+    "sig": "90b7023ce4539aaf",
+    "synced_at": "2026-10-28T13:56:36"
+  },
+  "2354696@91 oz": {
+    "cronometer_id": 86376803,
+    "name": "Yale - Brown Sugar Boba Milk Tea (91 oz, 960 cal)",
+    "sig": "84214620fa5725e8",
+    "synced_at": "2026-10-28T13:56:36"
   },
   "2354697@3.5 oz": {
     "cronometer_id": 84769201,
@@ -8416,6 +8572,12 @@
     "name": "Yale - Cavatelli Pasta with Winter Squash, Baby Kale, Creamy Fontina Cheese Sauce (10.4 oz, 660 cal)",
     "sig": "91bb52b0322b27aa",
     "synced_at": "2026-10-27T16:39:13"
+  },
+  "2476807@7.35 oz": {
+    "cronometer_id": 86376779,
+    "name": "Yale - Cavatelli Pasta with Winter Squash, Baby Kale, Creamy Fontina Cheese Sauce (7.35 oz, 470 cal)",
+    "sig": "10bb923a5b3e80c8",
+    "synced_at": "2026-10-28T13:56:33"
   },
   "2476808@3.58 oz": {
     "cronometer_id": 86069560,
