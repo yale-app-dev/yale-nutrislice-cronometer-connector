@@ -29,6 +29,12 @@
     "sig": "4c2f210523d6812f",
     "synced_at": "2026-10-14T04:11:44"
   },
+  "2234712@3.53 oz": {
+    "cronometer_id": 86420052,
+    "name": "Yale - Corn and Pepper Medley (3.53 oz, 100 cal)",
+    "sig": "4b76dbe259760b84",
+    "synced_at": "2026-10-28T23:19:45"
+  },
   "2234712@4.28 oz": {
     "cronometer_id": 84939028,
     "name": "Yale - Corn and Pepper Medley (4.28 oz, 120 cal)",
@@ -4072,6 +4078,12 @@
     "name": "Yale - Bacon (1.5 oz, 340 cal)",
     "sig": "7c0d69eb4fb83492",
     "synced_at": "2026-10-10T04:11:00"
+  },
+  "2264529@3.53 oz": {
+    "cronometer_id": 86420053,
+    "name": "Yale - Roasted Garlic Potatoes with Rosemary, Parsley and Sage (3.53 oz, 80 cal)",
+    "sig": "8cc5994e7cc5d8f6",
+    "synced_at": "2026-10-28T23:19:45"
   },
   "2264529@5.41 oz": {
     "cronometer_id": 84767357,
