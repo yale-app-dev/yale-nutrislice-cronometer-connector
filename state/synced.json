@@ -2999,6 +2999,12 @@
     "sig": "e03ba9d8ced1c3c1",
     "synced_at": "2026-10-17T04:09:22"
   },
+  "2264353@3.53 oz": {
+    "cronometer_id": 86382704,
+    "name": "Yale - Beef and Chicken Meatballs with Pomodoro (3.53 oz, 120 cal)",
+    "sig": "2030768b72b007e9",
+    "synced_at": "2026-10-28T15:31:12"
+  },
   "2264353@6 oz": {
     "cronometer_id": 84767368,
     "name": "Yale - Beef and Chicken Meatballs with Pomodoro (6 oz, 210 cal)",
@@ -4241,6 +4247,12 @@
     "sig": "cbca54adc6bc7b08",
     "synced_at": "2026-10-10T04:11:05"
   },
+  "2264552@3.53 oz": {
+    "cronometer_id": 86382705,
+    "name": "Yale - Sauteed Broccoli Rabe (3.53 oz, 60 cal)",
+    "sig": "9f2cc94626e7a1aa",
+    "synced_at": "2026-10-28T15:31:13"
+  },
   "2264553@3 oz": {
     "cronometer_id": 84846503,
     "name": "Yale - Empanada Egg Sausage and Cheese (3 oz, 230 cal)",
@@ -4996,6 +5008,12 @@
     "name": "Yale - Green Peas (1 oz, 20 cal)",
     "sig": "e2097250e23a088f",
     "synced_at": "2026-10-18T04:10:10"
+  },
+  "2272600@3.53 oz": {
+    "cronometer_id": 86382703,
+    "name": "Yale - Green Peas (3.53 oz, 80 cal)",
+    "sig": "ea482553223cd4ef",
+    "synced_at": "2026-10-28T15:31:12"
   },
   "2272601@4 oz": {
     "cronometer_id": 84939032,
