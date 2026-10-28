@@ -1625,6 +1625,12 @@
     "sig": "167bf5c909c184b1",
     "synced_at": "2026-10-10T03:53:48"
   },
+  "2235152@3.53 oz": {
+    "cronometer_id": 86391342,
+    "name": "Yale - Chefs Choice Vegetable (3.53 oz, 45 cal)",
+    "sig": "6ad242749b34e907",
+    "synced_at": "2026-10-28T17:18:06"
+  },
   "2235153@1 oz": {
     "cronometer_id": 84939011,
     "name": "Yale - Pickled Red Onions (1 oz, 0 cal)",
@@ -5896,6 +5902,12 @@
     "name": "Yale - Stir-Fried Teriyaki Chicken (8 oz, 310 cal)",
     "sig": "8ed6f54de130cff3",
     "synced_at": "2026-10-18T04:10:21"
+  },
+  "2272724@3.53 oz": {
+    "cronometer_id": 86391341,
+    "name": "Yale - Korean Tofu (3.53 oz, 260 cal)",
+    "sig": "35a0abcae9f0936e",
+    "synced_at": "2026-10-28T17:18:06"
   },
   "2272724@8 oz": {
     "cronometer_id": 85463320,
