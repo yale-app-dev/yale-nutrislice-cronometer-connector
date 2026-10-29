@@ -893,6 +893,12 @@
     "sig": "aa9ad4035d64a5c5",
     "synced_at": "2026-10-10T19:40:34"
   },
+  "2234844@4 oz": {
+    "cronometer_id": 86437947,
+    "name": "Yale - Roasted Broccoli (4 oz, 90 cal)",
+    "sig": "8a3c7394a8318fe7",
+    "synced_at": "2026-10-29T04:37:57"
+  },
   "2234846@1.45 oz": {
     "cronometer_id": 84769061,
     "name": "Yale - Vegan Chocolate Chunk Cookie (1.45 oz, 190 cal)",
@@ -2663,6 +2669,12 @@
     "sig": "d2a4f137e298eed2",
     "synced_at": "2026-10-21T04:01:26"
   },
+  "2237742@4.56 oz": {
+    "cronometer_id": 86437945,
+    "name": "Yale - Baked Eggplant Parmesan (4.56 oz, 130 cal)",
+    "sig": "79e0a3c76d873796",
+    "synced_at": "2026-10-29T04:37:56"
+  },
   "2237749@6.48 oz": {
     "cronometer_id": 85229186,
     "name": "Yale - BBQ Chicken (6.48 oz, 280 cal)",
@@ -3509,6 +3521,12 @@
     "sig": "79188cbd48c3a692",
     "synced_at": "2026-10-10T03:52:23"
   },
+  "2264448@3.38 oz": {
+    "cronometer_id": 86437942,
+    "name": "Yale - Raspberry-Almond Muffin (3.38 oz, 280 cal)",
+    "sig": "94269af28320a392",
+    "synced_at": "2026-10-29T04:37:55"
+  },
   "2264450@2.29 oz": {
     "cronometer_id": 84767304,
     "name": "Yale - Brookie Bar (2.29 oz, 240 cal)",
@@ -3901,9 +3919,9 @@
   },
   "2264505@2.7 oz": {
     "cronometer_id": 85229196,
-    "name": "Yale - Pain Perdu (2.7 oz, 150 cal)",
-    "sig": "7a880e1192e0d4a6",
-    "synced_at": "2026-10-15T04:12:14"
+    "name": "Yale - Pain Perdu (2.7 oz, 160 cal)",
+    "sig": "dac3b37ea80cf802",
+    "synced_at": "2026-10-29T04:37:55"
   },
   "2264506@0.25 oz": {
     "cronometer_id": 85463264,
@@ -6089,6 +6107,12 @@
     "sig": "9c2e59c4a4c7d527",
     "synced_at": "2026-10-11T14:43:13"
   },
+  "2292831@7.39 oz": {
+    "cronometer_id": 86437941,
+    "name": "Yale - Banana Cream Pie (7.39 oz, 510 cal)",
+    "sig": "3a4a866c40460383",
+    "synced_at": "2026-10-29T04:37:55"
+  },
   "2292832@5.3 oz": {
     "cronometer_id": 85995508,
     "name": "Yale - Strawberry Ice Cream (5.3 oz, 320 cal)",
@@ -6256,6 +6280,18 @@
     "name": "Yale - Baked Beans (3.45 oz, 100 cal)",
     "sig": "2974afe3310774fb",
     "synced_at": "2026-10-28T04:17:53"
+  },
+  "2292855@3.53 oz": {
+    "cronometer_id": 86437944,
+    "name": "Yale - Balsamic-Marinated Chicken Breast (3.53 oz, 220 cal)",
+    "sig": "f6d49b1a021875bd",
+    "synced_at": "2026-10-29T04:37:56"
+  },
+  "2292856@8.35 oz": {
+    "cronometer_id": 86437946,
+    "name": "Yale - Penne Pasta with Pomodoro Sauce (8.35 oz, 310 cal)",
+    "sig": "8f3a1ccfc49fed37",
+    "synced_at": "2026-10-29T04:37:56"
   },
   "2293850@3.53 oz": {
     "cronometer_id": 85519363,
@@ -7066,6 +7102,12 @@
     "name": "Yale - Thai-Style Citrus Ponzu Vegetable Dumplings (0.25 oz, 5 cal)",
     "sig": "001e65d43bd5d108",
     "synced_at": "2026-10-10T03:53:24"
+  },
+  "2314999@2.01 oz": {
+    "cronometer_id": 86437943,
+    "name": "Yale - Thai-Style Citrus Ponzu Vegetable Dumplings (2.01 oz, 45 cal)",
+    "sig": "4f4f68c4a68a0373",
+    "synced_at": "2026-10-29T04:37:56"
   },
   "2315001@17.5 oz": {
     "cronometer_id": 84846561,
@@ -8608,6 +8650,18 @@
     "name": "Yale - Grilled Parmesan Chicken Breast (3.53 oz, 180 cal)",
     "sig": "402bf95ccb59ea75",
     "synced_at": "2026-10-20T14:44:34"
+  },
+  "2472991@5.33 oz": {
+    "cronometer_id": 86437948,
+    "name": "Yale - Grilled Parmesan Chicken Breast (5.33 oz, 270 cal)",
+    "sig": "69442b8f4954d067",
+    "synced_at": "2026-10-29T04:37:57"
+  },
+  "2472992@4.5 oz": {
+    "cronometer_id": 86437949,
+    "name": "Yale - Chocolate Cupcake with Chocolate Icing (4.5 oz, 510 cal)",
+    "sig": "bf4f56fbb73c992f",
+    "synced_at": "2026-10-29T04:37:57"
   },
   "2476803@6.33 oz": {
     "cronometer_id": 86069556,
