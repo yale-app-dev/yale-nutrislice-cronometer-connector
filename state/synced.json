@@ -2051,6 +2051,12 @@
     "sig": "e7191a51a303fdc5",
     "synced_at": "2026-10-12T04:00:48"
   },
+  "2235222@3.53 oz": {
+    "cronometer_id": 86468523,
+    "name": "Yale - Duck Sauce (3.53 oz, 160 cal)",
+    "sig": "e89a4aca51a18aac",
+    "synced_at": "2026-10-29T16:20:37"
+  },
   "2235223@3.53 oz": {
     "cronometer_id": 86020295,
     "name": "Yale - Steamed Carrots with Peas (3.53 oz, 60 cal)",
@@ -4462,6 +4468,12 @@
     "name": "Yale - Aglio E Olio with Vegetables (8.88 oz, 580 cal)",
     "sig": "e4b5aa82106b3a59",
     "synced_at": "2026-10-13T04:13:01"
+  },
+  "2264576@3.53 oz": {
+    "cronometer_id": 86468522,
+    "name": "Yale - Chicken Thigh Panini with Sundried Tomato Pesto (3.53 oz, 230 cal)",
+    "sig": "468a6dc0b8b86108",
+    "synced_at": "2026-10-29T16:20:37"
   },
   "2264576@5.54 oz": {
     "cronometer_id": 85042627,
