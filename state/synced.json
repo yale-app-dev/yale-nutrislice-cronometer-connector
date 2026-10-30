@@ -59,6 +59,12 @@
     "sig": "0bb10b8a1e614543",
     "synced_at": "2026-10-15T04:12:15"
   },
+  "2234715@3.53 oz": {
+    "cronometer_id": 86552214,
+    "name": "Yale - Sauteed Spinach with Garlic (3.53 oz, 70 cal)",
+    "sig": "aad7904032db2b53",
+    "synced_at": "2026-10-30T18:54:22"
+  },
   "2234718@3.53 oz": {
     "cronometer_id": 85213750,
     "name": "Yale - All-Natural Grilled Chicken Breast (3.53 oz, 190 cal)",
@@ -5140,6 +5146,12 @@
     "name": "Yale - Zucchini and Yellow Squash (2.7 oz, 15 cal)",
     "sig": "1cbccb041f7c878f",
     "synced_at": "2026-10-12T04:00:48"
+  },
+  "2272603@3.53 oz": {
+    "cronometer_id": 86552217,
+    "name": "Yale - Zucchini and Yellow Squash (3.53 oz, 20 cal)",
+    "sig": "35aba6b943c47e3d",
+    "synced_at": "2026-10-30T18:54:23"
   },
   "2272604@3.53 oz": {
     "cronometer_id": 85335694,
