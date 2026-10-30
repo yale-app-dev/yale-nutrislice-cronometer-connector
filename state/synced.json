@@ -2771,6 +2771,12 @@
     "sig": "62cc6ceb94efc1c8",
     "synced_at": "2026-10-12T04:00:49"
   },
+  "2238919@2.7 oz": {
+    "cronometer_id": 86514849,
+    "name": "Yale - Fajita Vegetables (2.7 oz, 35 cal)",
+    "sig": "f229b85d72a3e0a8",
+    "synced_at": "2026-10-30T04:26:08"
+  },
   "2238919@3.53 oz": {
     "cronometer_id": 85785456,
     "name": "Yale - Fajita Vegetables (3.53 oz, 45 cal)",
@@ -4637,6 +4643,12 @@
     "sig": "1d737ea06c2d615e",
     "synced_at": "2026-10-10T03:53:41"
   },
+  "2272544@4.09 oz": {
+    "cronometer_id": 86514848,
+    "name": "Yale - Egg-free Huevos Rancheros (4.09 oz, 130 cal)",
+    "sig": "188401236bdfa3ea",
+    "synced_at": "2026-10-30T04:26:08"
+  },
   "2272545@2.5 oz": {
     "cronometer_id": 85312301,
     "name": "Yale - Jackfruit Chili (2.5 oz, 35 cal)",
@@ -4708,6 +4720,12 @@
     "name": "Yale - Aji Amarillo Sauce (1.03 oz, 150 cal)",
     "sig": "3f2302491922c883",
     "synced_at": "2026-10-11T04:10:46"
+  },
+  "2272554@1 oz": {
+    "cronometer_id": 86514850,
+    "name": "Yale - Salsa Verde (1 oz, 120 cal)",
+    "sig": "41c283decddc6354",
+    "synced_at": "2026-10-30T04:26:08"
   },
   "2272555@3.88 oz": {
     "cronometer_id": 85841705,
@@ -5713,9 +5731,9 @@
   },
   "2272684@4.92 oz": {
     "cronometer_id": 84939020,
-    "name": "Yale - Chocolate Cupcake with Strawberry Buttercream (4.92 oz, 520 cal)",
-    "sig": "54f6dc2fe5ff37e8",
-    "synced_at": "2026-10-12T04:00:46"
+    "name": "Yale - Chocolate Cupcake with Strawberry Buttercream (4.92 oz, 500 cal)",
+    "sig": "cf0096e3de34673f",
+    "synced_at": "2026-10-30T04:26:07"
   },
   "2272685@3.25 oz": {
     "cronometer_id": 85312279,
@@ -6226,6 +6244,12 @@
     "name": "Yale - Sauce Gravy Wafu (1.51 oz, 80 cal)",
     "sig": "10321ee8168d80f9",
     "synced_at": "2026-10-10T03:53:59"
+  },
+  "2292843@7.7 oz": {
+    "cronometer_id": 86514854,
+    "name": "Yale - Gemelli Pasta with Mushrooms and White Beans (7.7 oz, 240 cal)",
+    "sig": "34ce89e0ecd6c286",
+    "synced_at": "2026-10-30T04:26:09"
   },
   "2292843@7.78 oz": {
     "cronometer_id": 85923571,
@@ -8435,6 +8459,12 @@
     "sig": "cb12caebee2eafe9",
     "synced_at": "2026-10-10T03:53:22"
   },
+  "2462359@11.5 oz": {
+    "cronometer_id": 86514852,
+    "name": "Yale - Hawaiian Pizza (11.5 oz, 400 cal)",
+    "sig": "30d9e9b7504a5030",
+    "synced_at": "2026-10-30T04:26:09"
+  },
   "2462361@6.35 oz": {
     "cronometer_id": 85138529,
     "name": "Yale - Franklin Chicken Tenders (6.35 oz, 520 cal)",
@@ -8456,8 +8486,8 @@
   "2463326@1.01 oz": {
     "cronometer_id": 84767367,
     "name": "Yale - Sauce Mayonnaise Furikake (1.01 oz, 170 cal)",
-    "sig": "2b18d72729c335b2",
-    "synced_at": "2026-10-10T03:53:59"
+    "sig": "61f6bea0afe284f6",
+    "synced_at": "2026-10-30T04:26:07"
   },
   "2464966@4.75 oz": {
     "cronometer_id": 84767191,
@@ -8668,6 +8698,24 @@
     "name": "Yale - Salad Mediterranean Dressed Salad Bar 2026 (5.57 oz, 140 cal)",
     "sig": "357957ca3b73df27",
     "synced_at": "2026-10-24T04:21:13"
+  },
+  "2472978@2.06 oz": {
+    "cronometer_id": 86514847,
+    "name": "Yale - Chocolate Fondue (2.06 oz, 190 cal)",
+    "sig": "07edab2eb3925252",
+    "synced_at": "2026-10-30T04:26:08"
+  },
+  "2472979@4 oz": {
+    "cronometer_id": 86514851,
+    "name": "Yale - Churros (4 oz, 380 cal)",
+    "sig": "e6551242892ae881",
+    "synced_at": "2026-10-30T04:26:09"
+  },
+  "2472980@4 oz": {
+    "cronometer_id": 86514853,
+    "name": "Yale - Churro 8\" Dulce De Leche Filled Frozen (4 oz, 390 cal)",
+    "sig": "60e5c51afd532a97",
+    "synced_at": "2026-10-30T04:26:09"
   },
   "2472988@3.53 oz": {
     "cronometer_id": 85441142,
