@@ -929,6 +929,12 @@
     "sig": "60ba0f8e96426585",
     "synced_at": "2026-10-11T04:11:11"
   },
+  "2234849@3.53 oz": {
+    "cronometer_id": 86541963,
+    "name": "Yale - Hummel's Nitrate-Free Hot Dog (3.53 oz, 260 cal)",
+    "sig": "e36565e7102a416a",
+    "synced_at": "2026-10-30T16:18:58"
+  },
   "2234849@3.54 oz": {
     "cronometer_id": 85229194,
     "name": "Yale - Hummel's Nitrate-Free Hot Dog (3.54 oz, 260 cal)",
@@ -4954,6 +4960,12 @@
     "name": "Yale - Roasted Cauliflower (4.98 oz, 70 cal)",
     "sig": "c157e9c011739974",
     "synced_at": "2026-10-20T04:00:33"
+  },
+  "2272582@3.53 oz": {
+    "cronometer_id": 86541964,
+    "name": "Yale - Baked Penne Pasta Ratatouille (3.53 oz, 100 cal)",
+    "sig": "ff1a3d6702f301d8",
+    "synced_at": "2026-10-30T16:18:58"
   },
   "2272582@9.2 oz": {
     "cronometer_id": 85660078,
