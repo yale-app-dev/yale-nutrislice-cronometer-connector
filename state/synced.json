@@ -3701,6 +3701,12 @@
     "sig": "f74ab591ac03c1a2",
     "synced_at": "2026-10-11T04:10:52"
   },
+  "2264469@3.53 oz": {
+    "cronometer_id": 86617820,
+    "name": "Yale - Green Bean Plain Steamed (3.53 oz, 30 cal)",
+    "sig": "570b39f2a2ac3eed",
+    "synced_at": "2026-10-31T18:51:52"
+  },
   "2264469@4 oz": {
     "cronometer_id": 84767143,
     "name": "Yale - Green Bean Plain Steamed (4 oz, 35 cal)",
@@ -5242,6 +5248,12 @@
     "name": "Yale - Stir Fry Vegetables (2.99 oz, 80 cal)",
     "sig": "d9d959a0f352bd15",
     "synced_at": "2026-10-21T04:01:29"
+  },
+  "2272610@3.53 oz": {
+    "cronometer_id": 86617819,
+    "name": "Yale - Stir Fry Vegetables (3.53 oz, 100 cal)",
+    "sig": "42126713db28c60e",
+    "synced_at": "2026-10-31T18:51:52"
   },
   "2272611@0.48 oz": {
     "cronometer_id": 85752851,
