@@ -3083,6 +3083,12 @@
     "sig": "5e76a4ace3455960",
     "synced_at": "2026-10-10T04:11:02"
   },
+  "2264353@6.08 oz": {
+    "cronometer_id": 86580370,
+    "name": "Yale - Beef and Chicken Meatballs with Pomodoro (6.08 oz, 210 cal)",
+    "sig": "7dce7ea519ce4ed0",
+    "synced_at": "2026-10-31T04:11:23"
+  },
   "2264354@5.08 oz": {
     "cronometer_id": 85042603,
     "name": "Yale - Greek-style Chicken (5.08 oz, 170 cal)",
@@ -5099,6 +5105,12 @@
     "sig": "1c2483da44a92d4b",
     "synced_at": "2026-10-10T04:10:47"
   },
+  "2272596@6.88 oz": {
+    "cronometer_id": 86580369,
+    "name": "Yale - Chicken Scarpariello (6.88 oz, 290 cal)",
+    "sig": "82aaa8829c562c92",
+    "synced_at": "2026-10-31T04:11:22"
+  },
   "2272597@0.58 oz": {
     "cronometer_id": 85463265,
     "name": "Yale - Blistered Tomatoes (0.58 oz, 5 cal)",
@@ -6862,6 +6874,12 @@
     "name": "Yale - Lemon Buttercream Golden Cupcakes (3.97 oz, 400 cal)",
     "sig": "1259db9b8093e2ba",
     "synced_at": "2026-10-10T03:52:18"
+  },
+  "2314912@2.06 oz": {
+    "cronometer_id": 86580368,
+    "name": "Yale - Raspberry Brownie (2.06 oz, 180 cal)",
+    "sig": "80da94df53eb68e2",
+    "synced_at": "2026-10-31T04:11:22"
   },
   "2314917@3.16 oz": {
     "cronometer_id": 84767208,
@@ -8782,6 +8800,12 @@
     "name": "Yale - Chocolate Cupcake with Chocolate Icing (4.5 oz, 510 cal)",
     "sig": "bf4f56fbb73c992f",
     "synced_at": "2026-10-29T04:37:57"
+  },
+  "2476802@8 oz": {
+    "cronometer_id": 86580367,
+    "name": "Yale - Southwest-style Salad with Avocado Ranch (8 oz, 350 cal)",
+    "sig": "0818c77b2412b621",
+    "synced_at": "2026-10-31T04:11:22"
   },
   "2476803@6.33 oz": {
     "cronometer_id": 86069556,
