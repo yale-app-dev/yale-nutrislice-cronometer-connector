@@ -4655,6 +4655,12 @@
     "sig": "d48d50f6f41c88fc",
     "synced_at": "2026-10-13T04:13:02"
   },
+  "2264794@3.53 oz": {
+    "cronometer_id": 86673930,
+    "name": "Yale - Espresso Spice Rubbed Beef Brisket (3.53 oz, 460 cal)",
+    "sig": "2770b27b9c7d82e6",
+    "synced_at": "2026-11-01T15:59:59"
+  },
   "2264794@5 oz": {
     "cronometer_id": 85923570,
     "name": "Yale - Espresso Spice Rubbed Beef Brisket (5 oz, 650 cal)",
@@ -4798,6 +4804,12 @@
     "name": "Yale - Macerated Mango (2 oz, 50 cal)",
     "sig": "6229db3ea5578103",
     "synced_at": "2026-10-17T04:09:22"
+  },
+  "2272550@3.53 oz": {
+    "cronometer_id": 86673929,
+    "name": "Yale - Macerated Mango (3.53 oz, 90 cal)",
+    "sig": "0bbb10ba0a4aea87",
+    "synced_at": "2026-11-01T15:59:59"
   },
   "2272551@1.93 oz": {
     "cronometer_id": 84846487,
