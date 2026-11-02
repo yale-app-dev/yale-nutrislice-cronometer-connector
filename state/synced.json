@@ -4895,6 +4895,12 @@
     "sig": "300071a4baaa027c",
     "synced_at": "2026-10-11T04:10:45"
   },
+  "2272552@3.53 oz": {
+    "cronometer_id": 86757392,
+    "name": "Yale - Red Bliss Home Fries (3.53 oz, 100 cal)",
+    "sig": "a0fa1119e6e7dd9c",
+    "synced_at": "2026-11-02T13:50:55"
+  },
   "2272552@4.02 oz": {
     "cronometer_id": 84767113,
     "name": "Yale - Red Bliss Home Fries (4.02 oz, 110 cal)",
@@ -6619,9 +6625,9 @@
   },
   "2307943@2.88 oz": {
     "cronometer_id": 86645166,
-    "name": "Yale - Multigrain Croissants (2.88 oz, 320 cal)",
-    "sig": "b87e4e9dd821ce4c",
-    "synced_at": "2026-11-01T04:41:22"
+    "name": "Yale - Multigrain Croissants (2.88 oz, 310 cal)",
+    "sig": "ba2e044494131c50",
+    "synced_at": "2026-11-02T13:50:55"
   },
   "2307944@2.29 oz": {
     "cronometer_id": 86645163,
