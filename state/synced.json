@@ -3155,6 +3155,12 @@
     "sig": "9d44a375073f642b",
     "synced_at": "2026-10-18T04:10:12"
   },
+  "2264347@3.53 oz": {
+    "cronometer_id": 86803751,
+    "name": "Yale - Tostones (3.53 oz, 210 cal)",
+    "sig": "5d43ed80e330416f",
+    "synced_at": "2026-11-02T22:32:23"
+  },
   "2264348@3.53 oz": {
     "cronometer_id": 85106161,
     "name": "Yale - Peruvian-Style Chicken Thighs (3.53 oz, 140 cal)",
@@ -3796,6 +3802,12 @@
     "name": "Yale - Peas with Vegetable Butter (3.1 oz, 90 cal)",
     "sig": "31c12c884c19408e",
     "synced_at": "2026-10-25T04:14:40"
+  },
+  "2264464@3.53 oz": {
+    "cronometer_id": 86803752,
+    "name": "Yale - Peas with Vegetable Butter (3.53 oz, 100 cal)",
+    "sig": "395bb5f4057bb74f",
+    "synced_at": "2026-11-02T22:32:23"
   },
   "2264465@0.53 oz": {
     "cronometer_id": 84767215,
