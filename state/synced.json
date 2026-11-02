@@ -167,6 +167,12 @@
     "sig": "d6415874a7a8bac5",
     "synced_at": "2026-10-17T04:09:21"
   },
+  "2234731@3.53 oz": {
+    "cronometer_id": 86771476,
+    "name": "Yale - Chicken Noodle Soup (3.53 oz, 30 cal)",
+    "sig": "640901bd7c002462",
+    "synced_at": "2026-11-02T16:53:38"
+  },
   "2234731@6.34 oz": {
     "cronometer_id": 85042620,
     "name": "Yale - Chicken Noodle Soup (6.34 oz, 50 cal)",
@@ -2479,9 +2485,9 @@
   },
   "2235291@4.01 oz": {
     "cronometer_id": 84846542,
-    "name": "Yale - Signature Massaged Kale Salad with Butternut Squash, Goat Cheese, Quinoa, and Pepitas (4.01 oz, 290 cal)",
+    "name": "Yale - Signature Massaged Kale Salad with Winter Squash Goat Cheese, Quinoa, and Pepitas (4.01 oz, 290 cal)",
     "sig": "fe34d87991d511c6",
-    "synced_at": "2026-11-01T04:41:25"
+    "synced_at": "2026-11-02T16:53:38"
   },
   "2235293@4.51 oz": {
     "cronometer_id": 84769160,
@@ -4546,6 +4552,12 @@
     "name": "Yale - Shittake Mushroom Potsticker (4 oz, 190 cal)",
     "sig": "b3e082fdb9d0a856",
     "synced_at": "2026-10-10T03:52:02"
+  },
+  "2264561@3.53 oz": {
+    "cronometer_id": 86771475,
+    "name": "Yale - Blueberry Granola Overnight Oat Parfait (3.53 oz, 140 cal)",
+    "sig": "8cbc23ff2f8cac0f",
+    "synced_at": "2026-11-02T16:53:38"
   },
   "2264561@3.57 oz": {
     "cronometer_id": 84769087,
