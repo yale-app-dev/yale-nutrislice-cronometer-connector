@@ -1943,6 +1943,12 @@
     "sig": "a4a9cff37dde88cc",
     "synced_at": "2026-10-12T04:00:44"
   },
+  "2235191@3.53 oz": {
+    "cronometer_id": 86810502,
+    "name": "Yale - Mexican Street Corn (3.53 oz, 250 cal)",
+    "sig": "494fb6b37df36546",
+    "synced_at": "2026-11-02T23:45:07"
+  },
   "2235191@4 oz": {
     "cronometer_id": 85558663,
     "name": "Yale - Mexican Street Corn (4 oz, 290 cal)",
@@ -2806,6 +2812,12 @@
     "name": "Yale - Baked Eggplant Parmesan (4.56 oz, 130 cal)",
     "sig": "79e0a3c76d873796",
     "synced_at": "2026-10-29T04:37:56"
+  },
+  "2237743@3.53 oz": {
+    "cronometer_id": 86810504,
+    "name": "Yale - Vegan Meatballs with Roasted Vegetables (3.53 oz, 90 cal)",
+    "sig": "1e2e90738d3b1fdc",
+    "synced_at": "2026-11-02T23:45:07"
   },
   "2237749@6.48 oz": {
     "cronometer_id": 85229186,
