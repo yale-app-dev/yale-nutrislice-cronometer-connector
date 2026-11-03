@@ -2861,6 +2861,12 @@
     "sig": "d2a4f137e298eed2",
     "synced_at": "2026-10-21T04:01:26"
   },
+  "2237742@3.53 oz": {
+    "cronometer_id": 86875348,
+    "name": "Yale - Baked Eggplant Parmesan (3.53 oz, 100 cal)",
+    "sig": "3873c128d9a2a437",
+    "synced_at": "2026-11-03T18:17:27"
+  },
   "2237742@4.56 oz": {
     "cronometer_id": 86437945,
     "name": "Yale - Baked Eggplant Parmesan (4.56 oz, 130 cal)",
@@ -5500,6 +5506,12 @@
     "name": "Yale - Crispy Fried Onion (1 oz, 160 cal)",
     "sig": "e6036dd161f43500",
     "synced_at": "2026-10-10T03:52:49"
+  },
+  "2272608@3.53 oz": {
+    "cronometer_id": 86875347,
+    "name": "Yale - Lomo Saltado (3.53 oz, 130 cal)",
+    "sig": "459372c6c3693572",
+    "synced_at": "2026-11-03T18:17:27"
   },
   "2272608@5.19 oz": {
     "cronometer_id": 85463308,
