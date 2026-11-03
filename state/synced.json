@@ -170,14 +170,14 @@
   "2234731@3.53 oz": {
     "cronometer_id": 86771476,
     "name": "Yale - Chicken Noodle Soup (3.53 oz, 30 cal)",
-    "sig": "640901bd7c002462",
-    "synced_at": "2026-11-02T16:53:38"
+    "sig": "1c120202a016f5fc",
+    "synced_at": "2026-11-03T03:41:21"
   },
   "2234731@6.34 oz": {
     "cronometer_id": 85042620,
-    "name": "Yale - Chicken Noodle Soup (6.34 oz, 50 cal)",
-    "sig": "824f0e68eee260c7",
-    "synced_at": "2026-10-13T04:13:00"
+    "name": "Yale - Chicken Noodle Soup (6.34 oz, 60 cal)",
+    "sig": "0886a7aff1585fbd",
+    "synced_at": "2026-11-03T03:41:21"
   },
   "2234732@3.53 oz": {
     "cronometer_id": 84966025,
@@ -3575,6 +3575,12 @@
     "sig": "948545af37028ac7",
     "synced_at": "2026-10-17T21:24:57"
   },
+  "2264410@4 oz": {
+    "cronometer_id": 86829339,
+    "name": "Yale - Cottage Cheese (4 oz, 110 cal)",
+    "sig": "aebbe853043f9ddf",
+    "synced_at": "2026-11-03T03:41:22"
+  },
   "2264412@0.5 oz": {
     "cronometer_id": 84769152,
     "name": "Yale - Avocado Ranch Dressing (0.5 oz, 60 cal)",
@@ -3818,14 +3824,14 @@
   "2264464@3.1 oz": {
     "cronometer_id": 86069552,
     "name": "Yale - Peas with Vegetable Butter (3.1 oz, 90 cal)",
-    "sig": "31c12c884c19408e",
-    "synced_at": "2026-10-25T04:14:40"
+    "sig": "5da54e189c9b1dee",
+    "synced_at": "2026-11-03T03:41:20"
   },
   "2264464@3.53 oz": {
     "cronometer_id": 86803752,
     "name": "Yale - Peas with Vegetable Butter (3.53 oz, 100 cal)",
-    "sig": "395bb5f4057bb74f",
-    "synced_at": "2026-11-02T22:32:23"
+    "sig": "f4c46f742b773a12",
+    "synced_at": "2026-11-03T03:41:21"
   },
   "2264465@0.53 oz": {
     "cronometer_id": 84767215,
@@ -5203,9 +5209,9 @@
   },
   "2272583@5.05 oz": {
     "cronometer_id": 84939015,
-    "name": "Yale - Shrimp Green Curry Stir Fry (5.05 oz, 150 cal)",
-    "sig": "4d4ceeba18b4c6d1",
-    "synced_at": "2026-11-02T05:40:01"
+    "name": "Yale - Shrimp Green Curry Stir Fry (5.05 oz, 170 cal)",
+    "sig": "7addd318689a5b6e",
+    "synced_at": "2026-11-03T03:41:22"
   },
   "2272584@2 oz": {
     "cronometer_id": 84769871,
@@ -7489,9 +7495,9 @@
   },
   "2314989@18 oz": {
     "cronometer_id": 84846559,
-    "name": "Yale - Red Curry Chicken (18 oz, 580 cal)",
-    "sig": "cd68bf0050294d91",
-    "synced_at": "2026-11-01T04:41:27"
+    "name": "Yale - Red Curry Chicken (18 oz, 640 cal)",
+    "sig": "7c83987bb2456951",
+    "synced_at": "2026-11-03T03:41:22"
   },
   "2314989@20 oz": {
     "cronometer_id": 85463313,
@@ -9289,9 +9295,9 @@
   },
   "2478184@8 oz": {
     "cronometer_id": 86645168,
-    "name": "Yale - Chicken Tikka Masala (8 oz, 330 cal)",
-    "sig": "fb64151bceb54184",
-    "synced_at": "2026-11-01T04:41:22"
+    "name": "Yale - Chicken Tikka Masala (8 oz, 380 cal)",
+    "sig": "f3d40dcf5b371f2e",
+    "synced_at": "2026-11-03T03:41:21"
   },
   "2478185@7 oz": {
     "cronometer_id": 86645169,
@@ -9326,14 +9332,14 @@
   "2482519@6.6 oz": {
     "cronometer_id": 86735553,
     "name": "Yale - YSC Cauliflower Machurian (6.6 oz, 220 cal)",
-    "sig": "e3bdcb31326960fd",
-    "synced_at": "2026-11-02T05:40:02"
+    "sig": "bbba21e1007968ba",
+    "synced_at": "2026-11-03T03:41:22"
   },
   "2482520@13.7 oz": {
     "cronometer_id": 86735555,
     "name": "Yale - YSC Lentil Red Pumpkin Dal (13.7 oz, 390 cal)",
-    "sig": "71363fe3d7b5bf1c",
-    "synced_at": "2026-11-02T05:40:02"
+    "sig": "ed3eef783c357489",
+    "synced_at": "2026-11-03T03:41:23"
   },
   "2482521@3.27 oz": {
     "cronometer_id": 86735556,
@@ -9343,9 +9349,9 @@
   },
   "2482522@6.78 oz": {
     "cronometer_id": 86735557,
-    "name": "Yale - YSC Rice Basmati with Rice and Peas Mattar Pulao (6.78 oz, 270 cal)",
-    "sig": "7f2861e6348ec554",
-    "synced_at": "2026-11-02T05:40:03"
+    "name": "Yale - YSC Rice Basmati with Rice and Peas Mattar Pulao (6.78 oz, 260 cal)",
+    "sig": "1b187e40212d5ddd",
+    "synced_at": "2026-11-03T03:41:23"
   },
   "2482523@9.86 oz": {
     "cronometer_id": 86735558,
@@ -9356,8 +9362,8 @@
   "2482524@16.6 oz": {
     "cronometer_id": 86735559,
     "name": "Yale - YSC Prawns Cooked in Coconut Milk (16.6 oz, 510 cal)",
-    "sig": "47f1952bb9300084",
-    "synced_at": "2026-11-02T05:40:03"
+    "sig": "f0b7cafe46afd021",
+    "synced_at": "2026-11-03T03:41:23"
   },
   "2482525@0.34 oz": {
     "cronometer_id": 86735560,
