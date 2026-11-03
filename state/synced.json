@@ -359,6 +359,12 @@
     "sig": "a7a3a53e2d148a8f",
     "synced_at": "2026-10-19T04:16:14"
   },
+  "2234761@3.53 oz": {
+    "cronometer_id": 86860040,
+    "name": "Yale - Shredded Lettuce (3.53 oz, 15 cal)",
+    "sig": "c19c4539808ad778",
+    "synced_at": "2026-11-03T15:12:53"
+  },
   "2234762@0.25 oz": {
     "cronometer_id": 84767173,
     "name": "Yale - Cheddar Cheese (0.25 oz, 30 cal)",
@@ -436,6 +442,12 @@
     "name": "Yale - Guacamole (2 oz, 110 cal)",
     "sig": "cbd96495d9c9ffd3",
     "synced_at": "2026-10-10T03:53:56"
+  },
+  "2234764@3.53 oz": {
+    "cronometer_id": 86860039,
+    "name": "Yale - Guacamole (3.53 oz, 200 cal)",
+    "sig": "510d2f9ca9a84b11",
+    "synced_at": "2026-11-03T15:12:53"
   },
   "2234765@0.2 oz": {
     "cronometer_id": 84939014,
@@ -2783,6 +2795,12 @@
     "sig": "f2c600e7b4eb2278",
     "synced_at": "2026-10-10T03:53:42"
   },
+  "2237176@3.53 oz": {
+    "cronometer_id": 86860038,
+    "name": "Yale - SOM Broccoli Red Cabbage Citrus Slaw (3.53 oz, 60 cal)",
+    "sig": "55d3302de1d43bdf",
+    "synced_at": "2026-11-03T15:12:53"
+  },
   "2237728@4.92 oz": {
     "cronometer_id": 85923578,
     "name": "Yale - 'Just Egg' Scramble with Corn, Tomatoes and Basil (4.92 oz, 250 cal)",
@@ -3148,6 +3166,12 @@
     "name": "Yale - Jalapeno Pepper (0.5 oz, 0 cal)",
     "sig": "1eb93528ee8b2654",
     "synced_at": "2026-10-10T03:53:56"
+  },
+  "2247970@3.53 oz": {
+    "cronometer_id": 86860042,
+    "name": "Yale - Jalapeno Pepper (3.53 oz, 15 cal)",
+    "sig": "6fdaedadf0fdc340",
+    "synced_at": "2026-11-03T15:12:54"
   },
   "2261054@4.53 oz": {
     "cronometer_id": 84769283,
