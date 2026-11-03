@@ -749,6 +749,12 @@
     "sig": "7b42f31c91fde1b4",
     "synced_at": "2026-10-17T04:09:22"
   },
+  "2234803@3.53 oz": {
+    "cronometer_id": 86866912,
+    "name": "Yale - Baked Ziti (3.53 oz, 170 cal)",
+    "sig": "a604fef6369ea0c5",
+    "synced_at": "2026-11-03T16:45:05"
+  },
   "2234803@4.76 oz": {
     "cronometer_id": 84769284,
     "name": "Yale - Baked Ziti (4.76 oz, 240 cal)",
@@ -5062,6 +5068,12 @@
     "name": "Yale - Steamed Corn (4 oz, 100 cal)",
     "sig": "2b4e0c10516f1188",
     "synced_at": "2026-10-10T03:53:54"
+  },
+  "2272559@3.53 oz": {
+    "cronometer_id": 86866913,
+    "name": "Yale - Turkey, Chipotle Mayo, Pepperjack Sandwich (3.53 oz, 250 cal)",
+    "sig": "4c546bd6c608516e",
+    "synced_at": "2026-11-03T16:45:05"
   },
   "2272559@5 oz": {
     "cronometer_id": 84939077,
