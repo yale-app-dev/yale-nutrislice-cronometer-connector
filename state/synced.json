@@ -845,6 +845,12 @@
     "sig": "32a79876541c9d25",
     "synced_at": "2026-10-14T04:11:42"
   },
+  "2234817@7.24 oz": {
+    "cronometer_id": 86924117,
+    "name": "Yale - Roasted Garlic Chicken with White Barbeque Glaze (7.24 oz, 780 cal)",
+    "sig": "0dac4be34b758f54",
+    "synced_at": "2026-11-04T05:38:45"
+  },
   "2234818@3.53 oz": {
     "cronometer_id": 85172349,
     "name": "Yale - Rockefeller Oyster Mushroom (3.53 oz, 130 cal)",
@@ -1114,6 +1120,12 @@
     "name": "Yale - Honey-Glazed Chicken Thighs (5.85 oz, 210 cal)",
     "sig": "e0c13e9014eb5a63",
     "synced_at": "2026-10-10T03:52:00"
+  },
+  "2234885@4.49 oz": {
+    "cronometer_id": 86924120,
+    "name": "Yale - Roasted Brussels Sprouts with Cranberries (4.49 oz, 110 cal)",
+    "sig": "3a12774d40236526",
+    "synced_at": "2026-11-04T05:38:46"
   },
   "2234889@2.22 oz": {
     "cronometer_id": 84846499,
@@ -1915,9 +1927,9 @@
   },
   "2235174@4 oz": {
     "cronometer_id": 84769174,
-    "name": "Yale - Chicken Chili Silliman (4 oz, 100 cal)",
-    "sig": "00d12389f883b403",
-    "synced_at": "2026-10-10T03:53:21"
+    "name": "Yale - Chicken Chili Silliman (4 oz, 130 cal)",
+    "sig": "d2adbdff329cfd04",
+    "synced_at": "2026-11-04T05:38:44"
   },
   "2235175@0.98 oz": {
     "cronometer_id": 85042599,
@@ -2008,6 +2020,12 @@
     "name": "Yale - Garlic and Chili Spiced Shrimp with Green Beans (7.15 oz, 310 cal)",
     "sig": "72a6a212e51035d0",
     "synced_at": "2026-10-17T03:08:22"
+  },
+  "2235198@4.09 oz": {
+    "cronometer_id": 86924109,
+    "name": "Yale - Toasted Cumin Basmati (4.09 oz, 170 cal)",
+    "sig": "4aef685cc6c1e3f4",
+    "synced_at": "2026-11-04T05:38:45"
   },
   "2235200@3.53 oz": {
     "cronometer_id": 84795642,
@@ -2111,6 +2129,12 @@
     "sig": "fb30be76171e0212",
     "synced_at": "2026-10-14T04:11:36"
   },
+  "2235211@4 oz": {
+    "cronometer_id": 86924119,
+    "name": "Yale - Cheesy Cauliflower au Gratin (4 oz, 250 cal)",
+    "sig": "62f95825b031707a",
+    "synced_at": "2026-11-04T05:38:46"
+  },
   "2235213@1 oz": {
     "cronometer_id": 84767187,
     "name": "Yale - Honey Mustard Dressing (1 oz, 130 cal)",
@@ -2204,8 +2228,8 @@
   "2235223@4 oz": {
     "cronometer_id": 85752827,
     "name": "Yale - Steamed Carrots with Peas (4 oz, 70 cal)",
-    "sig": "4b6d55a7d5a742bb",
-    "synced_at": "2026-10-21T04:01:26"
+    "sig": "842f16aa763cfd10",
+    "synced_at": "2026-11-04T05:38:44"
   },
   "2235225@3.53 oz": {
     "cronometer_id": 84875896,
@@ -2759,11 +2783,23 @@
     "sig": "780af0cc3bc5266b",
     "synced_at": "2026-10-27T04:18:56"
   },
+  "2235378@12 oz": {
+    "cronometer_id": 86924116,
+    "name": "Yale - Tomato Basil Soup (12 oz, 110 cal)",
+    "sig": "cff24cc1bf9556c3",
+    "synced_at": "2026-11-04T05:38:45"
+  },
   "2235378@7 oz": {
     "cronometer_id": 86069567,
     "name": "Yale - Tomato Basil Soup (7 oz, 60 cal)",
     "sig": "f7384d713efc2111",
     "synced_at": "2026-10-25T04:14:44"
+  },
+  "2235379@0.5 oz": {
+    "cronometer_id": 86924112,
+    "name": "Yale - Carrot Ginger Miso Dressing (0.5 oz, 25 cal)",
+    "sig": "8b08f4f293a4e6d5",
+    "synced_at": "2026-11-04T05:38:45"
   },
   "2235379@1 oz": {
     "cronometer_id": 84767203,
@@ -3043,9 +3079,9 @@
   },
   "2239616@3.01 oz": {
     "cronometer_id": 85138562,
-    "name": "Yale - Roasted Cauliflower with Cardamom (3.01 oz, 50 cal)",
+    "name": "Yale - Roasted Broccoli with Cardamom (3.01 oz, 50 cal)",
     "sig": "acce8fd18fb03cbe",
-    "synced_at": "2026-10-14T04:11:41"
+    "synced_at": "2026-11-04T05:38:44"
   },
   "2239617@3 oz": {
     "cronometer_id": 86069566,
@@ -3646,6 +3682,12 @@
     "name": "Yale - Cottage Cheese (4 oz, 110 cal)",
     "sig": "aebbe853043f9ddf",
     "synced_at": "2026-11-03T03:41:22"
+  },
+  "2264410@5 oz": {
+    "cronometer_id": 86924111,
+    "name": "Yale - Cottage Cheese (5 oz, 140 cal)",
+    "sig": "7ee54ee1649c23eb",
+    "synced_at": "2026-11-04T05:38:45"
   },
   "2264412@0.5 oz": {
     "cronometer_id": 84769152,
@@ -5098,6 +5140,12 @@
     "name": "Yale - Oven Baked Sweet Potato Fries (3.53 oz, 90 cal)",
     "sig": "787f1548fb00ebd6",
     "synced_at": "2026-10-10T12:11:24"
+  },
+  "2272560@4.02 oz": {
+    "cronometer_id": 86924113,
+    "name": "Yale - Oven Baked Sweet Potato Fries (4.02 oz, 100 cal)",
+    "sig": "626bfe761c356778",
+    "synced_at": "2026-11-04T05:38:45"
   },
   "2272560@4.04 oz": {
     "cronometer_id": 85042595,
@@ -7211,6 +7259,12 @@
     "sig": "d79ae2616c3eb462",
     "synced_at": "2026-10-10T03:53:43"
   },
+  "2314903@3.92 oz": {
+    "cronometer_id": 86924110,
+    "name": "Yale - Pumpkin Tea Bread (3.92 oz, 320 cal)",
+    "sig": "03917a0b261b9f7d",
+    "synced_at": "2026-11-04T05:38:45"
+  },
   "2314904@3.37 oz": {
     "cronometer_id": 84769183,
     "name": "Yale - Apple Cardamon Cake (3.37 oz, 270 cal)",
@@ -7288,6 +7342,12 @@
     "name": "Yale - Strawberry Cheesecake Bar (3.53 oz, 290 cal)",
     "sig": "e92154964e8e8b94",
     "synced_at": "2026-10-11T14:43:13"
+  },
+  "2314937@4.15 oz": {
+    "cronometer_id": 86924118,
+    "name": "Yale - Southern Gumbo (4.15 oz, 130 cal)",
+    "sig": "86f06fbd39c74b13",
+    "synced_at": "2026-11-04T05:38:46"
   },
   "2314938@4.93 oz": {
     "cronometer_id": 84939074,
@@ -7582,6 +7642,12 @@
     "name": "Yale - Sausage Linguica and Kale Soup (7 oz, 130 cal)",
     "sig": "f79499ba8fd903aa",
     "synced_at": "2026-10-25T04:14:44"
+  },
+  "2314986@12 oz": {
+    "cronometer_id": 86924114,
+    "name": "Yale - Italian Wedding Soup (12 oz, 180 cal)",
+    "sig": "afa26130516829b2",
+    "synced_at": "2026-11-04T05:38:45"
   },
   "2314986@7 oz": {
     "cronometer_id": 85752843,
