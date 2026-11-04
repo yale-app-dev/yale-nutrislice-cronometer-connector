@@ -3899,6 +3899,12 @@
     "sig": "30d19b588d02765b",
     "synced_at": "2026-10-10T03:52:18"
   },
+  "2264456@3.53 oz": {
+    "cronometer_id": 86954043,
+    "name": "Yale - White Chocolate Macadamia Nut Cookie (3.53 oz, 490 cal)",
+    "sig": "884101d1b81c4ff6",
+    "synced_at": "2026-11-04T16:24:33"
+  },
   "2264457@5.3 oz": {
     "cronometer_id": 84767306,
     "name": "Yale - Mint Chocolate Chip Ice Cream (5.3 oz, 380 cal)",
@@ -5494,6 +5500,12 @@
     "name": "Yale - Green Peas (3.53 oz, 80 cal)",
     "sig": "ea482553223cd4ef",
     "synced_at": "2026-10-28T15:31:12"
+  },
+  "2272601@3.53 oz": {
+    "cronometer_id": 86954041,
+    "name": "Yale - Vegan Spring Rolls (3.53 oz, 510 cal)",
+    "sig": "7e0ae55dc6bd592f",
+    "synced_at": "2026-11-04T16:24:33"
   },
   "2272601@4 oz": {
     "cronometer_id": 84939032,
