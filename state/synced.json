@@ -5387,6 +5387,12 @@
     "sig": "5bff3a75016e29a3",
     "synced_at": "2026-10-13T15:02:20"
   },
+  "2272585@3.53 oz": {
+    "cronometer_id": 86989506,
+    "name": "Yale - Thai Curry Lentils (3.53 oz, 90 cal)",
+    "sig": "73d429c6bbac695a",
+    "synced_at": "2026-11-04T23:50:30"
+  },
   "2272585@3.99 oz": {
     "cronometer_id": 84939017,
     "name": "Yale - Thai Curry Lentils (3.99 oz, 100 cal)",
@@ -6004,6 +6010,12 @@
     "name": "Yale - Ginger and Sesame Bok Choy (5.27 oz, 50 cal)",
     "sig": "2264c6aa8e3a8c9a",
     "synced_at": "2026-10-20T04:00:34"
+  },
+  "2272661@3.53 oz": {
+    "cronometer_id": 86989505,
+    "name": "Yale - Gardein Meatball Sandwich (3.53 oz, 160 cal)",
+    "sig": "80f672b3bdfb327b",
+    "synced_at": "2026-11-04T23:50:30"
   },
   "2272661@6.28 oz": {
     "cronometer_id": 85660110,
