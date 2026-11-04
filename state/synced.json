@@ -7604,8 +7604,8 @@
   "2314988@18 oz": {
     "cronometer_id": 84846558,
     "name": "Yale - Tofu Tom Kha Gai (18 oz, 530 cal)",
-    "sig": "2601a984ba3e6b55",
-    "synced_at": "2026-11-01T04:41:27"
+    "sig": "65c13dea7a7fdc09",
+    "synced_at": "2026-11-04T03:41:58"
   },
   "2314988@20 oz": {
     "cronometer_id": 85463312,
@@ -7616,8 +7616,8 @@
   "2314989@18 oz": {
     "cronometer_id": 84846559,
     "name": "Yale - Red Curry Chicken (18 oz, 640 cal)",
-    "sig": "7c83987bb2456951",
-    "synced_at": "2026-11-03T03:41:22"
+    "sig": "a81537012fc466a9",
+    "synced_at": "2026-11-04T03:41:58"
   },
   "2314989@20 oz": {
     "cronometer_id": 85463313,
@@ -7640,8 +7640,8 @@
   "2314995@15.1 oz": {
     "cronometer_id": 84846556,
     "name": "Yale - Thai Style Citrus Ponzu Chicken Dumplings (15.1 oz, 590 cal)",
-    "sig": "1a188c77e119feef",
-    "synced_at": "2026-10-11T04:11:01"
+    "sig": "d3eb6d5a9486d36a",
+    "synced_at": "2026-11-04T03:41:58"
   },
   "2314997@15 oz": {
     "cronometer_id": 85463310,
@@ -7652,8 +7652,8 @@
   "2314997@15.1 oz": {
     "cronometer_id": 84846557,
     "name": "Yale - Thai Style Citrus Ponzu Vegetable Dumplings (15.1 oz, 600 cal)",
-    "sig": "9b3cc34915302e03",
-    "synced_at": "2026-10-11T04:11:01"
+    "sig": "f705ff1d83fa99e8",
+    "synced_at": "2026-11-04T03:41:58"
   },
   "2314999@0.25 oz": {
     "cronometer_id": 84769195,
@@ -8234,8 +8234,8 @@
   "2354737@8.18 oz": {
     "cronometer_id": 84769233,
     "name": "Yale - Bacon and Onion Focaccia Pizza (8.18 oz, 520 cal)",
-    "sig": "0c34d5a2da7829cb",
-    "synced_at": "2026-10-10T03:53:32"
+    "sig": "3cb5a7d9946c4462",
+    "synced_at": "2026-11-04T03:41:57"
   },
   "2354738@6 oz": {
     "cronometer_id": 84769234,
@@ -9499,9 +9499,9 @@
   },
   "2482521@3.27 oz": {
     "cronometer_id": 86735556,
-    "name": "Yale - YSC Salad Lobia (3.27 oz, 90 cal)",
-    "sig": "15c506987023fb8c",
-    "synced_at": "2026-11-02T05:40:02"
+    "name": "Yale - YSC Salad Lobia (3.27 oz, 120 cal)",
+    "sig": "4485f5293bbeffe1",
+    "synced_at": "2026-11-04T03:41:56"
   },
   "2482522@6.78 oz": {
     "cronometer_id": 86735557,
@@ -9511,15 +9511,15 @@
   },
   "2482523@9.86 oz": {
     "cronometer_id": 86735558,
-    "name": "Yale - INC YSC Chicken with Fenugreek Methi Chicken (9.86 oz, 360 cal)",
-    "sig": "28719f1765c6907b",
-    "synced_at": "2026-11-02T05:40:03"
+    "name": "Yale - INC YSC Chicken with Fenugreek Methi Chicken (9.86 oz, 370 cal)",
+    "sig": "4cd2be9cf9c7809c",
+    "synced_at": "2026-11-04T03:41:56"
   },
   "2482524@16.6 oz": {
     "cronometer_id": 86735559,
-    "name": "Yale - YSC Prawns Cooked in Coconut Milk (16.6 oz, 510 cal)",
-    "sig": "f0b7cafe46afd021",
-    "synced_at": "2026-11-03T03:41:23"
+    "name": "Yale - YSC Prawns Cooked in Coconut Milk (16.6 oz, 520 cal)",
+    "sig": "2b803421bdc38243",
+    "synced_at": "2026-11-04T03:41:57"
   },
   "2482525@0.34 oz": {
     "cronometer_id": 86735560,
@@ -9529,9 +9529,9 @@
   },
   "2482526@11.1 oz": {
     "cronometer_id": 86735562,
-    "name": "Yale - INC YSC Black Chickpea Kala Channa (11.1 oz, 380 cal)",
-    "sig": "a78351c9dbe59afd",
-    "synced_at": "2026-11-02T05:40:03"
+    "name": "Yale - INC YSC Black Chickpea Kala Channa (11.1 oz, 390 cal)",
+    "sig": "d032d4eed02742bb",
+    "synced_at": "2026-11-04T03:41:57"
   },
   "2482527@7.52 oz": {
     "cronometer_id": 86735563,
