@@ -2023,9 +2023,9 @@
   },
   "2235195@7.15 oz": {
     "cronometer_id": 84769098,
-    "name": "Yale - Garlic and Chili Spiced Shrimp with Green Beans (7.15 oz, 310 cal)",
-    "sig": "72a6a212e51035d0",
-    "synced_at": "2026-10-17T03:08:22"
+    "name": "Yale - Garlic and Chili Spiced Shrimp with Green Beans (7.15 oz, 350 cal)",
+    "sig": "b8e04f4b540b9f3e",
+    "synced_at": "2026-11-05T05:40:21"
   },
   "2235198@4.09 oz": {
     "cronometer_id": 86924109,
@@ -4139,11 +4139,23 @@
     "sig": "52ffbfea36cdfbce",
     "synced_at": "2026-10-10T03:53:25"
   },
+  "2264490@3.48 oz": {
+    "cronometer_id": 87008912,
+    "name": "Yale - Bang Bang Tofu Bites (3.48 oz, 260 cal)",
+    "sig": "801f6728767dce7e",
+    "synced_at": "2026-11-05T05:40:22"
+  },
   "2264491@0.09 oz": {
     "cronometer_id": 84767253,
     "name": "Yale - Herbal Mint Tea (0.09 oz, 0 cal)",
     "sig": "9c2e59c4a4c7d527",
     "synced_at": "2026-10-10T03:52:32"
+  },
+  "2264492@4 oz": {
+    "cronometer_id": 87008913,
+    "name": "Yale - Bang Bang Shrimp (4 oz, 380 cal)",
+    "sig": "ffc895f6e6e2a08b",
+    "synced_at": "2026-11-05T05:40:22"
   },
   "2264492@4.05 oz": {
     "cronometer_id": 84769198,
@@ -5318,8 +5330,8 @@
   "2272577@13.3 oz": {
     "cronometer_id": 84769106,
     "name": "Yale - Stir-Fried Sweet Potato Noodles Japchae with Tofu (13.3 oz, 360 cal)",
-    "sig": "522d76c31ac30fa6",
-    "synced_at": "2026-10-10T03:52:55"
+    "sig": "1a941a5b6138c96f",
+    "synced_at": "2026-11-05T05:40:21"
   },
   "2272578@2.89 oz": {
     "cronometer_id": 85752842,
@@ -7978,6 +7990,12 @@
     "name": "Yale - Vegetable Beef Barley Soup (7 oz, 100 cal)",
     "sig": "93573d1abc7cb3e3",
     "synced_at": "2026-11-02T05:40:02"
+  },
+  "2325522@2 oz": {
+    "cronometer_id": 87008910,
+    "name": "Yale - YSC Sauce Sichuan Garlic Dumpling - Lotus (2 oz, 80 cal)",
+    "sig": "8e3d30c9bcb9d526",
+    "synced_at": "2026-11-05T05:40:22"
   },
   "2325532@3.53 oz": {
     "cronometer_id": 85085726,
