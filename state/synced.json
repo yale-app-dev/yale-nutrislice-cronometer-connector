@@ -2369,6 +2369,12 @@
     "sig": "86c1fd56122f964e",
     "synced_at": "2026-10-19T12:01:33"
   },
+  "2235242@3.53 oz": {
+    "cronometer_id": 87101608,
+    "name": "Yale - Texas French Toast (3.53 oz, 210 cal)",
+    "sig": "b90c993e590a6e73",
+    "synced_at": "2026-11-06T12:16:56"
+  },
   "2235243@6 oz": {
     "cronometer_id": 84767390,
     "name": "Yale - Coconut Yogurt (6 oz, 90 cal)",
@@ -4519,9 +4525,9 @@
   },
   "2264532@3.53 oz": {
     "cronometer_id": 86983390,
-    "name": "Yale - Sweetened Whipped Cream (3.53 oz, 390 cal)",
+    "name": "Yale - Whipped Cream (3.53 oz, 390 cal)",
     "sig": "f9d7074f38a0b9f4",
-    "synced_at": "2026-11-04T22:28:08"
+    "synced_at": "2026-11-06T12:16:56"
   },
   "2264533@0.5 oz": {
     "cronometer_id": 84767120,
