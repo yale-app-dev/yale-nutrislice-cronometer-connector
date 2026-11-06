@@ -1571,6 +1571,12 @@
     "sig": "b6d27046a807882d",
     "synced_at": "2026-10-17T21:24:57"
   },
+  "2235126@2 oz": {
+    "cronometer_id": 87087836,
+    "name": "Yale - Peeled and Diced Hard-Boiled Egg (2 oz, 80 cal)",
+    "sig": "25f2970c72904ef9",
+    "synced_at": "2026-11-06T05:05:33"
+  },
   "2235127@0.25 oz": {
     "cronometer_id": 84767174,
     "name": "Yale - Feta Cheese (0.25 oz, 20 cal)",
@@ -2849,6 +2855,12 @@
     "sig": "eff286cbfee394d0",
     "synced_at": "2026-10-16T14:09:39"
   },
+  "2235427@1 oz": {
+    "cronometer_id": 87087838,
+    "name": "Yale - Red Onion (1 oz, 10 cal) #2235427",
+    "sig": "4d0d046ece4a26c6",
+    "synced_at": "2026-11-06T05:05:33"
+  },
   "2236648@1 oz": {
     "cronometer_id": 84769286,
     "name": "Yale - Portuguese Roll (1 oz, 60 cal)",
@@ -2860,6 +2872,12 @@
     "name": "Yale - SOM Broccoli Red Cabbage Citrus Slaw (3.53 oz, 60 cal)",
     "sig": "55d3302de1d43bdf",
     "synced_at": "2026-11-03T15:12:53"
+  },
+  "2237724@6.18 oz": {
+    "cronometer_id": 87087827,
+    "name": "Yale - Apple Cinnamon French Toast Casserole (6.18 oz, 380 cal)",
+    "sig": "b98a5a077c55207e",
+    "synced_at": "2026-11-06T05:05:31"
   },
   "2237728@4.92 oz": {
     "cronometer_id": 85923578,
@@ -4373,6 +4391,12 @@
     "sig": "08c361907e182ea8",
     "synced_at": "2026-10-10T03:53:39"
   },
+  "2264515@1.5 oz": {
+    "cronometer_id": 87087835,
+    "name": "Yale - Smoked Salmon Cream Cheese (1.5 oz, 130 cal)",
+    "sig": "4ef8e4837dcb2b40",
+    "synced_at": "2026-11-06T05:05:33"
+  },
   "2264516@1.5 oz": {
     "cronometer_id": 84769273,
     "name": "Yale - Accompaniments Smoked Salmon (1.5 oz, 10 cal)",
@@ -4489,9 +4513,9 @@
   },
   "2264532@1.07 oz": {
     "cronometer_id": 84767118,
-    "name": "Yale - Sweetened Whipped Cream (1.07 oz, 120 cal)",
+    "name": "Yale - Whipped Cream (1.07 oz, 120 cal)",
     "sig": "89e5096327a2f7ce",
-    "synced_at": "2026-10-10T04:10:44"
+    "synced_at": "2026-11-06T05:05:31"
   },
   "2264532@3.53 oz": {
     "cronometer_id": 86983390,
@@ -5518,6 +5542,12 @@
     "name": "Yale - Sausage, peppers, and Onions (4.42 oz, 260 cal)",
     "sig": "9e79fbde11994de3",
     "synced_at": "2026-10-10T04:10:48"
+  },
+  "2272598@5.2 oz": {
+    "cronometer_id": 87087831,
+    "name": "Yale - Sausage, peppers, and Onions (5.2 oz, 310 cal)",
+    "sig": "d5b537746063c5cc",
+    "synced_at": "2026-11-06T05:05:32"
   },
   "2272599@6.97 oz": {
     "cronometer_id": 85463266,
@@ -7403,6 +7433,12 @@
     "sig": "b4dba8f7cd13e66c",
     "synced_at": "2026-11-02T05:40:02"
   },
+  "2314916@5.84 oz": {
+    "cronometer_id": 87087826,
+    "name": "Yale - Tiramisu Cake (5.84 oz, 510 cal)",
+    "sig": "231b31e0fe8cbd5e",
+    "synced_at": "2026-11-06T05:05:31"
+  },
   "2314917@3.16 oz": {
     "cronometer_id": 84767208,
     "name": "Yale - Strawberry Cheesecake Bar (3.16 oz, 260 cal)",
@@ -8075,6 +8111,12 @@
     "sig": "4473216a25011923",
     "synced_at": "2026-10-24T04:21:13"
   },
+  "2349903@3 oz": {
+    "cronometer_id": 87087834,
+    "name": "Yale - Everything Bagel (3 oz, 230 cal)",
+    "sig": "9d2286a8019cc551",
+    "synced_at": "2026-11-06T05:05:32"
+  },
   "2349903@3.53 oz": {
     "cronometer_id": 84769276,
     "name": "Yale - Everything Bagel (3.53 oz, 270 cal)",
@@ -8092,6 +8134,12 @@
     "name": "Yale - Capers (0.05 oz, 0 cal)",
     "sig": "2aaf203318af3a26",
     "synced_at": "2026-10-10T03:53:46"
+  },
+  "2349905@1 oz": {
+    "cronometer_id": 87087839,
+    "name": "Yale - Capers (1 oz, 0 cal)",
+    "sig": "20cd55d2541fe943",
+    "synced_at": "2026-11-06T05:05:33"
   },
   "2350755@3.53 oz": {
     "cronometer_id": 84974825,
@@ -8473,9 +8521,9 @@
   },
   "2354994@1 oz": {
     "cronometer_id": 84769250,
-    "name": "Yale - Red Onion (1 oz, 10 cal)",
+    "name": "Yale - Red Onion (1 oz, 10 cal) #2354994",
     "sig": "87344390c7a2af92",
-    "synced_at": "2026-10-10T03:53:35"
+    "synced_at": "2026-11-06T05:05:31"
   },
   "2354995@0.75 oz": {
     "cronometer_id": 84846586,
@@ -9604,6 +9652,42 @@
     "name": "Yale - YSC Poke Bowl - Spicy Salmon (16 oz, 770 cal)",
     "sig": "3aaf4467eee3189c",
     "synced_at": "2026-10-25T04:14:47"
+  },
+  "2477912@4.42 oz": {
+    "cronometer_id": 87087828,
+    "name": "Yale - Cage-Free Scrambled Eggs with Cheddar and Chives (4.42 oz, 230 cal)",
+    "sig": "4a0d9ad9133f2523",
+    "synced_at": "2026-11-06T05:05:32"
+  },
+  "2477913@5.56 oz": {
+    "cronometer_id": 87087829,
+    "name": "Yale - Egg Chorizo Rice Sandwich (5.56 oz, 410 cal)",
+    "sig": "67cc2f5571a498e7",
+    "synced_at": "2026-11-06T05:05:32"
+  },
+  "2477914@2.6 oz": {
+    "cronometer_id": 87087830,
+    "name": "Yale - Chicken Breakfast Sausage Links (2.6 oz, 120 cal)",
+    "sig": "e325d187187fa0b1",
+    "synced_at": "2026-11-06T05:05:32"
+  },
+  "2477915@1 oz": {
+    "cronometer_id": 87087833,
+    "name": "Yale - Fried Bacon Crumbles (1 oz, 600 cal)",
+    "sig": "69bcee5857d3d51d",
+    "synced_at": "2026-11-06T05:05:32"
+  },
+  "2477916@1 oz": {
+    "cronometer_id": 87087837,
+    "name": "Yale - Plum Tomatoes (1 oz, 5 cal)",
+    "sig": "d98bab54b843f206",
+    "synced_at": "2026-11-06T05:05:33"
+  },
+  "2477917@1 oz": {
+    "cronometer_id": 87087840,
+    "name": "Yale - Scallions (1 oz, 10 cal)",
+    "sig": "41ce9f42c812c56f",
+    "synced_at": "2026-11-06T05:05:34"
   },
   "2478184@8 oz": {
     "cronometer_id": 86645168,
