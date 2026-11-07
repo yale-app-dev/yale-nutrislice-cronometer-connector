@@ -185,6 +185,12 @@
     "sig": "ac73b9f126c4c6a3",
     "synced_at": "2026-10-12T13:28:50"
   },
+  "2234732@7.27 oz": {
+    "cronometer_id": 87159537,
+    "name": "Yale - Cheese and Butternut Squash Lasagna (7.27 oz, 380 cal)",
+    "sig": "aebe0087ff2c7ddf",
+    "synced_at": "2026-11-07T05:16:46"
+  },
   "2234732@7.41 oz": {
     "cronometer_id": 84767142,
     "name": "Yale - Cheese and Butternut Squash Lasagna (7.41 oz, 390 cal)",
@@ -220,6 +226,12 @@
     "name": "Yale - Garlic and Parmesan Cauliflower (4.41 oz, 240 cal)",
     "sig": "8027220231fd9112",
     "synced_at": "2026-10-10T04:10:49"
+  },
+  "2234737@4.43 oz": {
+    "cronometer_id": 87159538,
+    "name": "Yale - Garlic and Parmesan Cauliflower (4.43 oz, 240 cal)",
+    "sig": "b1fe6a804612e5f2",
+    "synced_at": "2026-11-07T05:16:46"
   },
   "2234739@3.53 oz": {
     "cronometer_id": 85717194,
@@ -1912,6 +1924,12 @@
     "name": "Yale - Pita Bread (2 oz, 160 cal)",
     "sig": "61c3c16ee8136315",
     "synced_at": "2026-10-13T04:12:59"
+  },
+  "2235171@2.66 oz": {
+    "cronometer_id": 87159535,
+    "name": "Yale - Steamed Spinach (2.66 oz, 25 cal)",
+    "sig": "673f6c9853af44c6",
+    "synced_at": "2026-11-07T05:16:45"
   },
   "2235171@3.53 oz": {
     "cronometer_id": 84870167,
@@ -5530,6 +5548,12 @@
     "name": "Yale - Chicken Scarpariello (4.42 oz, 180 cal)",
     "sig": "1c2483da44a92d4b",
     "synced_at": "2026-10-10T04:10:47"
+  },
+  "2272596@4.45 oz": {
+    "cronometer_id": 87159536,
+    "name": "Yale - Chicken Scarpariello (4.45 oz, 180 cal)",
+    "sig": "eacd0c5dd43818e9",
+    "synced_at": "2026-11-07T05:16:45"
   },
   "2272596@6.88 oz": {
     "cronometer_id": 86580369,
