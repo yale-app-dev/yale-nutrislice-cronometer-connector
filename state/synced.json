@@ -971,6 +971,12 @@
     "sig": "ceac1da385d85f6a",
     "synced_at": "2026-10-27T19:35:12"
   },
+  "2234836@3.53 oz": {
+    "cronometer_id": 87262865,
+    "name": "Yale - Fresh Chives (3.53 oz, 30 cal)",
+    "sig": "550fbc9a98f61234",
+    "synced_at": "2026-11-08T16:01:56"
+  },
   "2234837@1 oz": {
     "cronometer_id": 84769023,
     "name": "Yale - Flour Tortilla (1 oz, 90 cal)",
@@ -5825,11 +5831,23 @@
     "sig": "300b9cc44d827ca8",
     "synced_at": "2026-10-14T04:11:40"
   },
+  "2272617@3.53 oz": {
+    "cronometer_id": 87262862,
+    "name": "Yale - Cinnamon Apple French Toast Casserole (3.53 oz, 150 cal)",
+    "sig": "7def96c2f8041455",
+    "synced_at": "2026-11-08T16:01:55"
+  },
   "2272617@6.22 oz": {
     "cronometer_id": 84767307,
     "name": "Yale - Cinnamon Apple French Toast Casserole (6.22 oz, 260 cal)",
     "sig": "7c6a49292c16e2e3",
     "synced_at": "2026-10-10T03:53:53"
+  },
+  "2272618@3.53 oz": {
+    "cronometer_id": 87262864,
+    "name": "Yale - Bacon Egg and Cheese Flatbread (3.53 oz, 300 cal)",
+    "sig": "d0db6ccce7a38aee",
+    "synced_at": "2026-11-08T16:01:55"
   },
   "2272618@6.96 oz": {
     "cronometer_id": 85312276,
