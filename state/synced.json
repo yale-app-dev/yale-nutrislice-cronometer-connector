@@ -9479,6 +9479,12 @@
     "sig": "1a18d9373184ecd6",
     "synced_at": "2026-10-23T13:49:34"
   },
+  "2461609@6 oz": {
+    "cronometer_id": 87257667,
+    "name": "Yale - Chef's Selection of the Day (6 oz, 0 cal)",
+    "sig": "9c2e59c4a4c7d527",
+    "synced_at": "2026-11-08T14:48:25"
+  },
   "2462355@3.53 oz": {
     "cronometer_id": 84788333,
     "name": "Yale - Chicken Pozole Broth (3.53 oz, 35 cal)",
@@ -10012,5 +10018,11 @@
     "name": "Yale - Tofu Pad Thai in a Peanut Sauce (2.93 oz, 210 cal)",
     "sig": "07a985306c55fb16",
     "synced_at": "2026-11-03T05:25:44"
+  },
+  "2487831@1.59 oz": {
+    "cronometer_id": 87257665,
+    "name": "Yale - Belgian Waffles (1.59 oz, 60 cal)",
+    "sig": "3a3a69c0ac6689d4",
+    "synced_at": "2026-11-08T14:48:25"
   }
 }
