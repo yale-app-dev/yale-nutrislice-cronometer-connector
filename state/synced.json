@@ -5093,6 +5093,12 @@
     "sig": "9c1f869fd0105d6f",
     "synced_at": "2026-10-21T04:01:28"
   },
+  "2272538@3.53 oz": {
+    "cronometer_id": 87291855,
+    "name": "Yale - Tofu and Sweet Corn Curry (3.53 oz, 100 cal)",
+    "sig": "04a800c7d0e5f2c9",
+    "synced_at": "2026-11-08T21:18:15"
+  },
   "2272538@9.53 oz": {
     "cronometer_id": 84769179,
     "name": "Yale - Tofu and Sweet Corn Curry (9.53 oz, 280 cal)",
@@ -7540,6 +7546,12 @@
     "name": "Yale - Blueberry Scone (2.27 oz, 250 cal)",
     "sig": "51124e33499f7b8d",
     "synced_at": "2026-11-03T05:25:42"
+  },
+  "2314911@3.53 oz": {
+    "cronometer_id": 87291856,
+    "name": "Yale - Berry Crumble Pie (3.53 oz, 140 cal)",
+    "sig": "52842e1272d22603",
+    "synced_at": "2026-11-08T21:18:15"
   },
   "2314911@5.49 oz": {
     "cronometer_id": 86833779,
