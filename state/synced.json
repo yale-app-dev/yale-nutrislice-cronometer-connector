@@ -1097,6 +1097,12 @@
     "sig": "bad4a389d96b54a1",
     "synced_at": "2026-10-12T04:00:44"
   },
+  "2234864@5.07 oz": {
+    "cronometer_id": 87326742,
+    "name": "Yale - Charro Pinto Bean (5.07 oz, 80 cal)",
+    "sig": "b8a2caaf1c1b1815",
+    "synced_at": "2026-11-09T05:14:17"
+  },
   "2234870@1.45 oz": {
     "cronometer_id": 85229183,
     "name": "Yale - Rocky Road Cookie with Toffee and Almonds (1.45 oz, 190 cal)",
@@ -2087,6 +2093,12 @@
     "sig": "4aef685cc6c1e3f4",
     "synced_at": "2026-11-04T05:38:45"
   },
+  "2235200@2.7 oz": {
+    "cronometer_id": 87326744,
+    "name": "Yale - Roasted Brussels Sprouts (2.7 oz, 60 cal)",
+    "sig": "a40725be69808e9c",
+    "synced_at": "2026-11-09T05:14:17"
+  },
   "2235200@3.53 oz": {
     "cronometer_id": 84795642,
     "name": "Yale - Roasted Brussels Sprouts (3.53 oz, 80 cal)",
@@ -2635,9 +2647,9 @@
   },
   "2235291@4 oz": {
     "cronometer_id": 84769158,
-    "name": "Yale - Signature Massaged Kale Salad with Butternut Squash, Goat Cheese, Quinoa, and Pepitas (4 oz, 280 cal)",
+    "name": "Yale - Signature Massaged Kale Salad with Winter Squash Goat Cheese, Quinoa, and Pepitas (4 oz, 280 cal)",
     "sig": "e7e67de902c556da",
-    "synced_at": "2026-10-28T13:56:34"
+    "synced_at": "2026-11-09T05:14:16"
   },
   "2235291@4.01 oz": {
     "cronometer_id": 84846542,
@@ -4135,9 +4147,9 @@
   },
   "2264475@10.8 oz": {
     "cronometer_id": 84939066,
-    "name": "Yale - Yuzu Salmon Bowl (10.8 oz, 530 cal)",
-    "sig": "82f2b4df2a36cd5e",
-    "synced_at": "2026-10-27T02:45:18"
+    "name": "Yale - Yuzu Salmon Bowl (10.8 oz, 520 cal)",
+    "sig": "03d7ebc53b35885a",
+    "synced_at": "2026-11-09T05:14:17"
   },
   "2264476@3.53 oz": {
     "cronometer_id": 85596999,
@@ -5072,8 +5084,8 @@
   "2264796@4.74 oz": {
     "cronometer_id": 84939016,
     "name": "Yale - Lemongrass Chicken (4.74 oz, 430 cal)",
-    "sig": "071af41479c07388",
-    "synced_at": "2026-11-02T05:40:02"
+    "sig": "5d0069cf1268e9b5",
+    "synced_at": "2026-11-09T05:14:16"
   },
   "2266223@7.42 oz": {
     "cronometer_id": 85660075,
@@ -5518,6 +5530,12 @@
     "name": "Yale - Shrimp Green Curry Stir Fry (5.05 oz, 170 cal)",
     "sig": "7addd318689a5b6e",
     "synced_at": "2026-11-03T03:41:22"
+  },
+  "2272583@5.12 oz": {
+    "cronometer_id": 87326743,
+    "name": "Yale - Shrimp Green Curry Stir Fry (5.12 oz, 170 cal)",
+    "sig": "8ecafaeee4d081c1",
+    "synced_at": "2026-11-09T05:14:17"
   },
   "2272584@2 oz": {
     "cronometer_id": 84769871,
@@ -6061,9 +6079,9 @@
   },
   "2272642@7.6 oz": {
     "cronometer_id": 84939080,
-    "name": "Yale - Bowl Peanutty Tofu (7.6 oz, 390 cal)",
-    "sig": "7be3de94f20e0ecc",
-    "synced_at": "2026-10-12T04:00:54"
+    "name": "Yale - Bowl Peanutty Tofu (7.6 oz, 370 cal)",
+    "sig": "15b138d4c9ce5671",
+    "synced_at": "2026-11-09T05:14:17"
   },
   "2272643@3.53 oz": {
     "cronometer_id": 86011658,
@@ -8831,6 +8849,12 @@
     "sig": "681d6394fdd9b391",
     "synced_at": "2026-10-20T04:00:39"
   },
+  "2357133@2 oz": {
+    "cronometer_id": 87326741,
+    "name": "Yale - Pickled Carrots and Cucumbers (2 oz, 45 cal)",
+    "sig": "b31c52afc775741a",
+    "synced_at": "2026-11-09T05:14:16"
+  },
   "2357133@3 oz": {
     "cronometer_id": 87233857,
     "name": "Yale - Pickled Carrots and Cucumbers (3 oz, 70 cal)",
@@ -10084,5 +10108,11 @@
     "name": "Yale - Belgian Waffles (1.59 oz, 60 cal)",
     "sig": "3a3a69c0ac6689d4",
     "synced_at": "2026-11-08T14:48:25"
+  },
+  "2488014@5.98 oz": {
+    "cronometer_id": 87326740,
+    "name": "Yale - Korean Gochujang Salmon with Jasmine Rice and Pickled Vegetables (5.98 oz, 510 cal)",
+    "sig": "d17a010060b76647",
+    "synced_at": "2026-11-09T05:14:16"
   }
 }
