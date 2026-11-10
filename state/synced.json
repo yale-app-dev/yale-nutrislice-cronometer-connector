@@ -5,6 +5,12 @@
     "sig": "2019192cfb6b47a3",
     "synced_at": "2026-10-12T04:00:51"
   },
+  "2234706@3.53 oz": {
+    "cronometer_id": 87474993,
+    "name": "Yale - Habichuelas Guisadas (3.53 oz, 50 cal)",
+    "sig": "da9e1a5bbe94fb4b",
+    "synced_at": "2026-11-10T20:16:12"
+  },
   "2234706@5.09 oz": {
     "cronometer_id": 85463282,
     "name": "Yale - Habichuelas Guisadas (5.09 oz, 70 cal)",
@@ -728,8 +734,8 @@
   "2234798@3.53 oz": {
     "cronometer_id": 84979956,
     "name": "Yale - Vegetable Barley Soup (3.53 oz, 35 cal)",
-    "sig": "886a22fcd12ae3ff",
-    "synced_at": "2026-10-12T16:18:01"
+    "sig": "0c74a0ee60fe9b03",
+    "synced_at": "2026-11-10T20:16:12"
   },
   "2234798@7.06 oz": {
     "cronometer_id": 84788334,
@@ -4205,6 +4211,12 @@
     "sig": "2c7c33700788f7b6",
     "synced_at": "2026-10-10T19:12:36"
   },
+  "2264478@3.53 oz": {
+    "cronometer_id": 87474995,
+    "name": "Yale - Italian Grinder (3.53 oz, 230 cal)",
+    "sig": "d8a1ccf5a5575a36",
+    "synced_at": "2026-11-10T20:16:12"
+  },
   "2264478@7.81 oz": {
     "cronometer_id": 84846549,
     "name": "Yale - Italian Grinder (7.81 oz, 510 cal)",
@@ -6958,6 +6970,12 @@
     "name": "Yale - Sauce Gravy Wafu (1.51 oz, 80 cal)",
     "sig": "10321ee8168d80f9",
     "synced_at": "2026-10-10T03:53:59"
+  },
+  "2292843@3.53 oz": {
+    "cronometer_id": 87474994,
+    "name": "Yale - Gemelli Pasta with Mushrooms and White Beans (3.53 oz, 110 cal)",
+    "sig": "c36ac24b4504f3be",
+    "synced_at": "2026-11-10T20:16:12"
   },
   "2292843@7.7 oz": {
     "cronometer_id": 86514854,
