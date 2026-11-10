@@ -317,6 +317,12 @@
     "sig": "c9e562d035d5abf5",
     "synced_at": "2026-10-13T04:12:59"
   },
+  "2234754@4.21 oz": {
+    "cronometer_id": 87441988,
+    "name": "Yale - Parsley Fingerling Potatoes (4.21 oz, 100 cal)",
+    "sig": "e57dc60de31a040e",
+    "synced_at": "2026-11-10T12:59:59"
+  },
   "2234755@2.41 oz": {
     "cronometer_id": 84939082,
     "name": "Yale - Arroz Amarillo (2.41 oz, 60 cal)",
@@ -526,6 +532,12 @@
     "name": "Yale - Roasted Broccoli with Dijon Mustard (3.53 oz, 100 cal)",
     "sig": "d3274d50c4942629",
     "synced_at": "2026-10-23T17:22:54"
+  },
+  "2234771@3.9 oz": {
+    "cronometer_id": 87441989,
+    "name": "Yale - Roasted Broccoli with Dijon Mustard (3.9 oz, 110 cal)",
+    "sig": "66e1ae6b6a5bede8",
+    "synced_at": "2026-11-10T13:00:00"
   },
   "2234771@3.91 oz": {
     "cronometer_id": 85042606,
@@ -1925,6 +1937,12 @@
     "sig": "aea738938e523d3c",
     "synced_at": "2026-10-18T19:59:33"
   },
+  "2235167@7.27 oz": {
+    "cronometer_id": 87441987,
+    "name": "Yale - Chicken Shawarma (7.27 oz, 310 cal)",
+    "sig": "d05d93979cc488cb",
+    "synced_at": "2026-11-10T12:59:59"
+  },
   "2235167@7.36 oz": {
     "cronometer_id": 85042593,
     "name": "Yale - Chicken Shawarma (7.36 oz, 320 cal)",
@@ -2614,6 +2632,12 @@
     "name": "Yale - Blueberry Pancakes (5.5 oz, 730 cal)",
     "sig": "540b2464a99ce86e",
     "synced_at": "2026-10-10T03:53:21"
+  },
+  "2235272@3.53 oz": {
+    "cronometer_id": 87441984,
+    "name": "Yale - 'Just Egg' Farmer's Market Vegetable Frittata (3.53 oz, 240 cal)",
+    "sig": "95313659789960de",
+    "synced_at": "2026-11-10T12:59:59"
   },
   "2235273@2.93 oz": {
     "cronometer_id": 84939076,
@@ -5510,8 +5534,8 @@
   "2272580@3.65 oz": {
     "cronometer_id": 85660076,
     "name": "Yale - Montreal-Spiced Flank Steak (3.65 oz, 220 cal)",
-    "sig": "d5750e1acd7abb02",
-    "synced_at": "2026-10-20T04:00:33"
+    "sig": "855b0b411b7868c7",
+    "synced_at": "2026-11-10T12:59:59"
   },
   "2272581@4.98 oz": {
     "cronometer_id": 85660077,
@@ -7709,11 +7733,17 @@
     "sig": "12abbc404a077e71",
     "synced_at": "2026-10-14T04:11:44"
   },
+  "2314948@4.09 oz": {
+    "cronometer_id": 87441990,
+    "name": "Yale - Roasted Jerk Chicken Thighs with Charred Citrus (4.09 oz, 130 cal)",
+    "sig": "71a955dc7f67426c",
+    "synced_at": "2026-11-10T13:00:00"
+  },
   "2314948@4.16 oz": {
     "cronometer_id": 85042669,
-    "name": "Yale - Roasted Jerk Chicken Thighs with Charred Citrus (4.16 oz, 190 cal)",
-    "sig": "c6216f2de2e4b8dc",
-    "synced_at": "2026-10-13T04:13:04"
+    "name": "Yale - Roasted Jerk Chicken Thighs with Charred Citrus (4.16 oz, 140 cal)",
+    "sig": "d04632aa4c07cc45",
+    "synced_at": "2026-11-10T13:00:00"
   },
   "2314948@4.38 oz": {
     "cronometer_id": 85042656,
@@ -7742,8 +7772,8 @@
   "2314951@3.57 oz": {
     "cronometer_id": 85042660,
     "name": "Yale - Sauteed Kale with Garlic (3.57 oz, 110 cal)",
-    "sig": "4516d07bac720ede",
-    "synced_at": "2026-10-13T04:13:03"
+    "sig": "0727547413af3a5b",
+    "synced_at": "2026-11-10T13:00:00"
   },
   "2314952@6 oz": {
     "cronometer_id": 85229197,
@@ -9455,6 +9485,12 @@
     "sig": "5d0cec200a80d4e6",
     "synced_at": "2026-10-10T03:53:53"
   },
+  "2456248@3.53 oz": {
+    "cronometer_id": 87441983,
+    "name": "Yale - Lamberti's Maple Sage Chicken Sausage Patty (3.53 oz, 140 cal)",
+    "sig": "734682f3db47a3fb",
+    "synced_at": "2026-11-10T12:59:59"
+  },
   "2456249@0.5 oz": {
     "cronometer_id": 84767102,
     "name": "Yale - Whipped Butter (0.5 oz, 100 cal)",
@@ -9970,6 +10006,18 @@
     "name": "Yale - YSC Poke Bowl - Spicy Salmon (16 oz, 770 cal)",
     "sig": "3aaf4467eee3189c",
     "synced_at": "2026-10-25T04:14:47"
+  },
+  "2477442@5.65 oz": {
+    "cronometer_id": 87441985,
+    "name": "Yale - Ravioli with Butternut Squash and Sage (5.65 oz, 250 cal)",
+    "sig": "94ea29be4dbf25d6",
+    "synced_at": "2026-11-10T12:59:59"
+  },
+  "2477443@4.37 oz": {
+    "cronometer_id": 87441986,
+    "name": "Yale - Butternut Squash \"Loins\" Glazed with Maple and Rosemary (4.37 oz, 80 cal)",
+    "sig": "a603b7658a7a31bb",
+    "synced_at": "2026-11-10T12:59:59"
   },
   "2477912@4.42 oz": {
     "cronometer_id": 87087828,
