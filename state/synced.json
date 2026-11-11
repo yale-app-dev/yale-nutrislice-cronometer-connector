@@ -5429,6 +5429,12 @@
     "sig": "bd6a248c76743ab8",
     "synced_at": "2026-10-10T03:53:06"
   },
+  "2272564@3.53 oz": {
+    "cronometer_id": 87568118,
+    "name": "Yale - Olive Oil Brushed Pita (3.53 oz, 370 cal)",
+    "sig": "3a91fa641db87900",
+    "synced_at": "2026-11-11T21:56:47"
+  },
   "2272565@4.82 oz": {
     "cronometer_id": 85042596,
     "name": "Yale - Beet Diced Roasted Citrus (4.82 oz, 120 cal)",
@@ -9712,6 +9718,12 @@
     "name": "Yale - Hawaiian Pizza (11.5 oz, 400 cal)",
     "sig": "30d9e9b7504a5030",
     "synced_at": "2026-10-30T04:26:09"
+  },
+  "2462359@3.53 oz": {
+    "cronometer_id": 87568119,
+    "name": "Yale - Hawaiian Pizza (3.53 oz, 120 cal)",
+    "sig": "843d5bc856813986",
+    "synced_at": "2026-11-11T21:56:47"
   },
   "2462360@4.63 oz": {
     "cronometer_id": 86833788,
