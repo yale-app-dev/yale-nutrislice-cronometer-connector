@@ -25,15 +25,15 @@
   },
   "2234710@3.88 oz": {
     "cronometer_id": 85138581,
-    "name": "Yale - Classic Mashed Potatoes (3.88 oz, 110 cal)",
+    "name": "Yale - Creamy Mashed Potatoes (3.88 oz, 110 cal)",
     "sig": "44ca3d6dcfd15582",
-    "synced_at": "2026-10-14T04:11:44"
+    "synced_at": "2026-11-11T07:10:21"
   },
   "2234710@4 oz": {
     "cronometer_id": 85138578,
-    "name": "Yale - Classic Mashed Potatoes (4 oz, 110 cal)",
+    "name": "Yale - Creamy Mashed Potatoes (4 oz, 110 cal)",
     "sig": "4c2f210523d6812f",
-    "synced_at": "2026-10-14T04:11:44"
+    "synced_at": "2026-11-11T07:10:21"
   },
   "2234711@3.53 oz": {
     "cronometer_id": 86605202,
@@ -371,6 +371,12 @@
     "sig": "df1a96d55c9f1a3a",
     "synced_at": "2026-10-10T03:53:23"
   },
+  "2234760@4.46 oz": {
+    "cronometer_id": 87514837,
+    "name": "Yale - Roasted Carrots (4.46 oz, 70 cal)",
+    "sig": "90bd6c60a8803edb",
+    "synced_at": "2026-11-11T07:10:21"
+  },
   "2234760@4.48 oz": {
     "cronometer_id": 84769126,
     "name": "Yale - Roasted Carrots (4.48 oz, 70 cal)",
@@ -514,6 +520,12 @@
     "name": "Yale - Dino-Style Shephard's Pie (7.34 oz, 450 cal)",
     "sig": "343f4baa2de404e7",
     "synced_at": "2026-10-14T04:11:38"
+  },
+  "2234767@9.24 oz": {
+    "cronometer_id": 87514833,
+    "name": "Yale - Dino-Style Shephard's Pie (9.24 oz, 560 cal)",
+    "sig": "aeb1a3424418d59e",
+    "synced_at": "2026-11-11T07:10:20"
   },
   "2234768@4.2 oz": {
     "cronometer_id": 84939065,
@@ -4603,9 +4615,9 @@
   },
   "2264526@4.18 oz": {
     "cronometer_id": 85138540,
-    "name": "Yale - Coconut Pound Cake Ring (4.18 oz, 520 cal)",
-    "sig": "6f487d125eb56583",
-    "synced_at": "2026-10-14T04:11:38"
+    "name": "Yale - Coconut Pound Cake Ring (4.18 oz, 510 cal)",
+    "sig": "e21ab2e1bf728001",
+    "synced_at": "2026-11-11T07:10:20"
   },
   "2264527@3.3 oz": {
     "cronometer_id": 84767355,
@@ -5489,6 +5501,12 @@
     "sig": "9fd634f3ec7a3ed6",
     "synced_at": "2026-10-11T19:27:56"
   },
+  "2272573@6.03 oz": {
+    "cronometer_id": 87514834,
+    "name": "Yale - Chipotle Raspberry Chicken (6.03 oz, 210 cal)",
+    "sig": "bf34aa5946fdbe15",
+    "synced_at": "2026-11-11T07:10:20"
+  },
   "2272573@6.07 oz": {
     "cronometer_id": 84769131,
     "name": "Yale - Chipotle Raspberry Chicken (6.07 oz, 210 cal)",
@@ -5512,6 +5530,12 @@
     "name": "Yale - Spicy Mushroom Sloppy Joe Sandwich (6.53 oz, 360 cal)",
     "sig": "14057c62396a98d4",
     "synced_at": "2026-10-13T04:13:04"
+  },
+  "2272575@6.64 oz": {
+    "cronometer_id": 87514836,
+    "name": "Yale - Spicy Mushroom Sloppy Joe Sandwich (6.64 oz, 370 cal)",
+    "sig": "9dcf9f9f944a5989",
+    "synced_at": "2026-11-11T07:10:21"
   },
   "2272576@1.01 oz": {
     "cronometer_id": 85463287,
@@ -7742,8 +7766,8 @@
   "2314945@3.07 oz": {
     "cronometer_id": 85138577,
     "name": "Yale - Roasted Peas and Carrots (3.07 oz, 120 cal)",
-    "sig": "627c88220aa9d941",
-    "synced_at": "2026-10-14T04:11:43"
+    "sig": "305ba4c4cece642e",
+    "synced_at": "2026-11-11T07:10:21"
   },
   "2314945@3.53 oz": {
     "cronometer_id": 84809878,
@@ -9064,6 +9088,12 @@
     "name": "Yale - Chicken Tinga (3.53 oz, 160 cal)",
     "sig": "0e24cddc6a473f0c",
     "synced_at": "2026-10-10T20:42:55"
+  },
+  "2364488@1.5 oz": {
+    "cronometer_id": 87514838,
+    "name": "Yale - Cornbread (1.5 oz, 160 cal)",
+    "sig": "9e4191febce2de4f",
+    "synced_at": "2026-11-11T07:10:22"
   },
   "2365568@3.53 oz": {
     "cronometer_id": 85695469,
