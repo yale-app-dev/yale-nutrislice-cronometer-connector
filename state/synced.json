@@ -5639,6 +5639,12 @@
     "sig": "564c001d03b86581",
     "synced_at": "2026-10-10T03:53:54"
   },
+  "2272589@3.53 oz": {
+    "cronometer_id": 87495485,
+    "name": "Yale - Turkey Breast Roasted with Lemon Thyme (3.53 oz, 160 cal)",
+    "sig": "a7412afbe801b5ec",
+    "synced_at": "2026-11-11T00:40:40"
+  },
   "2272589@4.02 oz": {
     "cronometer_id": 85463261,
     "name": "Yale - Turkey Breast Roasted with Lemon Thyme (4.02 oz, 180 cal)",
@@ -6346,6 +6352,12 @@
     "name": "Yale - Barbecue Boneless Chicken Wings (10.2 oz, 700 cal)",
     "sig": "c161860db6b0d780",
     "synced_at": "2026-10-16T04:11:46"
+  },
+  "2272669@3.53 oz": {
+    "cronometer_id": 87495488,
+    "name": "Yale - Barbecue Boneless Chicken Wings (3.53 oz, 240 cal)",
+    "sig": "ca590398bc056e9d",
+    "synced_at": "2026-11-11T00:40:41"
   },
   "2272670@6 oz": {
     "cronometer_id": 84767128,
@@ -9646,6 +9658,12 @@
     "name": "Yale - Oven Baked Sweet Plantains (2 oz, 140 cal)",
     "sig": "00683fd2dde673c9",
     "synced_at": "2026-10-10T03:53:15"
+  },
+  "2462357@3.53 oz": {
+    "cronometer_id": 87495487,
+    "name": "Yale - Oven Baked Sweet Plantains (3.53 oz, 250 cal)",
+    "sig": "3734bebc09b6d06f",
+    "synced_at": "2026-11-11T00:40:41"
   },
   "2462358@3.53 oz": {
     "cronometer_id": 85521666,
