@@ -161,6 +161,12 @@
     "sig": "1b636cb7aebac684",
     "synced_at": "2026-10-10T03:52:55"
   },
+  "2234728@5.71 oz": {
+    "cronometer_id": 87605090,
+    "name": "Yale - Kimchi Fried Rice (5.71 oz, 280 cal)",
+    "sig": "86d519b651de3481",
+    "synced_at": "2026-11-12T10:20:28"
+  },
   "2234730@3.53 oz": {
     "cronometer_id": 85593640,
     "name": "Yale - Brownie Pudding (3.53 oz, 310 cal)",
@@ -598,6 +604,12 @@
     "name": "Yale - Jasmine Rice (2.52 oz, 150 cal)",
     "sig": "a1adf36cf258a91e",
     "synced_at": "2026-10-10T03:52:53"
+  },
+  "2234777@3 oz": {
+    "cronometer_id": 87605088,
+    "name": "Yale - Jasmine Rice (3 oz, 170 cal)",
+    "sig": "1f070feb00c0d4fd",
+    "synced_at": "2026-11-12T10:20:27"
   },
   "2234777@3.5 oz": {
     "cronometer_id": 84767262,
@@ -2122,6 +2134,12 @@
     "name": "Yale - Garlic and Chili Spiced Shrimp with Green Beans (7.15 oz, 350 cal)",
     "sig": "b8e04f4b540b9f3e",
     "synced_at": "2026-11-05T05:40:21"
+  },
+  "2235195@7.17 oz": {
+    "cronometer_id": 87605089,
+    "name": "Yale - Garlic and Chili Spiced Shrimp with Green Beans (7.17 oz, 350 cal)",
+    "sig": "56ba09c02563a43f",
+    "synced_at": "2026-11-12T10:20:28"
   },
   "2235198@4.09 oz": {
     "cronometer_id": 86924109,
@@ -7273,9 +7291,9 @@
   },
   "2307975@16.7 oz": {
     "cronometer_id": 86376788,
-    "name": "Yale - Sesame Ginger Soba Noodle Salad (16.7 oz, 830 cal)",
-    "sig": "0fd8326134584f48",
-    "synced_at": "2026-10-28T13:56:35"
+    "name": "Yale - Sesame Ginger Soba Noodle Salad (16.7 oz, 790 cal)",
+    "sig": "9e48cff1df4924e4",
+    "synced_at": "2026-11-12T10:20:27"
   },
   "2307977@11.5 oz": {
     "cronometer_id": 86376789,
