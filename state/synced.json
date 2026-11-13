@@ -311,11 +311,23 @@
     "sig": "1f11b77b1e2a6bc3",
     "synced_at": "2026-10-12T17:48:00"
   },
+  "2234751@3.9 oz": {
+    "cronometer_id": 87685090,
+    "name": "Yale - Chicken Braised in Tomato and Red Chili (3.9 oz, 110 cal)",
+    "sig": "64d7431892c398e0",
+    "synced_at": "2026-11-13T11:35:52"
+  },
   "2234751@3.94 oz": {
     "cronometer_id": 84767318,
     "name": "Yale - Chicken Braised in Tomato and Red Chili (3.94 oz, 110 cal)",
     "sig": "be136cd1ce345ac5",
     "synced_at": "2026-10-10T03:53:53"
+  },
+  "2234751@3.95 oz": {
+    "cronometer_id": 87685089,
+    "name": "Yale - Chicken Braised in Tomato and Red Chili (3.95 oz, 110 cal)",
+    "sig": "9a21697f5f5c1000",
+    "synced_at": "2026-11-13T11:35:52"
   },
   "2234752@3.53 oz": {
     "cronometer_id": 86408729,
@@ -604,6 +616,12 @@
     "name": "Yale - Soy Garlic Sauce (1.4 oz, 40 cal)",
     "sig": "1e837bf804a0e723",
     "synced_at": "2026-10-10T03:52:02"
+  },
+  "2234777@2.51 oz": {
+    "cronometer_id": 87685092,
+    "name": "Yale - Jasmine Rice (2.51 oz, 150 cal)",
+    "sig": "de98d4865e85ea1f",
+    "synced_at": "2026-11-13T11:35:53"
   },
   "2234777@2.52 oz": {
     "cronometer_id": 84769100,
@@ -1045,9 +1063,9 @@
   },
   "2234842@7.49 oz": {
     "cronometer_id": 85923577,
-    "name": "Yale - Shrimp and Grits (7.49 oz, 440 cal)",
-    "sig": "526bd78d324be601",
-    "synced_at": "2026-10-23T04:14:50"
+    "name": "Yale - Shrimp and Grits (7.49 oz, 460 cal)",
+    "sig": "84931e772840b86e",
+    "synced_at": "2026-11-13T11:35:50"
   },
   "2234843@4.85 oz": {
     "cronometer_id": 84769172,
@@ -4523,6 +4541,12 @@
     "sig": "0c75611a98ab4dd0",
     "synced_at": "2026-10-13T04:13:01"
   },
+  "2264507@7.62 oz": {
+    "cronometer_id": 87685088,
+    "name": "Yale - Shredded Hash Brown (7.62 oz, 300 cal)",
+    "sig": "4bf289b3f963ec4d",
+    "synced_at": "2026-11-13T11:35:52"
+  },
   "2264507@7.76 oz": {
     "cronometer_id": 84769022,
     "name": "Yale - Shredded Hash Brown (7.76 oz, 300 cal)",
@@ -5717,6 +5741,12 @@
     "sig": "f36a9446c7786e50",
     "synced_at": "2026-10-12T04:00:46"
   },
+  "2272588@4.01 oz": {
+    "cronometer_id": 87685091,
+    "name": "Yale - Enchilada Azteca Tomatillo (4.01 oz, 200 cal)",
+    "sig": "f7c07fcc64b99b59",
+    "synced_at": "2026-11-13T11:35:52"
+  },
   "2272588@4.05 oz": {
     "cronometer_id": 84767319,
     "name": "Yale - Enchilada Azteca Tomatillo (4.05 oz, 200 cal)",
@@ -5746,6 +5776,12 @@
     "name": "Yale - Cheese Dip Nacho Seven Layer (3.53 oz, 120 cal)",
     "sig": "42d69c0f0f1b8dad",
     "synced_at": "2026-10-13T14:35:59"
+  },
+  "2272591@4 oz": {
+    "cronometer_id": 87685093,
+    "name": "Yale - Cheese Dip Nacho Seven Layer (4 oz, 140 cal)",
+    "sig": "ce9a680da22c4321",
+    "synced_at": "2026-11-13T11:35:53"
   },
   "2272591@4.07 oz": {
     "cronometer_id": 84767322,
@@ -6103,9 +6139,9 @@
   },
   "2272627@4.07 oz": {
     "cronometer_id": 85312293,
-    "name": "Yale - General Tso's Chicken (4.07 oz, 180 cal)",
-    "sig": "74ebb11d4faab8ba",
-    "synced_at": "2026-10-16T04:11:45"
+    "name": "Yale - General Tso's Chicken (4.07 oz, 220 cal)",
+    "sig": "cd64e47af410e727",
+    "synced_at": "2026-11-13T11:35:51"
   },
   "2272628@4.38 oz": {
     "cronometer_id": 85312294,
@@ -9859,9 +9895,9 @@
   },
   "2465946@58.1 oz": {
     "cronometer_id": 85312298,
-    "name": "Yale - Mashed Potato Pizza Broccoli (58.1 oz, 3980 cal)",
-    "sig": "622b2b02e9af6cb5",
-    "synced_at": "2026-10-16T04:11:46"
+    "name": "Yale - Mashed Potato Pizza Broccoli (58.1 oz, 3950 cal)",
+    "sig": "9cf4cd89d77c3572",
+    "synced_at": "2026-11-13T11:35:51"
   },
   "2465948@31.8 oz": {
     "cronometer_id": 85752847,
