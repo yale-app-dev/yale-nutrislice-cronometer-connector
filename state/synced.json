@@ -71,6 +71,12 @@
     "sig": "05bd3e1aef0a7a99",
     "synced_at": "2026-10-10T03:52:00"
   },
+  "2234714@3.01 oz": {
+    "cronometer_id": 87754261,
+    "name": "Yale - Sauteed Bok Choy with Ginger (3.01 oz, 30 cal)",
+    "sig": "32713f3fedb31766",
+    "synced_at": "2026-11-14T11:56:08"
+  },
   "2234714@3.53 oz": {
     "cronometer_id": 85363549,
     "name": "Yale - Sauteed Bok Choy with Ginger (3.53 oz, 35 cal)",
@@ -760,6 +766,12 @@
     "name": "Yale - Steamed Snow Peas (3 oz, 70 cal)",
     "sig": "24d41fd38fd15029",
     "synced_at": "2026-10-10T04:10:55"
+  },
+  "2234795@3.02 oz": {
+    "cronometer_id": 87754260,
+    "name": "Yale - Steamed Snow Peas (3.02 oz, 70 cal)",
+    "sig": "2349bc3f837d6678",
+    "synced_at": "2026-11-14T11:56:07"
   },
   "2234795@3.53 oz": {
     "cronometer_id": 84767329,
@@ -2128,6 +2140,12 @@
     "name": "Yale - Spicy Chili Crisp Oil (0.5 oz, 90 cal)",
     "sig": "162b909a3442d3dd",
     "synced_at": "2026-10-10T03:53:09"
+  },
+  "2235188@3 oz": {
+    "cronometer_id": 87754252,
+    "name": "Yale - Roasted Green Beans (3 oz, 45 cal)",
+    "sig": "7c0cb45f7847b178",
+    "synced_at": "2026-11-14T11:56:06"
   },
   "2235188@3.53 oz": {
     "cronometer_id": 84870168,
@@ -5717,6 +5735,12 @@
     "sig": "5bff3a75016e29a3",
     "synced_at": "2026-10-13T15:02:20"
   },
+  "2272584@3.56 oz": {
+    "cronometer_id": 87754258,
+    "name": "Yale - Corn Tortilla Chips (3.56 oz, 500 cal)",
+    "sig": "e72f1c159be8373f",
+    "synced_at": "2026-11-14T11:56:07"
+  },
   "2272585@3.53 oz": {
     "cronometer_id": 86989506,
     "name": "Yale - Thai Curry Lentils (3.53 oz, 90 cal)",
@@ -6196,6 +6220,12 @@
     "name": "Yale - 'Just Egg' Soy Chorizo Vegetable Frittata (4.54 oz, 290 cal)",
     "sig": "512f66cc6ce1f1d4",
     "synced_at": "2026-10-10T04:10:52"
+  },
+  "2272633@5.16 oz": {
+    "cronometer_id": 87754257,
+    "name": "Yale - 'Just Egg' Soy Chorizo Vegetable Frittata (5.16 oz, 330 cal)",
+    "sig": "30c4068de3d49006",
+    "synced_at": "2026-11-14T11:56:07"
   },
   "2272634@0.99 oz": {
     "cronometer_id": 84767310,
@@ -6788,8 +6818,8 @@
   "2272716@2.11 oz": {
     "cronometer_id": 85386150,
     "name": "Yale - Coconut Caramel Brownie (2.11 oz, 200 cal)",
-    "sig": "8bf66f7c2df49653",
-    "synced_at": "2026-10-17T04:09:21"
+    "sig": "53c3a103e05aae88",
+    "synced_at": "2026-11-14T11:56:06"
   },
   "2272716@3.53 oz": {
     "cronometer_id": 85625187,
@@ -10097,6 +10127,30 @@
     "sig": "60e5c51afd532a97",
     "synced_at": "2026-10-30T04:26:09"
   },
+  "2472983@5.44 oz": {
+    "cronometer_id": 87754253,
+    "name": "Yale - Braided Paneer in a Masala Curry Sauce (5.44 oz, 360 cal)",
+    "sig": "5d00f410500806cd",
+    "synced_at": "2026-11-14T11:56:06"
+  },
+  "2472984@1.02 oz": {
+    "cronometer_id": 87754254,
+    "name": "Yale - Tamarind Chutney (1.02 oz, 35 cal)",
+    "sig": "1b29a8ee36b2f930",
+    "synced_at": "2026-11-14T11:56:06"
+  },
+  "2472985@8.52 oz": {
+    "cronometer_id": 87754255,
+    "name": "Yale - Mango Lassi (8.52 oz, 220 cal)",
+    "sig": "ef3653d1b65810f3",
+    "synced_at": "2026-11-14T11:56:07"
+  },
+  "2472986@8.11 oz": {
+    "cronometer_id": 87754256,
+    "name": "Yale - Black Lentil Dal (8.11 oz, 520 cal)",
+    "sig": "c9e825dc90547cf2",
+    "synced_at": "2026-11-14T11:56:07"
+  },
   "2472988@3.53 oz": {
     "cronometer_id": 85441142,
     "name": "Yale - Fall Fest 22- Butternut Squash Bisque (3.53 oz, 100 cal)",
@@ -10366,6 +10420,12 @@
     "name": "Yale - Belgian Waffles (1.59 oz, 60 cal)",
     "sig": "3a3a69c0ac6689d4",
     "synced_at": "2026-11-08T14:48:25"
+  },
+  "2488012@4 oz": {
+    "cronometer_id": 87754250,
+    "name": "Yale - Roasted Green  Beans with Blistered Tomatoes (4 oz, 60 cal)",
+    "sig": "e4d1ea46cd3d693d",
+    "synced_at": "2026-11-14T11:56:06"
   },
   "2488014@5.98 oz": {
     "cronometer_id": 87326740,
