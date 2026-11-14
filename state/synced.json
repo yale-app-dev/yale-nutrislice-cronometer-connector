@@ -3077,6 +3077,12 @@
     "sig": "4d0d046ece4a26c6",
     "synced_at": "2026-11-06T05:05:33"
   },
+  "2235429@3.53 oz": {
+    "cronometer_id": 87773530,
+    "name": "Yale - Pasta Fagioli Soup (3.53 oz, 70 cal)",
+    "sig": "3fb0c81995d49910",
+    "synced_at": "2026-11-14T17:39:32"
+  },
   "2236648@1 oz": {
     "cronometer_id": 84769286,
     "name": "Yale - Portuguese Roll (1 oz, 60 cal)",
@@ -10012,6 +10018,12 @@
     "name": "Yale - Bananas Foster (1.81 oz, 100 cal)",
     "sig": "48994542bfda94b7",
     "synced_at": "2026-10-13T04:13:02"
+  },
+  "2468366@3.53 oz": {
+    "cronometer_id": 87773532,
+    "name": "Yale - Creamy Southern-Style Grits (3.53 oz, 80 cal)",
+    "sig": "21ba350b504cff92",
+    "synced_at": "2026-11-14T17:39:33"
   },
   "2468366@4 oz": {
     "cronometer_id": 85042648,
