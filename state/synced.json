@@ -245,6 +245,12 @@
     "sig": "9871369b7670df64",
     "synced_at": "2026-10-11T04:10:50"
   },
+  "2234734@9.42 oz": {
+    "cronometer_id": 87819831,
+    "name": "Yale - 'Beyond' Sausage Scarpariello (9.42 oz, 430 cal)",
+    "sig": "7f99d12f9ed07f72",
+    "synced_at": "2026-11-15T08:10:34"
+  },
   "2234737@4.41 oz": {
     "cronometer_id": 84767144,
     "name": "Yale - Garlic and Parmesan Cauliflower (4.41 oz, 240 cal)",
@@ -2351,6 +2357,12 @@
     "sig": "6410b483dd3e3c6c",
     "synced_at": "2026-10-23T13:49:35"
   },
+  "2235214@5.75 oz": {
+    "cronometer_id": 87819814,
+    "name": "Yale - Pepperoni Flatbread Pizza (5.75 oz, 500 cal)",
+    "sig": "380caf415b6545cb",
+    "synced_at": "2026-11-15T08:10:29"
+  },
   "2235215@3.53 oz": {
     "cronometer_id": 85597000,
     "name": "Yale - Gluten-Free Maccheroni al Forno (3.53 oz, 150 cal)",
@@ -2753,6 +2765,12 @@
     "sig": "2cfbf5045b57830e",
     "synced_at": "2026-10-10T03:51:53"
   },
+  "2235280@4.32 oz": {
+    "cronometer_id": 87819828,
+    "name": "Yale - Scallion Jasmine Rice (4.32 oz, 190 cal)",
+    "sig": "eec5d875dd9a3959",
+    "synced_at": "2026-11-15T08:10:32"
+  },
   "2235290@3.74 oz": {
     "cronometer_id": 86645179,
     "name": "Yale - Greek Salad with Pepperocini Peppers, Red Onion, Grape Tomato, Kalamata Olives and Feta Cheese (3.74 oz, 45 cal)",
@@ -2807,6 +2825,12 @@
     "sig": "b7141609544e6c27",
     "synced_at": "2026-10-14T13:30:10"
   },
+  "2235294@4 oz": {
+    "cronometer_id": 87819821,
+    "name": "Yale - Crispy Falafel (4 oz, 300 cal)",
+    "sig": "172eae74e20720ed",
+    "synced_at": "2026-11-15T08:10:31"
+  },
   "2235296@12 oz": {
     "cronometer_id": 86163230,
     "name": "Yale - Potato, Bacon and Cheddar Soup (12 oz, 430 cal)",
@@ -2839,9 +2863,9 @@
   },
   "2235302@7 oz": {
     "cronometer_id": 84769153,
-    "name": "Yale - Black Forest Ham and Turkey Monte Cristo (7 oz, 430 cal)",
-    "sig": "f58fe83cd1ac73ed",
-    "synced_at": "2026-10-10T03:53:16"
+    "name": "Yale - Smoked Turkey, Ham and Swiss Cheese Monte Cristo (7 oz, 310 cal)",
+    "sig": "111a384750afa771",
+    "synced_at": "2026-11-15T08:10:30"
   },
   "2235304@5 oz": {
     "cronometer_id": 84939058,
@@ -2857,9 +2881,9 @@
   },
   "2235307@8 oz": {
     "cronometer_id": 84769155,
-    "name": "Yale - Black Bean with Avocado and Crumbled Plant Based Cheese in a Wrap (8 oz, 420 cal)",
-    "sig": "2bef685034dfccc3",
-    "synced_at": "2026-10-10T03:53:17"
+    "name": "Yale - Black Bean with Avocado and Crumbled Plant Based Cheese in a Wrap (8 oz, 430 cal)",
+    "sig": "b2f30eb0dfb66f76",
+    "synced_at": "2026-11-15T08:10:31"
   },
   "2235308@12 oz": {
     "cronometer_id": 85558658,
@@ -3550,6 +3574,12 @@
     "name": "Yale - Peruvian-Style Chicken Thighs (5.75 oz, 230 cal)",
     "sig": "507d11001dd3d766",
     "synced_at": "2026-11-08T05:17:49"
+  },
+  "2264349@2.97 oz": {
+    "cronometer_id": 87819829,
+    "name": "Yale - Lemon Marinated Chicken Breast (2.97 oz, 130 cal)",
+    "sig": "4eaeb9c3e7d69955",
+    "synced_at": "2026-11-15T08:10:34"
   },
   "2264349@3.49 oz": {
     "cronometer_id": 84767369,
@@ -4334,8 +4364,8 @@
   "2264480@10.8 oz": {
     "cronometer_id": 84846550,
     "name": "Yale - Miso Shiitake Noodle Bowl (10.8 oz, 540 cal)",
-    "sig": "94dba9d422fe4c86",
-    "synced_at": "2026-10-11T04:10:59"
+    "sig": "c824c000a607f300",
+    "synced_at": "2026-11-15T08:10:35"
   },
   "2264481@1 oz": {
     "cronometer_id": 85138534,
@@ -5825,6 +5855,12 @@
     "sig": "4e52582507771e13",
     "synced_at": "2026-10-10T03:53:55"
   },
+  "2272592@9.91 oz": {
+    "cronometer_id": 87819834,
+    "name": "Yale - Risotto Bar (9.91 oz, 220 cal)",
+    "sig": "cc0f50e9dd509bde",
+    "synced_at": "2026-11-15T08:10:35"
+  },
   "2272592@9.99 oz": {
     "cronometer_id": 85463262,
     "name": "Yale - Risotto Bar (9.99 oz, 230 cal)",
@@ -6137,6 +6173,12 @@
     "sig": "da53b0b520ce62a0",
     "synced_at": "2026-10-12T21:10:07"
   },
+  "2272623@4.1 oz": {
+    "cronometer_id": 87819833,
+    "name": "Yale - Baked Penne Pasta (4.1 oz, 110 cal)",
+    "sig": "6814a3f95c738a56",
+    "synced_at": "2026-11-15T08:10:34"
+  },
   "2272623@4.11 oz": {
     "cronometer_id": 84846507,
     "name": "Yale - Baked Penne Pasta (4.11 oz, 110 cal)",
@@ -6157,9 +6199,9 @@
   },
   "2272625@12.5 oz": {
     "cronometer_id": 84846600,
-    "name": "Yale - Tuna Poke Bowl (12.5 oz, 500 cal)",
-    "sig": "ec248e3f9c7f48f0",
-    "synced_at": "2026-10-20T02:59:37"
+    "name": "Yale - Tuna Poke Bowl (12.5 oz, 540 cal)",
+    "sig": "bd9bcd7446459c73",
+    "synced_at": "2026-11-15T08:10:35"
   },
   "2272625@3.53 oz": {
     "cronometer_id": 85695470,
@@ -6905,6 +6947,12 @@
     "sig": "7551d4b5f414b663",
     "synced_at": "2026-10-18T04:10:22"
   },
+  "2272724@9.48 oz": {
+    "cronometer_id": 87819837,
+    "name": "Yale - Korean Tofu (9.48 oz, 700 cal)",
+    "sig": "9f50f4cb5fb0ffd1",
+    "synced_at": "2026-11-15T08:10:36"
+  },
   "2272725@4 oz": {
     "cronometer_id": 85463321,
     "name": "Yale - Rice Pilaf (4 oz, 140 cal)",
@@ -7339,15 +7387,15 @@
   },
   "2307949@23.2 oz": {
     "cronometer_id": 86069574,
-    "name": "Yale - Orange Chicken (23.2 oz, 1300 cal)",
-    "sig": "5a3e251bc452d505",
-    "synced_at": "2026-10-25T04:14:45"
+    "name": "Yale - Orange Chicken (23.2 oz, 1280 cal)",
+    "sig": "c501acaf0030e6cf",
+    "synced_at": "2026-11-15T08:10:33"
   },
   "2307950@18 oz": {
     "cronometer_id": 86069575,
-    "name": "Yale - Orange Tofu (18 oz, 910 cal)",
-    "sig": "ff1f1f417595e0bb",
-    "synced_at": "2026-10-25T04:14:46"
+    "name": "Yale - Orange Tofu (18 oz, 900 cal)",
+    "sig": "70d53c573170cab9",
+    "synced_at": "2026-11-15T08:10:33"
   },
   "2307954@3.53 oz": {
     "cronometer_id": 85704102,
@@ -8333,6 +8381,12 @@
     "sig": "f4131456f6714c8c",
     "synced_at": "2026-10-10T03:53:50"
   },
+  "2322964@3 oz": {
+    "cronometer_id": 87819826,
+    "name": "Yale - Steamed Gai Lon (3 oz, 200 cal)",
+    "sig": "b67e3e2007afdfcd",
+    "synced_at": "2026-11-15T08:10:32"
+  },
   "2322968@3.53 oz": {
     "cronometer_id": 86094021,
     "name": "Yale - Vanilla Soft Serve (3.53 oz, 660 cal)",
@@ -9076,6 +9130,12 @@
     "name": "Yale - SOM Pita with Olive Oil (1 oz, 80 cal)",
     "sig": "025e2ed5546f6886",
     "synced_at": "2026-11-08T05:17:46"
+  },
+  "2357126@2.24 oz": {
+    "cronometer_id": 87819818,
+    "name": "Yale - SOM Pita with Olive Oil (2.24 oz, 180 cal)",
+    "sig": "21c950f2b343b09b",
+    "synced_at": "2026-11-15T08:10:30"
   },
   "2357129@7 oz": {
     "cronometer_id": 87233855,
@@ -10445,10 +10505,52 @@
     "sig": "e4d1ea46cd3d693d",
     "synced_at": "2026-11-14T11:56:06"
   },
+  "2488013@3.64 oz": {
+    "cronometer_id": 87819813,
+    "name": "Yale - Lemon and Thyme Roasted Chicken (3.64 oz, 260 cal)",
+    "sig": "c4136c2895fc836c",
+    "synced_at": "2026-11-15T08:10:29"
+  },
   "2488014@5.98 oz": {
     "cronometer_id": 87326740,
     "name": "Yale - Korean Gochujang Salmon with Jasmine Rice and Pickled Vegetables (5.98 oz, 510 cal)",
     "sig": "d17a010060b76647",
     "synced_at": "2026-11-09T05:14:16"
+  },
+  "2488339@8.41 oz": {
+    "cronometer_id": 87819815,
+    "name": "Yale - Chicken Thigh Souvlaki with Feta Cheese, Tomaro and Oregano (8.41 oz, 1790 cal)",
+    "sig": "0838841b765a912d",
+    "synced_at": "2026-11-15T08:10:29"
+  },
+  "2488340@7.81 oz": {
+    "cronometer_id": 87819822,
+    "name": "Yale - Organic White Miso Whole Grain Mustard Chicken Thigh (7.81 oz, 280 cal)",
+    "sig": "5ce836253a7d3214",
+    "synced_at": "2026-11-15T08:10:31"
+  },
+  "2488342@8.76 oz": {
+    "cronometer_id": 87819816,
+    "name": "Yale - SOM Baby Eggplant Souvlaki (8.76 oz, 1650 cal)",
+    "sig": "efc6966d07401f9a",
+    "synced_at": "2026-11-15T08:10:29"
+  },
+  "2488343@5.81 oz": {
+    "cronometer_id": 87819824,
+    "name": "Yale - Organic White Miso Whole Grain Mustard Tofu (5.81 oz, 240 cal)",
+    "sig": "03d5ed9fa97e2244",
+    "synced_at": "2026-11-15T08:10:32"
+  },
+  "2488344@3.82 oz": {
+    "cronometer_id": 87819817,
+    "name": "Yale - SOM Sweet Onion Bulgur Wheat Pilaf (3.82 oz, 110 cal)",
+    "sig": "820b8186d9de9459",
+    "synced_at": "2026-11-15T08:10:30"
+  },
+  "2490148@5.81 oz": {
+    "cronometer_id": 87819823,
+    "name": "Yale - Organic White Miso Whole Grain Mustard Catfish (5.81 oz, 160 cal)",
+    "sig": "9a502b682a3eae2b",
+    "synced_at": "2026-11-15T08:10:32"
   }
 }
