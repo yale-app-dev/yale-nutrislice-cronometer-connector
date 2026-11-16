@@ -1,4 +1,10 @@
 {
+  "2234696@3.53 oz": {
+    "cronometer_id": 87938765,
+    "name": "Yale - Pasta e Fagioli Soup (3.53 oz, 40 cal)",
+    "sig": "f917e7ab17e5fbc7",
+    "synced_at": "2026-11-16T16:53:19"
+  },
   "2234696@8.66 oz": {
     "cronometer_id": 84939056,
     "name": "Yale - Pasta e Fagioli Soup (8.66 oz, 100 cal)",
@@ -112,6 +118,12 @@
     "name": "Yale - Rigatoni with Pomodoro Sauce (8.25 oz, 390 cal)",
     "sig": "4e3865c2c175871a",
     "synced_at": "2026-10-12T04:00:50"
+  },
+  "2234721@3.53 oz": {
+    "cronometer_id": 87938771,
+    "name": "Yale - Ice Cream Novelties (3.53 oz, 180 cal)",
+    "sig": "9ada4e1e17102983",
+    "synced_at": "2026-11-16T16:53:20"
   },
   "2234722@7.32 oz": {
     "cronometer_id": 86262592,
@@ -2062,6 +2074,12 @@
     "name": "Yale - Pita Bread (2 oz, 160 cal)",
     "sig": "61c3c16ee8136315",
     "synced_at": "2026-10-13T04:12:59"
+  },
+  "2235170@3.53 oz": {
+    "cronometer_id": 87938764,
+    "name": "Yale - Pita Bread (3.53 oz, 280 cal)",
+    "sig": "35443330d5366016",
+    "synced_at": "2026-11-16T16:53:19"
   },
   "2235171@2.66 oz": {
     "cronometer_id": 87159535,
@@ -4949,6 +4967,12 @@
     "sig": "5e42e8a45909b013",
     "synced_at": "2026-10-10T03:52:01"
   },
+  "2264544@3.53 oz": {
+    "cronometer_id": 87938770,
+    "name": "Yale - Ham and Cheese Egg Bite (3.53 oz, 730 cal)",
+    "sig": "cde925b1efa541bf",
+    "synced_at": "2026-11-16T16:53:19"
+  },
   "2264544@4.17 oz": {
     "cronometer_id": 84939075,
     "name": "Yale - Ham and Cheese Egg Bite (4.17 oz, 870 cal)",
@@ -6467,6 +6491,12 @@
     "sig": "b35e60922be56d37",
     "synced_at": "2026-10-10T03:53:25"
   },
+  "2272652@3.53 oz": {
+    "cronometer_id": 87938772,
+    "name": "Yale - Steamed Asparagus (3.53 oz, 40 cal)",
+    "sig": "35e8aef228a291d9",
+    "synced_at": "2026-11-16T16:53:20"
+  },
   "2272652@4.13 oz": {
     "cronometer_id": 85923579,
     "name": "Yale - Steamed Asparagus (4.13 oz, 45 cal)",
@@ -7822,6 +7852,12 @@
     "name": "Yale - Balsamic Vinaigrette (2 oz, 110 cal)",
     "sig": "09f67a92b4a5d930",
     "synced_at": "2026-10-10T03:53:38"
+  },
+  "2308045@3.53 oz": {
+    "cronometer_id": 87938766,
+    "name": "Yale - Balsamic Vinaigrette (3.53 oz, 190 cal)",
+    "sig": "53ea0efb63b874fe",
+    "synced_at": "2026-11-16T16:53:19"
   },
   "2308046@20 oz": {
     "cronometer_id": 85558651,
