@@ -3545,6 +3545,12 @@
     "sig": "e9c32a6125dcd662",
     "synced_at": "2026-10-25T04:14:40"
   },
+  "2264346@3.53 oz": {
+    "cronometer_id": 87886836,
+    "name": "Yale - Bacon Jam Pub Burger (3.53 oz, 310 cal)",
+    "sig": "434ac3afb15e1be8",
+    "synced_at": "2026-11-16T00:23:18"
+  },
   "2264346@9.49 oz": {
     "cronometer_id": 85229190,
     "name": "Yale - Bacon Jam Pub Burger (9.49 oz, 830 cal)",
@@ -10234,6 +10240,12 @@
     "name": "Yale - Mango Lassi (8.52 oz, 220 cal)",
     "sig": "ef3653d1b65810f3",
     "synced_at": "2026-11-14T11:56:07"
+  },
+  "2472986@3.53 oz": {
+    "cronometer_id": 87886837,
+    "name": "Yale - Black Lentil Dal (3.53 oz, 230 cal)",
+    "sig": "dced538c489b1b3b",
+    "synced_at": "2026-11-16T00:23:18"
   },
   "2472986@8.11 oz": {
     "cronometer_id": 87754256,
