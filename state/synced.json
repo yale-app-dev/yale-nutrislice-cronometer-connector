@@ -1688,8 +1688,8 @@
   "2235123@1 oz": {
     "cronometer_id": 84767176,
     "name": "Yale - Classic Smooth Hummus (1 oz, 80 cal)",
-    "sig": "030f81550a9d3ca6",
-    "synced_at": "2026-10-10T03:52:13"
+    "sig": "63d24bcf70d6ac96",
+    "synced_at": "2026-11-17T08:30:22"
   },
   "2235123@3.53 oz": {
     "cronometer_id": 85441131,
@@ -3077,6 +3077,12 @@
     "sig": "fa0b5eadec83ac18",
     "synced_at": "2026-11-03T05:25:42"
   },
+  "2235365@4 oz": {
+    "cronometer_id": 88003166,
+    "name": "Yale - Hard-Boiled Egg (4 oz, 160 cal)",
+    "sig": "20313457caa62175",
+    "synced_at": "2026-11-17T08:30:24"
+  },
   "2235370@8 oz": {
     "cronometer_id": 86069563,
     "name": "Yale - Black Bean and Sweet Potato Burger with Avocado, Sharp Cheddar Cheese, and Tomato Cilantro Mayo (8 oz, 510 cal)",
@@ -3695,6 +3701,12 @@
     "sig": "2b89337f21157a63",
     "synced_at": "2026-11-12T02:41:13"
   },
+  "2264354@5.06 oz": {
+    "cronometer_id": 88003167,
+    "name": "Yale - Greek-style Chicken (5.06 oz, 220 cal)",
+    "sig": "df06ddf067dde04c",
+    "synced_at": "2026-11-17T08:30:24"
+  },
   "2264354@5.08 oz": {
     "cronometer_id": 85042603,
     "name": "Yale - Greek-style Chicken (5.08 oz, 220 cal)",
@@ -3758,8 +3770,8 @@
   "2264361@16.2 oz": {
     "cronometer_id": 84767334,
     "name": "Yale - Mediterranean Bowl (16.2 oz, 290 cal)",
-    "sig": "a5c2bbf24d6d8afc",
-    "synced_at": "2026-10-10T03:52:57"
+    "sig": "5cb19b1866a1abb4",
+    "synced_at": "2026-11-17T08:30:23"
   },
   "2264361@3.53 oz": {
     "cronometer_id": 85078543,
@@ -5333,6 +5345,12 @@
     "sig": "5d0069cf1268e9b5",
     "synced_at": "2026-11-09T05:14:16"
   },
+  "2266223@7.38 oz": {
+    "cronometer_id": 88003169,
+    "name": "Yale - Flounder Francaise (7.38 oz, 670 cal)",
+    "sig": "83352020ff3cf8a0",
+    "synced_at": "2026-11-17T08:30:24"
+  },
   "2266223@7.42 oz": {
     "cronometer_id": 85660075,
     "name": "Yale - Flounder Francaise (7.42 oz, 680 cal)",
@@ -5794,6 +5812,12 @@
     "name": "Yale - Baked Penne Pasta Ratatouille (3.53 oz, 100 cal)",
     "sig": "ff1a3d6702f301d8",
     "synced_at": "2026-10-30T16:18:58"
+  },
+  "2272582@9.13 oz": {
+    "cronometer_id": 88003170,
+    "name": "Yale - Baked Penne Pasta Ratatouille (9.13 oz, 270 cal)",
+    "sig": "9faee5cfbd6aef34",
+    "synced_at": "2026-11-17T08:30:24"
   },
   "2272582@9.2 oz": {
     "cronometer_id": 85660078,
@@ -6329,6 +6353,12 @@
     "sig": "f948c0dec9fc1800",
     "synced_at": "2026-10-13T04:12:59"
   },
+  "2272631@3.89 oz": {
+    "cronometer_id": 88003168,
+    "name": "Yale - Mujadara (Lentils and Rice) (3.89 oz, 170 cal)",
+    "sig": "0acce304d1a7ffe4",
+    "synced_at": "2026-11-17T08:30:24"
+  },
   "2272632@5.25 oz": {
     "cronometer_id": 85042664,
     "name": "Yale - Turkey Grinder with Pepperjack Cheese (5.25 oz, 360 cal)",
@@ -6391,9 +6421,9 @@
   },
   "2272638@8.85 oz": {
     "cronometer_id": 85558645,
-    "name": "Yale - Beef Stroganoff (8.85 oz, 400 cal)",
-    "sig": "53cdcc098f4b8801",
-    "synced_at": "2026-10-19T04:16:12"
+    "name": "Yale - Beef Stroganoff (8.85 oz, 410 cal)",
+    "sig": "513fafff04c774a6",
+    "synced_at": "2026-11-17T08:30:23"
   },
   "2272639@12.7 oz": {
     "cronometer_id": 85558643,
@@ -6692,8 +6722,8 @@
   "2272675@50.2 oz": {
     "cronometer_id": 84769076,
     "name": "Yale - Falafel Pita (50.2 oz, 1170 cal)",
-    "sig": "d00da9a063793da5",
-    "synced_at": "2026-10-10T03:52:49"
+    "sig": "7f921c1a41134eff",
+    "synced_at": "2026-11-17T08:30:23"
   },
   "2272676@34.1 oz": {
     "cronometer_id": 84769077,
@@ -6728,14 +6758,14 @@
   "2272680@19.1 oz": {
     "cronometer_id": 84769083,
     "name": "Yale - Smart Meal 26 Fall Harvest Grain Bowl with Chicken (19.1 oz, 300 cal)",
-    "sig": "94fee8396159bb9e",
-    "synced_at": "2026-10-10T03:52:50"
+    "sig": "95edf39bf0cfb4f5",
+    "synced_at": "2026-11-17T08:30:23"
   },
   "2272681@22.1 oz": {
     "cronometer_id": 84769085,
     "name": "Yale - Smart Meal 26 Fall Harvest Grain Bowl with Falafel (22.1 oz, 710 cal)",
-    "sig": "6fd3c4f3d63933a9",
-    "synced_at": "2026-10-10T03:52:50"
+    "sig": "39b398f50b19170c",
+    "synced_at": "2026-11-17T08:30:23"
   },
   "2272682@4.73 oz": {
     "cronometer_id": 85042608,
@@ -6746,8 +6776,8 @@
   "2272683@18.6 oz": {
     "cronometer_id": 84769086,
     "name": "Yale - Smart Meal 26 Fall Harvest Grain Bowl with Tofu (18.6 oz, 310 cal)",
-    "sig": "b24fbd17634a304c",
-    "synced_at": "2026-10-10T03:52:50"
+    "sig": "3bb5b1517c4f147d",
+    "synced_at": "2026-11-17T08:30:23"
   },
   "2272684@3.53 oz": {
     "cronometer_id": 86620223,
@@ -6992,8 +7022,8 @@
   "2272720@8 oz": {
     "cronometer_id": 85660106,
     "name": "Yale - Chicken Provencale (8 oz, 180 cal)",
-    "sig": "d8d3e09f84208a37",
-    "synced_at": "2026-10-20T04:00:38"
+    "sig": "a75e107d879c78c9",
+    "synced_at": "2026-11-17T08:30:24"
   },
   "2272721@8 oz": {
     "cronometer_id": 85660107,
@@ -7063,9 +7093,9 @@
   },
   "2272726@3.7 oz": {
     "cronometer_id": 85752859,
-    "name": "Yale - Cajun-Spiced Shrimp (3.7 oz, 80 cal)",
-    "sig": "89c9cd9a379712d1",
-    "synced_at": "2026-10-21T04:01:30"
+    "name": "Yale - Cajun-Spiced Shrimp (3.7 oz, 120 cal)",
+    "sig": "0a8d5e041fc52f64",
+    "synced_at": "2026-11-17T08:30:24"
   },
   "2272726@8 oz": {
     "cronometer_id": 85752854,
@@ -7496,8 +7526,8 @@
   "2307962@15.1 oz": {
     "cronometer_id": 86376781,
     "name": "Yale - Eggplant and Hummus Sandwich (15.1 oz, 640 cal)",
-    "sig": "c93d1fa3ef22347d",
-    "synced_at": "2026-10-28T13:56:34"
+    "sig": "89c77222604c99c9",
+    "synced_at": "2026-11-17T08:30:23"
   },
   "2307965@18.9 oz": {
     "cronometer_id": 86376783,
@@ -10648,6 +10678,18 @@
     "name": "Yale - SOM Sweet Onion Bulgur Wheat Pilaf (3.82 oz, 110 cal)",
     "sig": "820b8186d9de9459",
     "synced_at": "2026-11-15T08:10:30"
+  },
+  "2488345@9.55 oz": {
+    "cronometer_id": 88003164,
+    "name": "Yale - SOM Oyster Mushroom Souvlaki (9.55 oz, 1670 cal)",
+    "sig": "117f7f0835d28334",
+    "synced_at": "2026-11-17T08:30:24"
+  },
+  "2488346@1.01 oz": {
+    "cronometer_id": 88003165,
+    "name": "Yale - SOM Tzatziki Vegan (1.01 oz, 25 cal)",
+    "sig": "3d05c036360b1bcc",
+    "synced_at": "2026-11-17T08:30:24"
   },
   "2490148@5.81 oz": {
     "cronometer_id": 87819823,
