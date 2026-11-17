@@ -1097,6 +1097,12 @@
     "sig": "4115209a15bd49f0",
     "synced_at": "2026-10-10T03:51:52"
   },
+  "2234837@3.53 oz": {
+    "cronometer_id": 88033057,
+    "name": "Yale - Flour Tortilla (3.53 oz, 310 cal)",
+    "sig": "fed877113cdd03bc",
+    "synced_at": "2026-11-17T17:46:41"
+  },
   "2234839@1.45 oz": {
     "cronometer_id": 84769184,
     "name": "Yale - Cranberry Apple Oatmeal Cookie (1.45 oz, 170 cal)",
@@ -2584,6 +2590,12 @@
     "name": "Yale - Blueberries (5 oz, 70 cal)",
     "sig": "cb86deac3467471a",
     "synced_at": "2026-10-10T03:51:55"
+  },
+  "2235239@3.53 oz": {
+    "cronometer_id": 88033060,
+    "name": "Yale - Fresh Melon and Pineapple (3.53 oz, 40 cal)",
+    "sig": "a6b7ff0b1f4339c2",
+    "synced_at": "2026-11-17T17:46:42"
   },
   "2235239@3.6 oz": {
     "cronometer_id": 84767392,
@@ -4637,6 +4649,12 @@
     "sig": "dac3b37ea80cf802",
     "synced_at": "2026-10-29T04:37:55"
   },
+  "2264505@3.53 oz": {
+    "cronometer_id": 88033059,
+    "name": "Yale - Pain Perdu (3.53 oz, 210 cal)",
+    "sig": "933dc09041ed576b",
+    "synced_at": "2026-11-17T17:46:41"
+  },
   "2264506@0.25 oz": {
     "cronometer_id": 85463264,
     "name": "Yale - Parmesan Cheese (0.25 oz, 25 cal)",
@@ -5314,6 +5332,12 @@
     "name": "Yale - Spanakopita Spinach and Feta Pastry (2 oz, 130 cal)",
     "sig": "e2147f160a270501",
     "synced_at": "2026-10-13T02:50:29"
+  },
+  "2264584@3.53 oz": {
+    "cronometer_id": 88033061,
+    "name": "Yale - Spanakopita Spinach and Feta Pastry (3.53 oz, 240 cal)",
+    "sig": "e9c0a10e065336ea",
+    "synced_at": "2026-11-17T17:46:42"
   },
   "2264585@6.04 oz": {
     "cronometer_id": 85042642,
@@ -9466,6 +9490,12 @@
     "name": "Yale - Broccoli Raab and Sausage Pizza (44.1 oz, 2940 cal)",
     "sig": "0751bdc9e374b911",
     "synced_at": "2026-11-01T04:41:21"
+  },
+  "2365572@3.53 oz": {
+    "cronometer_id": 88033058,
+    "name": "Yale - Fresh Tomato Pizza (3.53 oz, 150 cal)",
+    "sig": "dcf37910f53699e5",
+    "synced_at": "2026-11-17T17:46:41"
   },
   "2365572@3.57 oz": {
     "cronometer_id": 86735547,
