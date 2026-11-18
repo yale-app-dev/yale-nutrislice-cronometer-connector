@@ -743,6 +743,12 @@
     "sig": "3dedd223177bf26e",
     "synced_at": "2026-10-11T04:10:57"
   },
+  "2234785@5 oz": {
+    "cronometer_id": 88081245,
+    "name": "Yale - Crispy Tofu Bites (5 oz, 300 cal)",
+    "sig": "c4d85411403331f6",
+    "synced_at": "2026-11-18T05:54:50"
+  },
   "2234787@3.53 oz": {
     "cronometer_id": 84868429,
     "name": "Yale - Roasted Sweet Potatoes (3.53 oz, 150 cal)",
@@ -1591,9 +1597,9 @@
   },
   "2235019@0.5 oz": {
     "cronometer_id": 84767275,
-    "name": "Yale - Extra Virgin Olive Oil (0.5 oz, 130 cal)",
+    "name": "Yale - Extra Virgin Olive Oil (0.5 oz, 130 cal) #2235019",
     "sig": "8d49ec6204ffb1f8",
-    "synced_at": "2026-10-10T03:52:40"
+    "synced_at": "2026-11-18T05:54:45"
   },
   "2235025@0.5 oz": {
     "cronometer_id": 84767276,
@@ -7135,9 +7141,9 @@
   },
   "2272726@8 oz": {
     "cronometer_id": 85752854,
-    "name": "Yale - Cajun-Spiced Shrimp (8 oz, 180 cal)",
-    "sig": "e7922bd8e77335ad",
-    "synced_at": "2026-10-21T04:01:29"
+    "name": "Yale - Cajun-Spiced Shrimp (8 oz, 260 cal)",
+    "sig": "dfe4e2ac2d343355",
+    "synced_at": "2026-11-18T05:54:51"
   },
   "2272727@5.97 oz": {
     "cronometer_id": 85752860,
@@ -7486,6 +7492,12 @@
     "name": "Yale - Chicken Tikka Soup (12 oz, 310 cal)",
     "sig": "d46874d42fbfebc1",
     "synced_at": "2026-10-11T04:11:04"
+  },
+  "2296011@7 oz": {
+    "cronometer_id": 88081246,
+    "name": "Yale - Chicken Tikka Soup (7 oz, 180 cal)",
+    "sig": "daf3c359aaa8e2be",
+    "synced_at": "2026-11-18T05:54:50"
   },
   "2305127@12 oz": {
     "cronometer_id": 85558659,
@@ -10177,9 +10189,9 @@
   },
   "2465948@31.8 oz": {
     "cronometer_id": 85752847,
-    "name": "Yale - Chicken \"Noodle Soup\" Pizza (31.8 oz, 2220 cal)",
-    "sig": "a67587e03ef01cef",
-    "synced_at": "2026-10-21T04:01:28"
+    "name": "Yale - Chicken \"Noodle Soup\" Pizza (31.8 oz, 2130 cal)",
+    "sig": "f0a5529cb852039a",
+    "synced_at": "2026-11-18T05:54:50"
   },
   "2465949@20.4 oz": {
     "cronometer_id": 85841694,
@@ -10282,6 +10294,84 @@
     "name": "Yale - Grilled Turkey Burger with Cheddar, Turkey Bacon and Hot & Sweet Pickle Chips (7.24 oz, 520 cal)",
     "sig": "5318a4eff649ee4e",
     "synced_at": "2026-10-20T02:59:37"
+  },
+  "2470402@3.68 oz": {
+    "cronometer_id": 88081241,
+    "name": "Yale - Cranberry Apple Crisp (3.68 oz, 210 cal)",
+    "sig": "19bcc24fc9c975c0",
+    "synced_at": "2026-11-18T05:54:49"
+  },
+  "2470403@4.82 oz": {
+    "cronometer_id": 88081243,
+    "name": "Yale - Pumpkin Pie (4.82 oz, 180 cal)",
+    "sig": "97ccc47e2b71c82a",
+    "synced_at": "2026-11-18T05:54:49"
+  },
+  "2470404@7.29 oz": {
+    "cronometer_id": 88081244,
+    "name": "Yale - Pecan Pie (7.29 oz, 660 cal)",
+    "sig": "2dcd7f9ac9f22252",
+    "synced_at": "2026-11-18T05:54:49"
+  },
+  "2470406@6.03 oz": {
+    "cronometer_id": 88081222,
+    "name": "Yale - Herb Roasted Turkey Breast (6.03 oz, 310 cal)",
+    "sig": "1dc48d5139e7caba",
+    "synced_at": "2026-11-18T05:54:45"
+  },
+  "2470407@3.65 oz": {
+    "cronometer_id": 88081223,
+    "name": "Yale - Cranberry Glazed Salmon with Celeriac Slaw (3.65 oz, 250 cal)",
+    "sig": "6db0a80968166b56",
+    "synced_at": "2026-11-18T05:54:46"
+  },
+  "2470408@4.05 oz": {
+    "cronometer_id": 88081224,
+    "name": "Yale - Barley Risotto with Roasted Vegetables (4.05 oz, 130 cal)",
+    "sig": "399c0ac20d6e3217",
+    "synced_at": "2026-11-18T05:54:46"
+  },
+  "2470409@11 oz": {
+    "cronometer_id": 88081225,
+    "name": "Yale - Seitan Brisket with Roasted Mushrooms (11 oz, 240 cal)",
+    "sig": "43223106929afd11",
+    "synced_at": "2026-11-18T05:54:46"
+  },
+  "2470410@4.49 oz": {
+    "cronometer_id": 88081226,
+    "name": "Yale - Glazed Carrots (4.49 oz, 110 cal)",
+    "sig": "d60af76fd2f4eaf6",
+    "synced_at": "2026-11-18T05:54:46"
+  },
+  "2470411@3.01 oz": {
+    "cronometer_id": 88081227,
+    "name": "Yale - Apple Soy Sausage Stuffing (3.01 oz, 170 cal)",
+    "sig": "ef52fd38b5b7b3df",
+    "synced_at": "2026-11-18T05:54:47"
+  },
+  "2470412@8.31 oz": {
+    "cronometer_id": 88081228,
+    "name": "Yale - Herb-Encrusted Roasted Turkey (8.31 oz, 390 cal)",
+    "sig": "bd510fcc839830c0",
+    "synced_at": "2026-11-18T05:54:47"
+  },
+  "2470413@2 oz": {
+    "cronometer_id": 88081231,
+    "name": "Yale - Locally Baked Breads (2 oz, 200 cal)",
+    "sig": "6c4cb4294dae825f",
+    "synced_at": "2026-11-18T05:54:47"
+  },
+  "2470414@0.5 oz": {
+    "cronometer_id": 88081232,
+    "name": "Yale - Extra Virgin Olive Oil (0.5 oz, 130 cal) #2470414",
+    "sig": "8d49ec6204ffb1f8",
+    "synced_at": "2026-11-18T05:54:47"
+  },
+  "2470416@2.38 oz": {
+    "cronometer_id": 88081234,
+    "name": "Yale - Turkey Pan Sauce (2.38 oz, 60 cal)",
+    "sig": "a804349b6af828fe",
+    "synced_at": "2026-11-18T05:54:48"
   },
   "2470419@3.53 oz": {
     "cronometer_id": 85714212,
@@ -10409,6 +10499,24 @@
     "sig": "3eb31c764e945d5c",
     "synced_at": "2026-10-17T21:24:59"
   },
+  "2472988@4.92 oz": {
+    "cronometer_id": 88081236,
+    "name": "Yale - Butternut Squash Soup (4.92 oz, 140 cal)",
+    "sig": "24ef9eb49544d4c5",
+    "synced_at": "2026-11-18T05:54:48"
+  },
+  "2472989@4.72 oz": {
+    "cronometer_id": 88081237,
+    "name": "Yale - Butter Lettuce Salad with Ranch Dressing (4.72 oz, 170 cal)",
+    "sig": "bc5646b0644e446a",
+    "synced_at": "2026-11-18T05:54:48"
+  },
+  "2472990@2.98 oz": {
+    "cronometer_id": 88081238,
+    "name": "Yale - Butternut Pecan Salad (2.98 oz, 150 cal)",
+    "sig": "21b71184b0f44fcf",
+    "synced_at": "2026-11-18T05:54:49"
+  },
   "2472991@3.53 oz": {
     "cronometer_id": 85690827,
     "name": "Yale - Grilled Parmesan Chicken Breast (3.53 oz, 180 cal)",
@@ -10505,11 +10613,17 @@
     "sig": "3aaf4467eee3189c",
     "synced_at": "2026-10-25T04:14:47"
   },
+  "2477441@1.97 oz": {
+    "cronometer_id": 88081233,
+    "name": "Yale - Cranberry Sauce (1.97 oz, 90 cal)",
+    "sig": "77ac92bc0ac9c285",
+    "synced_at": "2026-11-18T05:54:48"
+  },
   "2477442@5.65 oz": {
     "cronometer_id": 87441985,
-    "name": "Yale - Ravioli with Butternut Squash and Sage (5.65 oz, 250 cal)",
-    "sig": "94ea29be4dbf25d6",
-    "synced_at": "2026-11-10T12:59:59"
+    "name": "Yale - Ravioli with Butternut Squash and Sage (5.65 oz, 300 cal)",
+    "sig": "2e14682ec004e5a4",
+    "synced_at": "2026-11-18T05:54:51"
   },
   "2477443@3.53 oz": {
     "cronometer_id": 87634045,
@@ -10667,6 +10781,30 @@
     "sig": "07a985306c55fb16",
     "synced_at": "2026-11-03T05:25:44"
   },
+  "2486508@5.03 oz": {
+    "cronometer_id": 88081247,
+    "name": "Yale - Turkey Breast Roasted with Lemon Thyme (5.03 oz, 340 cal)",
+    "sig": "94925d8097d3a8ae",
+    "synced_at": "2026-11-18T05:54:51"
+  },
+  "2486509@4.27 oz": {
+    "cronometer_id": 88081248,
+    "name": "Yale - Herb Stuffing (4.27 oz, 160 cal)",
+    "sig": "a177c2f9860cb920",
+    "synced_at": "2026-11-18T05:54:52"
+  },
+  "2486510@2.5 oz": {
+    "cronometer_id": 88081249,
+    "name": "Yale - Cranberry Sauce (2.5 oz, 100 cal)",
+    "sig": "3dcf70aaf2bd879b",
+    "synced_at": "2026-11-18T05:54:52"
+  },
+  "2486511@8.62 oz": {
+    "cronometer_id": 88081250,
+    "name": "Yale - CAT Yams Candied with Mini Marshmellows (8.62 oz, 430 cal)",
+    "sig": "bc5978ef794f72df",
+    "synced_at": "2026-11-18T05:54:52"
+  },
   "2487831@1.59 oz": {
     "cronometer_id": 87257665,
     "name": "Yale - Belgian Waffles (1.59 oz, 60 cal)",
@@ -10738,5 +10876,11 @@
     "name": "Yale - Organic White Miso Whole Grain Mustard Catfish (5.81 oz, 160 cal)",
     "sig": "9a502b682a3eae2b",
     "synced_at": "2026-11-15T08:10:32"
+  },
+  "2490878@8.03 oz": {
+    "cronometer_id": 88081235,
+    "name": "Yale - Cranberry Spritzer (8.03 oz, 40 cal)",
+    "sig": "a919d4fcb59908bf",
+    "synced_at": "2026-11-18T05:54:48"
   }
 }
