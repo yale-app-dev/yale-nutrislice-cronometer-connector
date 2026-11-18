@@ -2081,6 +2081,12 @@
     "sig": "b7141609544e6c27",
     "synced_at": "2026-10-15T14:50:07"
   },
+  "2235169@3.53 oz": {
+    "cronometer_id": 88135600,
+    "name": "Yale - Braised Beef, Pickled Peppers & Provolone Sandwich (3.53 oz, 380 cal)",
+    "sig": "72c5159a65bf30ea",
+    "synced_at": "2026-11-18T22:35:49"
+  },
   "2235169@8.66 oz": {
     "cronometer_id": 84846595,
     "name": "Yale - Braised Beef, Pickled Peppers & Provolone Sandwich (8.66 oz, 930 cal)",
@@ -6862,6 +6868,12 @@
     "name": "Yale - Golden Cupcakes with Chocolate Icing (3.56 oz, 390 cal)",
     "sig": "41eaf6f9493e6779",
     "synced_at": "2026-10-16T04:11:43"
+  },
+  "2272687@3.53 oz": {
+    "cronometer_id": 88135601,
+    "name": "Yale - Beef Birria Melt (3.53 oz, 320 cal)",
+    "sig": "0774d260454f098a",
+    "synced_at": "2026-11-18T22:35:50"
   },
   "2272687@8.21 oz": {
     "cronometer_id": 85463323,
