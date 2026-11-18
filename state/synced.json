@@ -3143,6 +3143,12 @@
     "sig": "5d0f448834fb83fd",
     "synced_at": "2026-10-10T03:53:03"
   },
+  "2235379@3.53 oz": {
+    "cronometer_id": 88103268,
+    "name": "Yale - Carrot Ginger Miso Dressing (3.53 oz, 190 cal)",
+    "sig": "9b862cde867230e9",
+    "synced_at": "2026-11-18T15:06:34"
+  },
   "2235380@0.5 oz": {
     "cronometer_id": 84846529,
     "name": "Yale - Apple Fuji Vinaigrette (0.5 oz, 60 cal)",
@@ -3292,6 +3298,12 @@
     "name": "Yale - Chicken Katsu (7.3 oz, 650 cal)",
     "sig": "7ef8d765a314372e",
     "synced_at": "2026-10-21T04:01:28"
+  },
+  "2237759@3.53 oz": {
+    "cronometer_id": 88103269,
+    "name": "Yale - Vegetable Fried Rice with Carrots, Shiitake Mushrooms and Edamame (3.53 oz, 140 cal)",
+    "sig": "54d508722fef3180",
+    "synced_at": "2026-11-18T15:06:34"
   },
   "2237759@7.17 oz": {
     "cronometer_id": 84846578,
@@ -10831,9 +10843,9 @@
   },
   "2488339@8.41 oz": {
     "cronometer_id": 87819815,
-    "name": "Yale - Chicken Thigh Souvlaki with Feta Cheese, Tomaro and Oregano (8.41 oz, 1790 cal)",
+    "name": "Yale - Chicken Souvlaki with Feta Cheese, Tomato and Kalamata Olives (8.41 oz, 1790 cal)",
     "sig": "0838841b765a912d",
-    "synced_at": "2026-11-15T08:10:29"
+    "synced_at": "2026-11-18T15:06:32"
   },
   "2488340@7.81 oz": {
     "cronometer_id": 87819822,
@@ -10855,15 +10867,15 @@
   },
   "2488344@3.82 oz": {
     "cronometer_id": 87819817,
-    "name": "Yale - SOM Sweet Onion Bulgur Wheat Pilaf (3.82 oz, 110 cal)",
+    "name": "Yale - Sweet Onion Bulgur Wheat Pilaf (3.82 oz, 110 cal)",
     "sig": "820b8186d9de9459",
-    "synced_at": "2026-11-15T08:10:30"
+    "synced_at": "2026-11-18T15:06:34"
   },
   "2488345@9.55 oz": {
     "cronometer_id": 88003164,
-    "name": "Yale - SOM Oyster Mushroom Souvlaki (9.55 oz, 1670 cal)",
+    "name": "Yale - Oyster Mushroom Souvlaki with Feta Cheese, Tomato and Kalamata Olives (9.55 oz, 1670 cal)",
     "sig": "117f7f0835d28334",
-    "synced_at": "2026-11-17T08:30:24"
+    "synced_at": "2026-11-18T15:06:33"
   },
   "2488346@1.01 oz": {
     "cronometer_id": 88003165,
