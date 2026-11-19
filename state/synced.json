@@ -2459,6 +2459,12 @@
     "sig": "bf2d5179fba747d8",
     "synced_at": "2026-10-14T04:11:37"
   },
+  "2235216@3.53 oz": {
+    "cronometer_id": 88202289,
+    "name": "Yale - Buffalo Sauce (3.53 oz, 0 cal)",
+    "sig": "ebe053ee5907cb06",
+    "synced_at": "2026-11-19T20:53:24"
+  },
   "2235218@3.53 oz": {
     "cronometer_id": 85431836,
     "name": "Yale - Oven-Roasted Chicken with Tailgate Pepper Sauce (3.53 oz, 260 cal)",
@@ -3197,6 +3203,12 @@
     "sig": "af7088d931b134a8",
     "synced_at": "2026-10-25T04:14:43"
   },
+  "2235405@3.53 oz": {
+    "cronometer_id": 88202297,
+    "name": "Yale - SOM-CAT Asparagus Roasted with Garlic (3.53 oz, 45 cal)",
+    "sig": "89ab81e2ff0a0862",
+    "synced_at": "2026-11-19T20:53:25"
+  },
   "2235425@3.53 oz": {
     "cronometer_id": 85335696,
     "name": "Yale - Basmati Rice (3.53 oz, 210 cal) #2235425",
@@ -3316,6 +3328,12 @@
     "name": "Yale - Honey Chipotle Glazed Salmon (5.59 oz, 400 cal)",
     "sig": "68b443e2945a5848",
     "synced_at": "2026-10-26T04:20:19"
+  },
+  "2237756@3.53 oz": {
+    "cronometer_id": 88202288,
+    "name": "Yale - Chicken Chili (3.53 oz, 120 cal)",
+    "sig": "ffc3d2f735932c0d",
+    "synced_at": "2026-11-19T20:53:24"
   },
   "2237756@4 oz": {
     "cronometer_id": 85752825,
@@ -3815,6 +3833,12 @@
     "sig": "5ee6328beaa09461",
     "synced_at": "2026-10-10T03:52:07"
   },
+  "2264359@3.53 oz": {
+    "cronometer_id": 88202284,
+    "name": "Yale - Bread and Butter (3.53 oz, 360 cal)",
+    "sig": "93a8e5a1fb81d9eb",
+    "synced_at": "2026-11-19T20:53:23"
+  },
   "2264360@1.16 oz": {
     "cronometer_id": 84767156,
     "name": "Yale - Tri Color Couscous (1.16 oz, 130 cal)",
@@ -4084,6 +4108,12 @@
     "name": "Yale - Tex-Mex Bowl (15.2 oz, 520 cal)",
     "sig": "8d85c6b0c923d584",
     "synced_at": "2026-10-10T04:10:56"
+  },
+  "2264409@3.53 oz": {
+    "cronometer_id": 88202298,
+    "name": "Yale - Tortilla Soup (3.53 oz, 60 cal)",
+    "sig": "307a5fa994070bd7",
+    "synced_at": "2026-11-19T20:53:25"
   },
   "2264409@8.54 oz": {
     "cronometer_id": 85463289,
@@ -5879,6 +5909,12 @@
     "sig": "d5750e1acd7abb02",
     "synced_at": "2026-11-11T15:10:37"
   },
+  "2272581@3.53 oz": {
+    "cronometer_id": 88202292,
+    "name": "Yale - Roasted Cauliflower (3.53 oz, 50 cal)",
+    "sig": "3052b0e3780184e6",
+    "synced_at": "2026-11-19T20:53:24"
+  },
   "2272581@4.98 oz": {
     "cronometer_id": 85660077,
     "name": "Yale - Roasted Cauliflower (4.98 oz, 70 cal)",
@@ -6436,6 +6472,12 @@
     "name": "Yale - Steamed Edamame (4.05 oz, 120 cal)",
     "sig": "ce6caf4c2488cee1",
     "synced_at": "2026-10-16T04:11:46"
+  },
+  "2272631@3.53 oz": {
+    "cronometer_id": 88202299,
+    "name": "Yale - Mujadara (Lentils and Rice) (3.53 oz, 160 cal)",
+    "sig": "fe391b9a831a4a3d",
+    "synced_at": "2026-11-19T20:53:25"
   },
   "2272631@3.88 oz": {
     "cronometer_id": 85042609,
@@ -7511,6 +7553,12 @@
     "sig": "86b117a3e725ff00",
     "synced_at": "2026-10-28T04:17:52"
   },
+  "2292852@3.53 oz": {
+    "cronometer_id": 88202305,
+    "name": "Yale - Maple Roasted Carrots (3.53 oz, 60 cal)",
+    "sig": "2239438466365a4e",
+    "synced_at": "2026-11-19T20:53:26"
+  },
   "2292852@4.57 oz": {
     "cronometer_id": 86352793,
     "name": "Yale - Maple Roasted Carrots (4.57 oz, 80 cal)",
@@ -8434,6 +8482,12 @@
     "name": "Yale - Shaved Roast Beef, Carmalized Onions, Swiss Cheese, Red Watercress and Horseradish Mayo (8 oz, 590 cal)",
     "sig": "daa505e46dfe4027",
     "synced_at": "2026-10-25T04:14:43"
+  },
+  "2314983@3.53 oz": {
+    "cronometer_id": 88202286,
+    "name": "Yale - Tomato Garden Vegetable Soup (3.53 oz, 40 cal)",
+    "sig": "60a80b4e9b765269",
+    "synced_at": "2026-11-19T20:53:23"
   },
   "2314983@7 oz": {
     "cronometer_id": 86262594,
@@ -10033,9 +10087,9 @@
   },
   "2456250@3.53 oz": {
     "cronometer_id": 85490846,
-    "name": "Yale - Roasted Pumpkin and Butternut Cappuccino (3.53 oz, 140 cal)",
-    "sig": "08e78878c39ec447",
-    "synced_at": "2026-10-18T14:17:15"
+    "name": "Yale - Roasted Pumpkin and Butternut Cappuccino (3.53 oz, 100 cal)",
+    "sig": "910c325e2a9afefc",
+    "synced_at": "2026-11-19T20:53:24"
   },
   "2456250@7.5 oz": {
     "cronometer_id": 85312281,
@@ -10427,6 +10481,12 @@
     "sig": "ef52fd38b5b7b3df",
     "synced_at": "2026-11-18T05:54:47"
   },
+  "2470412@3.53 oz": {
+    "cronometer_id": 88202282,
+    "name": "Yale - Herb-Encrusted Roasted Turkey (3.53 oz, 160 cal)",
+    "sig": "9ae83341552d966a",
+    "synced_at": "2026-11-19T20:53:22"
+  },
   "2470412@8.31 oz": {
     "cronometer_id": 88081228,
     "name": "Yale - Herb-Encrusted Roasted Turkey (8.31 oz, 390 cal)",
@@ -10583,6 +10643,12 @@
     "sig": "24ef9eb49544d4c5",
     "synced_at": "2026-11-18T05:54:48"
   },
+  "2472989@3.53 oz": {
+    "cronometer_id": 88202293,
+    "name": "Yale - Butter Lettuce Salad with Ranch Dressing (3.53 oz, 120 cal)",
+    "sig": "fbad2d0d489d05f9",
+    "synced_at": "2026-11-19T20:53:25"
+  },
   "2472989@4.72 oz": {
     "cronometer_id": 88081237,
     "name": "Yale - Butter Lettuce Salad with Ranch Dressing (4.72 oz, 170 cal)",
@@ -10594,6 +10660,12 @@
     "name": "Yale - Butternut Pecan Salad (2.98 oz, 150 cal)",
     "sig": "21b71184b0f44fcf",
     "synced_at": "2026-11-18T05:54:49"
+  },
+  "2472990@3.53 oz": {
+    "cronometer_id": 88202294,
+    "name": "Yale - Butternut Pecan Salad (3.53 oz, 180 cal)",
+    "sig": "c66351e55ab16a9b",
+    "synced_at": "2026-11-19T20:53:25"
   },
   "2472991@3.53 oz": {
     "cronometer_id": 85690827,
@@ -10865,6 +10937,12 @@
     "sig": "94925d8097d3a8ae",
     "synced_at": "2026-11-18T05:54:51"
   },
+  "2486509@3.53 oz": {
+    "cronometer_id": 88202300,
+    "name": "Yale - Herb Stuffing (3.53 oz, 130 cal)",
+    "sig": "331784314d6daaaf",
+    "synced_at": "2026-11-19T20:53:26"
+  },
   "2486509@4.27 oz": {
     "cronometer_id": 88081248,
     "name": "Yale - Herb Stuffing (4.27 oz, 160 cal)",
@@ -10876,6 +10954,12 @@
     "name": "Yale - Cranberry Sauce (2.5 oz, 100 cal)",
     "sig": "3dcf70aaf2bd879b",
     "synced_at": "2026-11-18T05:54:52"
+  },
+  "2486511@3.53 oz": {
+    "cronometer_id": 88202302,
+    "name": "Yale - CAT Yams Candied with Mini Marshmellows (3.53 oz, 180 cal)",
+    "sig": "53179913aa40c787",
+    "synced_at": "2026-11-19T20:53:26"
   },
   "2486511@8.62 oz": {
     "cronometer_id": 88081250,
@@ -10948,6 +11032,12 @@
     "name": "Yale - SOM Tzatziki Vegan (1.01 oz, 25 cal)",
     "sig": "3d05c036360b1bcc",
     "synced_at": "2026-11-17T08:30:24"
+  },
+  "2488346@3.53 oz": {
+    "cronometer_id": 88202285,
+    "name": "Yale - SOM Tzatziki Vegan (3.53 oz, 90 cal)",
+    "sig": "f664674921283bc8",
+    "synced_at": "2026-11-19T20:53:23"
   },
   "2490148@5.81 oz": {
     "cronometer_id": 87819823,
