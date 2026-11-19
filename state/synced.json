@@ -157,9 +157,9 @@
   },
   "2234725@7.38 oz": {
     "cronometer_id": 84769105,
-    "name": "Yale - Gochujang Glazed Fried Chicken (7.38 oz, 400 cal)",
-    "sig": "d2e4e76030632910",
-    "synced_at": "2026-10-10T03:52:55"
+    "name": "Yale - Gochujang Glazed Fried Chicken (7.38 oz, 430 cal)",
+    "sig": "7a882416f263a637",
+    "synced_at": "2026-11-19T12:29:41"
   },
   "2234726@4 oz": {
     "cronometer_id": 85558644,
@@ -473,6 +473,12 @@
     "sig": "f4762b2d952a74a4",
     "synced_at": "2026-10-11T04:11:07"
   },
+  "2234762@2 oz": {
+    "cronometer_id": 88171498,
+    "name": "Yale - Cheddar Cheese (2 oz, 220 cal)",
+    "sig": "4a3b3bb78f15f6e7",
+    "synced_at": "2026-11-19T12:29:42"
+  },
   "2234762@3.53 oz": {
     "cronometer_id": 85441129,
     "name": "Yale - Cheddar Cheese (3.53 oz, 390 cal)",
@@ -532,6 +538,12 @@
     "name": "Yale - Limes (0.2 oz, 0 cal)",
     "sig": "1b1103c1bde232af",
     "synced_at": "2026-10-12T04:00:45"
+  },
+  "2234765@1 oz": {
+    "cronometer_id": 88171497,
+    "name": "Yale - Limes (1 oz, 10 cal)",
+    "sig": "f01dcb5965f88850",
+    "synced_at": "2026-11-19T12:29:41"
   },
   "2234766@0.5 oz": {
     "cronometer_id": 84767195,
@@ -869,6 +881,12 @@
     "sig": "02b54345fe194ef1",
     "synced_at": "2026-10-10T03:53:48"
   },
+  "2234801@4.06 oz": {
+    "cronometer_id": 88171502,
+    "name": "Yale - Sea Salt Roasted Potato Wedges (4.06 oz, 90 cal)",
+    "sig": "3dc342b6a5129498",
+    "synced_at": "2026-11-19T12:29:42"
+  },
   "2234802@3.53 oz": {
     "cronometer_id": 86232505,
     "name": "Yale - Mustard Parmesan Chicken (3.53 oz, 250 cal)",
@@ -1129,9 +1147,9 @@
   },
   "2234843@4.85 oz": {
     "cronometer_id": 84769172,
-    "name": "Yale - Crispy Fried Potatoes with Sage, Garlic and Sea Salt (4.85 oz, 270 cal)",
-    "sig": "6db113ac5567619f",
-    "synced_at": "2026-10-10T03:53:20"
+    "name": "Yale - Crispy Fried Potatoes with Sage, Garlic and Sea Salt (4.85 oz, 260 cal)",
+    "sig": "9a7e8dacc6f71daa",
+    "synced_at": "2026-11-19T12:29:41"
   },
   "2234844@2.48 oz": {
     "cronometer_id": 84769136,
@@ -3287,6 +3305,12 @@
     "sig": "77d7bde4c625a3fb",
     "synced_at": "2026-10-15T04:12:12"
   },
+  "2237749@6.53 oz": {
+    "cronometer_id": 88171499,
+    "name": "Yale - BBQ Chicken (6.53 oz, 280 cal)",
+    "sig": "1882a6ed02b21908",
+    "synced_at": "2026-11-19T12:29:42"
+  },
   "2237753@5.59 oz": {
     "cronometer_id": 86163232,
     "name": "Yale - Honey Chipotle Glazed Salmon (5.59 oz, 400 cal)",
@@ -4333,9 +4357,9 @@
   },
   "2264462@3.03 oz": {
     "cronometer_id": 85229185,
-    "name": "Yale - Fried Beer-Battered Cod (3.03 oz, 180 cal)",
-    "sig": "a9d86bc9b25e5c62",
-    "synced_at": "2026-10-15T04:12:12"
+    "name": "Yale - Fried Beer-Battered Cod (3.03 oz, 190 cal)",
+    "sig": "cb9b5a6eb19dee19",
+    "synced_at": "2026-11-19T12:29:40"
   },
   "2264463@0.14 oz": {
     "cronometer_id": 84767214,
@@ -5261,6 +5285,12 @@
     "sig": "03d4f0bf0e551ace",
     "synced_at": "2026-10-10T03:52:05"
   },
+  "2264572@1 oz": {
+    "cronometer_id": 88171494,
+    "name": "Yale - Chiptole Mayonnaise (1 oz, 130 cal)",
+    "sig": "8d0893879b5d10e8",
+    "synced_at": "2026-11-19T12:29:41"
+  },
   "2264574@0.5 oz": {
     "cronometer_id": 84767153,
     "name": "Yale - Vegan Mayonnaise (0.5 oz, 90 cal)",
@@ -6158,8 +6188,8 @@
   "2272606@2.59 oz": {
     "cronometer_id": 84769132,
     "name": "Yale - Vegan Macaroni and Cheese (2.59 oz, 170 cal)",
-    "sig": "8843bae2c5003b50",
-    "synced_at": "2026-10-10T03:53:08"
+    "sig": "99cea3ae47ee0a4e",
+    "synced_at": "2026-11-19T12:29:41"
   },
   "2272606@3.53 oz": {
     "cronometer_id": 84769187,
@@ -6172,6 +6202,12 @@
     "name": "Yale - Crispy Fried Onion (0.25 oz, 40 cal)",
     "sig": "e6036dd161f43500",
     "synced_at": "2026-10-10T03:53:10"
+  },
+  "2272607@0.5 oz": {
+    "cronometer_id": 88171493,
+    "name": "Yale - Crispy Fried Onion (0.5 oz, 80 cal)",
+    "sig": "e6036dd161f43500",
+    "synced_at": "2026-11-19T12:29:40"
   },
   "2272607@1 oz": {
     "cronometer_id": 84767303,
@@ -6538,6 +6574,12 @@
     "name": "Yale - Kikkoman Gluten-Free Tamari Soy Sauce (0.25 oz, 0 cal)",
     "sig": "4990971ebc3fb126",
     "synced_at": "2026-10-19T04:16:12"
+  },
+  "2272647@9.42 oz": {
+    "cronometer_id": 88171501,
+    "name": "Yale - Pepper and Bean Stuffed Butternut Squash (9.42 oz, 280 cal)",
+    "sig": "5617c066c0f70a41",
+    "synced_at": "2026-11-19T12:29:42"
   },
   "2272647@9.48 oz": {
     "cronometer_id": 85229187,
@@ -9803,6 +9845,18 @@
     "sig": "d30ca89ec723d37b",
     "synced_at": "2026-10-16T16:12:16"
   },
+  "2370540@1.62 oz": {
+    "cronometer_id": 88171491,
+    "name": "Yale - Strawberry Balsamic Bacon Jam (1.62 oz, 130 cal)",
+    "sig": "76cd45e007fbe744",
+    "synced_at": "2026-11-19T12:29:40"
+  },
+  "2370541@0.8 oz": {
+    "cronometer_id": 88171492,
+    "name": "Yale - Slow Roasted Tomatoes (0.8 oz, 15 cal)",
+    "sig": "1c6996d11e2f5273",
+    "synced_at": "2026-11-19T12:29:40"
+  },
   "2453785@6.74 oz": {
     "cronometer_id": 85775361,
     "name": "Yale - Grilled Cheese Sandwich (6.74 oz, 880 cal)",
@@ -10219,9 +10273,9 @@
   },
   "2465949@20.4 oz": {
     "cronometer_id": 85841694,
-    "name": "Yale - Spinach and Artichoke Dip Pizza (20.4 oz, 1580 cal)",
-    "sig": "4e44b36c9de872c1",
-    "synced_at": "2026-10-22T04:03:11"
+    "name": "Yale - Spinach and Artichoke Dip Pizza (20.4 oz, 1570 cal)",
+    "sig": "2db4c688fe49ffb5",
+    "synced_at": "2026-11-19T12:29:41"
   },
   "2465950@2.13 oz": {
     "cronometer_id": 85660095,
@@ -10906,6 +10960,12 @@
     "name": "Yale - Cranberry Spritzer (8.03 oz, 40 cal)",
     "sig": "a919d4fcb59908bf",
     "synced_at": "2026-11-18T05:54:48"
+  },
+  "2491234@3 oz": {
+    "cronometer_id": 88171496,
+    "name": "Yale - Jasmine Rice (3 oz, 290 cal)",
+    "sig": "5279fdf467c5403d",
+    "synced_at": "2026-11-19T12:29:41"
   },
   "2491234@3.53 oz": {
     "cronometer_id": 88154881,
