@@ -797,6 +797,12 @@
     "sig": "31e5b618d19edab2",
     "synced_at": "2026-10-12T04:00:47"
   },
+  "2234792@3.53 oz": {
+    "cronometer_id": 88279768,
+    "name": "Yale - Chana Masala (3.53 oz, 70 cal)",
+    "sig": "1ae654fb5d20b6bb",
+    "synced_at": "2026-11-20T23:50:39"
+  },
   "2234792@7 oz": {
     "cronometer_id": 85138550,
     "name": "Yale - Chana Masala (7 oz, 130 cal)",
@@ -1949,6 +1955,12 @@
     "sig": "1df4b6c2e4d7e441",
     "synced_at": "2026-11-02T05:40:01"
   },
+  "2235144@3.53 oz": {
+    "cronometer_id": 88279776,
+    "name": "Yale - Yellow Corn Tostada Shell (3.53 oz, 490 cal)",
+    "sig": "fb21f07a71f2186f",
+    "synced_at": "2026-11-20T23:50:40"
+  },
   "2235145@0.5 oz": {
     "cronometer_id": 85752829,
     "name": "Yale - Full Sour Pickle Spear (0.5 oz, 0 cal)",
@@ -2225,6 +2237,12 @@
     "sig": "9c2e59c4a4c7d527",
     "synced_at": "2026-10-10T03:53:07"
   },
+  "2235178@3.53 oz": {
+    "cronometer_id": 88279775,
+    "name": "Yale - Tahini (3.53 oz, 0 cal)",
+    "sig": "9c2e59c4a4c7d527",
+    "synced_at": "2026-11-20T23:50:40"
+  },
   "2235179@1 oz": {
     "cronometer_id": 86069543,
     "name": "Yale - Tzatziki (1 oz, 30 cal)",
@@ -2236,6 +2254,12 @@
     "name": "Yale - Tzatziki (2 oz, 60 cal)",
     "sig": "934219fd76d5622d",
     "synced_at": "2026-10-13T04:12:58"
+  },
+  "2235179@3.53 oz": {
+    "cronometer_id": 88279777,
+    "name": "Yale - Tzatziki (3.53 oz, 100 cal)",
+    "sig": "24d7feba1f8b4070",
+    "synced_at": "2026-11-20T23:50:40"
   },
   "2235183@0.2 oz": {
     "cronometer_id": 85312296,
@@ -3155,6 +3179,12 @@
     "sig": "17229580df0e2866",
     "synced_at": "2026-10-11T04:10:57"
   },
+  "2235357@3.53 oz": {
+    "cronometer_id": 88279769,
+    "name": "Yale - Roasted Mixed Vegetables (3.53 oz, 60 cal)",
+    "sig": "2261f496a9f4fa7f",
+    "synced_at": "2026-11-20T23:50:39"
+  },
   "2235358@1.45 oz": {
     "cronometer_id": 84846571,
     "name": "Yale - Chocolate Chunk Cookie (1.45 oz, 190 cal)",
@@ -3340,6 +3370,12 @@
     "name": "Yale - Turkey and Sundried Tomato Mayo Sandwich (4.89 oz, 370 cal)",
     "sig": "5bd762b0ba057d24",
     "synced_at": "2026-10-12T04:00:51"
+  },
+  "2237739@3.53 oz": {
+    "cronometer_id": 88279772,
+    "name": "Yale - Buffalo Roasted Cauliflower (3.53 oz, 80 cal)",
+    "sig": "5562c63a04a3a8b7",
+    "synced_at": "2026-11-20T23:50:39"
   },
   "2237739@4.53 oz": {
     "cronometer_id": 85752828,
@@ -4480,6 +4516,12 @@
     "name": "Yale - Monterey Jack Cheese Quesadilla (2.28 oz, 210 cal)",
     "sig": "2868a3dcced32032",
     "synced_at": "2026-10-12T04:00:49"
+  },
+  "2264466@3.53 oz": {
+    "cronometer_id": 88279767,
+    "name": "Yale - Monterey Jack Cheese Quesadilla (3.53 oz, 320 cal)",
+    "sig": "d619151c37e7ef1c",
+    "synced_at": "2026-11-20T23:50:38"
   },
   "2264467@2 oz": {
     "cronometer_id": 85229189,
@@ -6515,6 +6557,12 @@
     "sig": "aff517b638ccf26c",
     "synced_at": "2026-10-11T04:11:10"
   },
+  "2272627@3.53 oz": {
+    "cronometer_id": 88279771,
+    "name": "Yale - General Tso's Chicken (3.53 oz, 190 cal)",
+    "sig": "4dd3ac5a5984c76c",
+    "synced_at": "2026-11-20T23:50:39"
+  },
   "2272627@4.07 oz": {
     "cronometer_id": 85312293,
     "name": "Yale - General Tso's Chicken (4.07 oz, 220 cal)",
@@ -6935,6 +6983,12 @@
     "sig": "549d172025560766",
     "synced_at": "2026-10-10T03:52:47"
   },
+  "2272675@3.53 oz": {
+    "cronometer_id": 88279774,
+    "name": "Yale - Falafel Pita (3.53 oz, 80 cal)",
+    "sig": "99e1887f109976f4",
+    "synced_at": "2026-11-20T23:50:39"
+  },
   "2272675@50.2 oz": {
     "cronometer_id": 84769076,
     "name": "Yale - Falafel Pita (50.2 oz, 1170 cal)",
@@ -7180,6 +7234,12 @@
     "name": "Yale - Ranchero-Style Pinto Beans (2.72 oz, 60 cal)",
     "sig": "0525d0c2bcb1868e",
     "synced_at": "2026-10-19T04:16:11"
+  },
+  "2272707@3.53 oz": {
+    "cronometer_id": 88279765,
+    "name": "Yale - Ranchero-Style Pinto Beans (3.53 oz, 80 cal)",
+    "sig": "b422a264922f6b62",
+    "synced_at": "2026-11-20T23:50:38"
   },
   "2272708@0.5 oz": {
     "cronometer_id": 84767381,
@@ -8987,6 +9047,12 @@
     "sig": "c9e1b9025703a867",
     "synced_at": "2026-10-26T04:20:17"
   },
+  "2349901@3.53 oz": {
+    "cronometer_id": 88279773,
+    "name": "Yale - Braised Beef Brisket Machaca (3.53 oz, 300 cal)",
+    "sig": "d360b813bce6653f",
+    "synced_at": "2026-11-20T23:50:39"
+  },
   "2349902@3.53 oz": {
     "cronometer_id": 87077012,
     "name": "Yale - Chicken Tenders (vendor RESIDENTIAL) (3.53 oz, 200 cal)",
@@ -10528,6 +10594,12 @@
     "name": "Yale - Pumpkin Pie (4.82 oz, 180 cal)",
     "sig": "97ccc47e2b71c82a",
     "synced_at": "2026-11-18T05:54:49"
+  },
+  "2470404@3.53 oz": {
+    "cronometer_id": 88279770,
+    "name": "Yale - Pecan Pie (3.53 oz, 320 cal)",
+    "sig": "65737c6fa0154816",
+    "synced_at": "2026-11-20T23:50:39"
   },
   "2470404@7.29 oz": {
     "cronometer_id": 88081244,
