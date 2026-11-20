@@ -7472,8 +7472,8 @@
   "2292842@1.51 oz": {
     "cronometer_id": 84767366,
     "name": "Yale - Sauce Gravy Wafu (1.51 oz, 80 cal)",
-    "sig": "10321ee8168d80f9",
-    "synced_at": "2026-10-10T03:53:59"
+    "sig": "d307c3292c89164b",
+    "synced_at": "2026-11-20T09:45:28"
   },
   "2292843@3.53 oz": {
     "cronometer_id": 87474994,
@@ -9427,9 +9427,9 @@
   },
   "2357126@2.24 oz": {
     "cronometer_id": 87819818,
-    "name": "Yale - SOM Pita with Olive Oil (2.24 oz, 180 cal)",
+    "name": "Yale - Warm Olive Oil Pita Bread (2.24 oz, 180 cal)",
     "sig": "21c950f2b343b09b",
-    "synced_at": "2026-11-15T08:10:30"
+    "synced_at": "2026-11-20T09:45:27"
   },
   "2357129@7 oz": {
     "cronometer_id": 87233855,
@@ -10280,8 +10280,8 @@
   "2463326@1.01 oz": {
     "cronometer_id": 84767367,
     "name": "Yale - Sauce Mayonnaise Furikake (1.01 oz, 170 cal)",
-    "sig": "61f6bea0afe284f6",
-    "synced_at": "2026-10-30T04:26:07"
+    "sig": "c818dad9e7e54c69",
+    "synced_at": "2026-11-20T09:45:29"
   },
   "2464966@4.75 oz": {
     "cronometer_id": 84767191,
@@ -11068,5 +11068,23 @@
     "name": "Yale - Jasmine Rice (3.53 oz, 340 cal)",
     "sig": "103f71b20a9d066a",
     "synced_at": "2026-11-19T03:51:17"
+  },
+  "2493437@9.47 oz": {
+    "cronometer_id": 88236813,
+    "name": "Yale - Shawarma-Spiced Grilled Chicken Thigh (9.47 oz, 330 cal)",
+    "sig": "844e58621f8f4223",
+    "synced_at": "2026-11-20T09:45:28"
+  },
+  "2493438@9.21 oz": {
+    "cronometer_id": 88236814,
+    "name": "Yale - Spiced Chickpea and Spinach Stew with Coconut, Turmeric and Cilantro (9.21 oz, 220 cal)",
+    "sig": "4a375b8c8ef17887",
+    "synced_at": "2026-11-20T09:45:28"
+  },
+  "2493439@1.74 oz": {
+    "cronometer_id": 88236815,
+    "name": "Yale - Tahini Yogurt Sauce (1.74 oz, 60 cal)",
+    "sig": "6d32e21eb0f54732",
+    "synced_at": "2026-11-20T09:45:28"
   }
 }
