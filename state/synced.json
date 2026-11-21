@@ -2717,6 +2717,12 @@
     "sig": "b90c993e590a6e73",
     "synced_at": "2026-11-06T12:16:56"
   },
+  "2235242@5.14 oz": {
+    "cronometer_id": 88293893,
+    "name": "Yale - Texas French Toast (5.14 oz, 300 cal)",
+    "sig": "8e4def13da33a997",
+    "synced_at": "2026-11-21T05:38:44"
+  },
   "2235243@6 oz": {
     "cronometer_id": 84767390,
     "name": "Yale - Coconut Yogurt (6 oz, 90 cal)",
@@ -10354,6 +10360,12 @@
     "name": "Yale - Chef's Selection of the Day (6 oz, 0 cal)",
     "sig": "9c2e59c4a4c7d527",
     "synced_at": "2026-11-08T14:48:25"
+  },
+  "2461610@3 oz": {
+    "cronometer_id": 88293894,
+    "name": "Yale - Chef's Choice Pasta Sauce (3 oz, 0 cal)",
+    "sig": "9c2e59c4a4c7d527",
+    "synced_at": "2026-11-21T05:38:44"
   },
   "2462355@3.53 oz": {
     "cronometer_id": 84788333,
