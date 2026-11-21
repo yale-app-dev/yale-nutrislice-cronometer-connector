@@ -1679,6 +1679,12 @@
     "sig": "5ed318e066976a20",
     "synced_at": "2026-10-11T04:11:00"
   },
+  "2235044@3.53 oz": {
+    "cronometer_id": 88308997,
+    "name": "Yale - Sriracha Sauce (3.53 oz, 100 cal)",
+    "sig": "61bed3217d0832fb",
+    "synced_at": "2026-11-21T13:43:02"
+  },
   "2235045@0.17 oz": {
     "cronometer_id": 84767282,
     "name": "Yale - Tabasco Sauce (0.17 oz, 0 cal)",
@@ -5212,6 +5218,12 @@
     "name": "Yale - Mojo Beef (6.75 oz, 440 cal)",
     "sig": "c57822d24df81e88",
     "synced_at": "2026-10-13T04:13:01"
+  },
+  "2264546@3.53 oz": {
+    "cronometer_id": 88308998,
+    "name": "Yale - Potato Scallion Hash (3.53 oz, 80 cal)",
+    "sig": "906072f795d38743",
+    "synced_at": "2026-11-21T13:43:02"
   },
   "2264546@3.98 oz": {
     "cronometer_id": 84846554,
