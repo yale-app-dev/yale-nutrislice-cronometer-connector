@@ -1949,6 +1949,12 @@
     "sig": "2a3202782292d133",
     "synced_at": "2026-10-12T19:59:35"
   },
+  "2235144@0.4 oz": {
+    "cronometer_id": 88362506,
+    "name": "Yale - Yellow Corn Tostada Shell (0.4 oz, 60 cal)",
+    "sig": "86f982a2cf8e2949",
+    "synced_at": "2026-11-22T07:15:21"
+  },
   "2235144@1.5 oz": {
     "cronometer_id": 84939026,
     "name": "Yale - Yellow Corn Tostada Shell (1.5 oz, 210 cal)",
@@ -2320,6 +2326,12 @@
     "name": "Yale - Mexican Street Corn (4.78 oz, 340 cal)",
     "sig": "18d1fa5f7e72dec1",
     "synced_at": "2026-10-18T04:10:15"
+  },
+  "2235192@0.21 oz": {
+    "cronometer_id": 88362507,
+    "name": "Yale - Fresh Cilantro (0.21 oz, 0 cal)",
+    "sig": "ee7c21561fe8b033",
+    "synced_at": "2026-11-22T07:15:22"
   },
   "2235195@3.53 oz": {
     "cronometer_id": 85492637,
@@ -3161,6 +3173,12 @@
     "sig": "2f1d596d9a75a094",
     "synced_at": "2026-10-10T03:53:33"
   },
+  "2235336@4 oz": {
+    "cronometer_id": 88362509,
+    "name": "Yale - Chopped Salad with Avocado, Blue Cheese, and Hard Cooked Egg (4 oz, 60 cal)",
+    "sig": "5a7c8400f18541ad",
+    "synced_at": "2026-11-22T07:15:22"
+  },
   "2235337@12 oz": {
     "cronometer_id": 86069584,
     "name": "Yale - Creamy Corn Chowder (12 oz, 310 cal)",
@@ -3178,6 +3196,12 @@
     "name": "Yale - Creamy Corn Chowder (7 oz, 180 cal)",
     "sig": "117be2900ffcb79f",
     "synced_at": "2026-10-10T03:53:18"
+  },
+  "2235342@4 oz": {
+    "cronometer_id": 88362508,
+    "name": "Yale - Signature Spinach and Strawberry Salad with Goat Cheese, Quinoa, and Sunflower Seeds (4 oz, 130 cal)",
+    "sig": "3e43c4a5db8e58b9",
+    "synced_at": "2026-11-22T07:15:22"
   },
   "2235348@3.5 oz": {
     "cronometer_id": 84769159,
@@ -3793,9 +3817,9 @@
   },
   "2264347@2 oz": {
     "cronometer_id": 85463275,
-    "name": "Yale - Tostones (2 oz, 120 cal)",
-    "sig": "9d44a375073f642b",
-    "synced_at": "2026-10-18T04:10:12"
+    "name": "Yale - Tostones (2 oz, 110 cal)",
+    "sig": "e5e9eb190716e565",
+    "synced_at": "2026-11-22T07:15:22"
   },
   "2264347@3.53 oz": {
     "cronometer_id": 86803751,
@@ -7913,6 +7937,12 @@
     "sig": "fb02c0a3e7db4e93",
     "synced_at": "2026-10-28T13:56:35"
   },
+  "2307977@4 oz": {
+    "cronometer_id": 88362510,
+    "name": "Yale - Cranberry Walnut Salad (4 oz, 180 cal)",
+    "sig": "71e1c3c8c5880590",
+    "synced_at": "2026-11-22T07:15:24"
+  },
   "2307979@3.53 oz": {
     "cronometer_id": 87119543,
     "name": "Yale - Rotisserie Chicken (3.53 oz, 240 cal)",
@@ -8773,9 +8803,9 @@
   },
   "2315001@17.5 oz": {
     "cronometer_id": 84846561,
-    "name": "Yale - Slow Roasted Pork Pernil (17.5 oz, 1030 cal)",
-    "sig": "44b0ca555372479d",
-    "synced_at": "2026-10-11T04:11:02"
+    "name": "Yale - Slow Roasted Pork Pernil (17.5 oz, 1000 cal)",
+    "sig": "7eff35dadaba76c2",
+    "synced_at": "2026-11-22T07:15:23"
   },
   "2315001@20.5 oz": {
     "cronometer_id": 85463315,
@@ -8803,9 +8833,9 @@
   },
   "2315010@17 oz": {
     "cronometer_id": 84846564,
-    "name": "Yale - Pesto Rosso Chicken Pasta (17 oz, 780 cal)",
-    "sig": "2f31b34f2448e3d3",
-    "synced_at": "2026-10-14T03:09:12"
+    "name": "Yale - Pesto Rosso Chicken Pasta (17 oz, 860 cal)",
+    "sig": "3bf2433a8c6f5c15",
+    "synced_at": "2026-11-22T07:15:24"
   },
   "2315010@18.8 oz": {
     "cronometer_id": 85463317,
@@ -9004,6 +9034,18 @@
     "name": "Yale - YSC Sauce Sichuan Garlic Dumpling - Lotus (2 oz, 80 cal)",
     "sig": "8e3d30c9bcb9d526",
     "synced_at": "2026-11-05T05:40:22"
+  },
+  "2325523@1.23 oz": {
+    "cronometer_id": 88362515,
+    "name": "Yale - Toum Sauce (1.23 oz, 240 cal)",
+    "sig": "f72f030afabc1493",
+    "synced_at": "2026-11-22T07:15:24"
+  },
+  "2325530@1.06 oz": {
+    "cronometer_id": 88362514,
+    "name": "Yale - YSC Sauce Chimichurri Argentinian (1.06 oz, 170 cal)",
+    "sig": "4a5208ec5bc6a3e2",
+    "synced_at": "2026-11-22T07:15:24"
   },
   "2325532@14 oz": {
     "cronometer_id": 87233863,
@@ -9883,9 +9925,9 @@
   },
   "2367572@24.6 oz": {
     "cronometer_id": 84846560,
-    "name": "Yale - Chimichurri Rotisserie Chicken (24.6 oz, 1310 cal)",
-    "sig": "2ec7b5a4cf51483b",
-    "synced_at": "2026-11-01T04:41:27"
+    "name": "Yale - Chimichurri Rotisserie Chicken (24.6 oz, 1300 cal)",
+    "sig": "64a03b618bea5012",
+    "synced_at": "2026-11-22T07:15:23"
   },
   "2367572@26.8 oz": {
     "cronometer_id": 85463314,
@@ -9895,9 +9937,9 @@
   },
   "2367573@16 oz": {
     "cronometer_id": 84846562,
-    "name": "Yale - Shiitake and Jackfruit Pernil (16 oz, 750 cal)",
-    "sig": "05a3c29be6b3d7cb",
-    "synced_at": "2026-10-11T04:11:02"
+    "name": "Yale - Shiitake and Jackfruit Pernil (16 oz, 730 cal)",
+    "sig": "b321cf62fdeb42b7",
+    "synced_at": "2026-11-22T07:15:23"
   },
   "2368220@7.32 oz": {
     "cronometer_id": 85042612,
@@ -9997,9 +10039,9 @@
   },
   "2369941@10.8 oz": {
     "cronometer_id": 84846543,
-    "name": "Yale - Shrimp and Sweet Corn Coconut Curry with Jasmine Rice (10.8 oz, 610 cal)",
-    "sig": "9546f913d71480af",
-    "synced_at": "2026-10-13T02:50:29"
+    "name": "Yale - Shrimp and Sweet Corn Coconut Curry with Jasmine Rice (10.8 oz, 560 cal)",
+    "sig": "f72d3e954b3db711",
+    "synced_at": "2026-11-22T07:15:22"
   },
   "2369941@15 oz": {
     "cronometer_id": 84971286,
@@ -10015,9 +10057,9 @@
   },
   "2369942@10.5 oz": {
     "cronometer_id": 84846544,
-    "name": "Yale - Tofu and Sweet Corn Coconut Curry with Jasmine Rice (10.5 oz, 690 cal)",
-    "sig": "b36236c9c2c1752f",
-    "synced_at": "2026-10-13T02:50:30"
+    "name": "Yale - Tofu and Sweet Corn Coconut Curry with Jasmine Rice (10.5 oz, 630 cal)",
+    "sig": "8d2063c1bcbacb49",
+    "synced_at": "2026-11-22T07:15:23"
   },
   "2369942@15 oz": {
     "cronometer_id": 84971287,
@@ -11278,6 +11320,66 @@
     "name": "Yale - Jasmine Rice (3.53 oz, 340 cal)",
     "sig": "103f71b20a9d066a",
     "synced_at": "2026-11-19T03:51:17"
+  },
+  "2491236@4 oz": {
+    "cronometer_id": 88362511,
+    "name": "Yale - YSC Short Rib HD 26 (4 oz, 190 cal)",
+    "sig": "2fbf3ecc6ca7cb75",
+    "synced_at": "2026-11-22T07:15:24"
+  },
+  "2491237@3 oz": {
+    "cronometer_id": 88362512,
+    "name": "Yale - CAT Puree Parsnip (3 oz, 240 cal)",
+    "sig": "4bda62ba373209bf",
+    "synced_at": "2026-11-22T07:15:24"
+  },
+  "2491238@4 oz": {
+    "cronometer_id": 88362513,
+    "name": "Yale - Pasture Raised Spatchcock Chicken (4 oz, 300 cal)",
+    "sig": "67466c1a5dcdb8c6",
+    "synced_at": "2026-11-22T07:15:24"
+  },
+  "2491239@4 oz": {
+    "cronometer_id": 88362516,
+    "name": "Yale - YSC Plated Pasta Broccoli Rabe and Bean (4 oz, 180 cal)",
+    "sig": "d34c4a172b4d0579",
+    "synced_at": "2026-11-22T07:15:24"
+  },
+  "2491240@4 oz": {
+    "cronometer_id": 88362517,
+    "name": "Yale - Roasted Delicata Squash (4 oz, 210 cal)",
+    "sig": "4d28983f0041cb81",
+    "synced_at": "2026-11-22T07:15:24"
+  },
+  "2492110@4 oz": {
+    "cronometer_id": 88362518,
+    "name": "Yale - YSC Salad Winter Panzanella (4 oz, 160 cal)",
+    "sig": "8035b7505d901aad",
+    "synced_at": "2026-11-22T07:15:24"
+  },
+  "2492111@3.5 oz": {
+    "cronometer_id": 88362519,
+    "name": "Yale - YSC Brussel Sprouts Agro Dolce (3.5 oz, 130 cal)",
+    "sig": "1558e5ea40f73bf6",
+    "synced_at": "2026-11-22T07:15:25"
+  },
+  "2492112@2.74 oz": {
+    "cronometer_id": 88362520,
+    "name": "Yale - Espresso Brownie (2.74 oz, 330 cal)",
+    "sig": "b4fdc00648c42787",
+    "synced_at": "2026-11-22T07:15:25"
+  },
+  "2492113@1.99 oz": {
+    "cronometer_id": 88362521,
+    "name": "Yale - Lemon Meringue Tartlet (1.99 oz, 190 cal)",
+    "sig": "dde6928e0f0f60dd",
+    "synced_at": "2026-11-22T07:15:25"
+  },
+  "2492114@5.71 oz": {
+    "cronometer_id": 88362522,
+    "name": "Yale - Coconut Tembleque (5.71 oz, 200 cal)",
+    "sig": "b9d783d4bd86fed4",
+    "synced_at": "2026-11-22T07:15:25"
   },
   "2493437@9.47 oz": {
     "cronometer_id": 88236813,
