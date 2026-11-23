@@ -739,9 +739,9 @@
   },
   "2234781@5.61 oz": {
     "cronometer_id": 84939048,
-    "name": "Yale - Nellie`s Southern Fried Chicken (5.61 oz, 710 cal)",
-    "sig": "25026f9187990b31",
-    "synced_at": "2026-10-12T04:00:49"
+    "name": "Yale - Nellie`s Southern Fried Chicken (5.61 oz, 750 cal)",
+    "sig": "1b22967ea5ae0333",
+    "synced_at": "2026-11-23T09:48:13"
   },
   "2234784@4.01 oz": {
     "cronometer_id": 86645186,
@@ -11296,6 +11296,24 @@
     "name": "Yale - SOM Tzatziki Vegan (3.53 oz, 90 cal)",
     "sig": "f664674921283bc8",
     "synced_at": "2026-11-19T20:53:23"
+  },
+  "2489577@4.55 oz": {
+    "cronometer_id": 88447680,
+    "name": "Yale - Chicken Thigh Boneless Five Spice (4.55 oz, 200 cal)",
+    "sig": "2ddd11b076623b29",
+    "synced_at": "2026-11-23T09:48:13"
+  },
+  "2489578@1 oz": {
+    "cronometer_id": 88447678,
+    "name": "Yale - CHICKEN SUB, BREAST FILLET MEATLESS SOY PROTEIN (1 oz, 60 cal)",
+    "sig": "5a68be8698c2a2f9",
+    "synced_at": "2026-11-23T09:48:12"
+  },
+  "2489579@1 oz": {
+    "cronometer_id": 88447681,
+    "name": "Yale - Extra Firm Tofu (1 oz, 40 cal)",
+    "sig": "7e735e1559082ddb",
+    "synced_at": "2026-11-23T09:48:13"
   },
   "2490148@5.81 oz": {
     "cronometer_id": 87819823,
