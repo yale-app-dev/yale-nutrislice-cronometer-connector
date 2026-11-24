@@ -3823,9 +3823,9 @@
   },
   "2264347@3.53 oz": {
     "cronometer_id": 86803751,
-    "name": "Yale - Tostones (3.53 oz, 210 cal)",
-    "sig": "5d43ed80e330416f",
-    "synced_at": "2026-11-02T22:32:23"
+    "name": "Yale - Tostones (3.53 oz, 190 cal)",
+    "sig": "5e9ccf8e53dd441e",
+    "synced_at": "2026-11-24T16:13:34"
   },
   "2264348@3.53 oz": {
     "cronometer_id": 85106161,
@@ -7625,6 +7625,12 @@
     "sig": "c56a1f8ae83680cc",
     "synced_at": "2026-10-25T04:14:39"
   },
+  "2292837@2.38 oz": {
+    "cronometer_id": 88545098,
+    "name": "Yale - Pink Dot Donut (2.38 oz, 280 cal)",
+    "sig": "68ea31cce66bc825",
+    "synced_at": "2026-11-24T16:13:38"
+  },
   "2292837@3.53 oz": {
     "cronometer_id": 84769186,
     "name": "Yale - Pink Dot Donut (3.53 oz, 420 cal)",
@@ -8314,6 +8320,12 @@
     "name": "Yale - Cocoa Sprinkled Donut (1.94 oz, 230 cal)",
     "sig": "94955684fdcb2d56",
     "synced_at": "2026-10-10T03:52:17"
+  },
+  "2314907@2.2 oz": {
+    "cronometer_id": 88545096,
+    "name": "Yale - Cocoa Sprinkled Donut (2.2 oz, 260 cal)",
+    "sig": "4ff256c408736893",
+    "synced_at": "2026-11-24T16:13:38"
   },
   "2314907@3.53 oz": {
     "cronometer_id": 86184809,
@@ -11177,6 +11189,12 @@
     "sig": "2b803421bdc38243",
     "synced_at": "2026-11-04T03:41:57"
   },
+  "2482524@16.8 oz": {
+    "cronometer_id": 88545079,
+    "name": "Yale - YSC Bowl Golda Chingri Malaika Shrimp (16.8 oz, 760 cal)",
+    "sig": "43d05c3335b62ed6",
+    "synced_at": "2026-11-24T16:13:35"
+  },
   "2482525@0.34 oz": {
     "cronometer_id": 86735560,
     "name": "Yale - YSC Lentil Red Masoor Dal (0.34 oz, 60 cal)",
@@ -11333,6 +11351,54 @@
     "sig": "9a502b682a3eae2b",
     "synced_at": "2026-11-15T08:10:32"
   },
+  "2490164@5.18 oz": {
+    "cronometer_id": 88545085,
+    "name": "Yale - YSC Pasta Rigatoni Sunday Sauce HD 26 (5.18 oz, 340 cal)",
+    "sig": "b957e91053df6728",
+    "synced_at": "2026-11-24T16:13:36"
+  },
+  "2490165@5.56 oz": {
+    "cronometer_id": 88545086,
+    "name": "Yale - YSC Pasta Casarecce with Butternut and Kale Pesto (5.56 oz, 310 cal)",
+    "sig": "f44b994377c68819",
+    "synced_at": "2026-11-24T16:13:36"
+  },
+  "2490167@1390 oz": {
+    "cronometer_id": 88545081,
+    "name": "Yale - YSC Turkey Procession HD 24 (1390 oz, 56230 cal)",
+    "sig": "d5396f35ea149d1a",
+    "synced_at": "2026-11-24T16:13:35"
+  },
+  "2490168@15.7 oz": {
+    "cronometer_id": 88545089,
+    "name": "Yale - YSC Sushi Procession HD 24 (15.7 oz, 240 cal)",
+    "sig": "e026cc45ef40a2fb",
+    "synced_at": "2026-11-24T16:13:36"
+  },
+  "2490169@480 oz": {
+    "cronometer_id": 88545088,
+    "name": "Yale - YSC Bread Procession Hd 24 (480 oz, 43000 cal)",
+    "sig": "5ecaa7dd3c11cc74",
+    "synced_at": "2026-11-24T16:13:36"
+  },
+  "2490172@2.93 oz": {
+    "cronometer_id": 88545104,
+    "name": "Yale - BS Cupcake Hot Chocolate Mini (2.93 oz, 260 cal)",
+    "sig": "bdae50a6e94a3d13",
+    "synced_at": "2026-11-24T16:13:39"
+  },
+  "2490173@2 oz": {
+    "cronometer_id": 88545105,
+    "name": "Yale - BS Cupcake Vegan Orange Olive Oil Mini (2 oz, 180 cal)",
+    "sig": "5f3c6334b874bd4d",
+    "synced_at": "2026-11-24T16:13:39"
+  },
+  "2490174@2 oz": {
+    "cronometer_id": 88545106,
+    "name": "Yale - BS Cupcake Cookies and Milk Mini (2 oz, 220 cal)",
+    "sig": "b8a0e4d138dd4f78",
+    "synced_at": "2026-11-24T16:13:40"
+  },
   "2490878@3.53 oz": {
     "cronometer_id": 88221969,
     "name": "Yale - Cranberry Spritzer (3.53 oz, 20 cal)",
@@ -11434,5 +11500,107 @@
     "name": "Yale - Tahini Yogurt Sauce (1.74 oz, 60 cal)",
     "sig": "6d32e21eb0f54732",
     "synced_at": "2026-11-20T09:45:28"
+  },
+  "2494211@8.75 oz": {
+    "cronometer_id": 88545084,
+    "name": "Yale - YSC HD Red Wine Braised Short Rib Mashed Yukon (8.75 oz, 540 cal)",
+    "sig": "214a634efaa6b71f",
+    "synced_at": "2026-11-24T16:13:35"
+  },
+  "2494212@8.25 oz": {
+    "cronometer_id": 88545082,
+    "name": "Yale - YSC HD Wild Mushroom Ragout with Mashed Yukon Gold (8.25 oz, 410 cal)",
+    "sig": "2d874e3c52a56252",
+    "synced_at": "2026-11-24T16:13:35"
+  },
+  "2494213@8.36 oz": {
+    "cronometer_id": 88545077,
+    "name": "Yale - YSC HD Fish Salmon Station (8.36 oz, 290 cal)",
+    "sig": "a9ec74aa105bc360",
+    "synced_at": "2026-11-24T16:13:34"
+  },
+  "2494214@8.01 oz": {
+    "cronometer_id": 88545078,
+    "name": "Yale - YSC HD Arepas Ranchero Beans Aji Verde Curtido (8.01 oz, 250 cal)",
+    "sig": "b963fce05dc99ddc",
+    "synced_at": "2026-11-24T16:13:35"
+  },
+  "2494216@2.11 oz": {
+    "cronometer_id": 88545100,
+    "name": "Yale - BS Croquembouche (2.11 oz, 110 cal)",
+    "sig": "04dd08714a0c3c04",
+    "synced_at": "2026-11-24T16:13:38"
+  },
+  "2494217@0.54 oz": {
+    "cronometer_id": 88545101,
+    "name": "Yale - BS Cookie Macaron Tower (French) (0.54 oz, 5 cal)",
+    "sig": "69b9285c97552f02",
+    "synced_at": "2026-11-24T16:13:39"
+  },
+  "2494218@2.08 oz": {
+    "cronometer_id": 88545102,
+    "name": "Yale - BS Cookie Macaroon Coconut Tower (2.08 oz, 250 cal)",
+    "sig": "14e1f78df56a6a68",
+    "synced_at": "2026-11-24T16:13:39"
+  },
+  "2494219@1.75 oz": {
+    "cronometer_id": 88545095,
+    "name": "Yale - BS Bar Mint Brownie Bite (1.75 oz, 200 cal)",
+    "sig": "e54e1762ad7558d8",
+    "synced_at": "2026-11-24T16:13:37"
+  },
+  "2494220@0.73 oz": {
+    "cronometer_id": 88545094,
+    "name": "Yale - BS Cookie Dough Oatmeal Cranberry Apple Mini (DZ) (0.73 oz, 80 cal)",
+    "sig": "5751633b6e472cd4",
+    "synced_at": "2026-11-24T16:13:37"
+  },
+  "2494221@0.5 oz": {
+    "cronometer_id": 88545093,
+    "name": "Yale - BS Cookie Ginger Molasses Bite (0.5 oz, 50 cal)",
+    "sig": "171f629a8b402bfa",
+    "synced_at": "2026-11-24T16:13:37"
+  },
+  "2494222@0.85 oz": {
+    "cronometer_id": 88545092,
+    "name": "Yale - BS Cookie Sugar Holiday Bite (0.85 oz, 110 cal)",
+    "sig": "5755dcee5ba0fbbc",
+    "synced_at": "2026-11-24T16:13:37"
+  },
+  "2494223@1.75 oz": {
+    "cronometer_id": 88545091,
+    "name": "Yale - BS CAT Cake Bete Noir Mini (1.75 oz, 170 cal)",
+    "sig": "3d3e8e069ac13c8e",
+    "synced_at": "2026-11-24T16:13:37"
+  },
+  "2494224@0.73 oz": {
+    "cronometer_id": 88545090,
+    "name": "Yale - BS Vegan Cookie Chocolate Chunk Bite (0.73 oz, 100 cal)",
+    "sig": "8e4db0d54e250614",
+    "synced_at": "2026-11-24T16:13:36"
+  },
+  "2494225@0.59 oz": {
+    "cronometer_id": 88545099,
+    "name": "Yale - Pink Mini Donut (0.59 oz, 80 cal)",
+    "sig": "c7df92f311d11e54",
+    "synced_at": "2026-11-24T16:13:38"
+  },
+  "2494226@0.59 oz": {
+    "cronometer_id": 88545097,
+    "name": "Yale - Cocoa Mini Donut (0.59 oz, 80 cal)",
+    "sig": "a1329e015790f522",
+    "synced_at": "2026-11-24T16:13:38"
+  },
+  "2494836@3.53 oz": {
+    "cronometer_id": 88545103,
+    "name": "Yale - BS Cake Passion Fruit Yule Log (procession) 26 (3.53 oz, 240 cal)",
+    "sig": "575beb28f1a53df0",
+    "synced_at": "2026-11-24T16:13:39"
+  },
+  "2494837@6.12 oz": {
+    "cronometer_id": 88545080,
+    "name": "Yale - YSC Bowl Cauliflower Manchurian (6.12 oz, 160 cal)",
+    "sig": "7ba60050a726306a",
+    "synced_at": "2026-11-24T16:13:35"
   }
 }
