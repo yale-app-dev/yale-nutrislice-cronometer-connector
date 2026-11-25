@@ -6611,6 +6611,12 @@
     "sig": "cd64e47af410e727",
     "synced_at": "2026-11-13T11:35:51"
   },
+  "2272628@3.53 oz": {
+    "cronometer_id": 88578816,
+    "name": "Yale - Pineapple Fried Rice (3.53 oz, 170 cal)",
+    "sig": "8e45b3725113c432",
+    "synced_at": "2026-11-25T00:43:51"
+  },
   "2272628@4.38 oz": {
     "cronometer_id": 85312294,
     "name": "Yale - Pineapple Fried Rice (4.38 oz, 210 cal)",
@@ -6784,6 +6790,12 @@
     "name": "Yale - Kikkoman Gluten-Free Tamari Soy Sauce (0.25 oz, 0 cal)",
     "sig": "4990971ebc3fb126",
     "synced_at": "2026-10-19T04:16:12"
+  },
+  "2272647@3.53 oz": {
+    "cronometer_id": 88578815,
+    "name": "Yale - Pepper and Bean Stuffed Butternut Squash (3.53 oz, 100 cal)",
+    "sig": "44adc3b6a919d472",
+    "synced_at": "2026-11-25T00:43:50"
   },
   "2272647@9.42 oz": {
     "cronometer_id": 88171501,
