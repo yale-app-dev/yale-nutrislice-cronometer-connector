@@ -9067,9 +9067,9 @@
   },
   "2325522@2 oz": {
     "cronometer_id": 87008910,
-    "name": "Yale - YSC Sauce Sichuan Garlic Dumpling - Lotus (2 oz, 80 cal)",
-    "sig": "8e3d30c9bcb9d526",
-    "synced_at": "2026-11-05T05:40:22"
+    "name": "Yale - YSC Sauce Sichuan Garlic Dumpling - Lotus (2 oz, 100 cal)",
+    "sig": "6cd6bab49b2392e3",
+    "synced_at": "2026-11-26T10:52:09"
   },
   "2325522@2.09 oz": {
     "cronometer_id": 88519436,
@@ -10126,6 +10126,18 @@
     "name": "Yale - YSC Mojo Verde (1.02 oz, 120 cal)",
     "sig": "b0bec64b81b408f8",
     "synced_at": "2026-10-10T03:53:24"
+  },
+  "2369949@0.58 oz": {
+    "cronometer_id": 88666133,
+    "name": "Yale - Garlic Oil (0.58 oz, 120 cal)",
+    "sig": "1710375a4f9c10e0",
+    "synced_at": "2026-11-26T10:52:08"
+  },
+  "2369950@2.27 oz": {
+    "cronometer_id": 88666134,
+    "name": "Yale - YSC Sub Soffrito (2.27 oz, 130 cal)",
+    "sig": "900f60d9ad533ffd",
+    "synced_at": "2026-11-26T10:52:08"
   },
   "2369951@24.3 oz": {
     "cronometer_id": 87233862,
