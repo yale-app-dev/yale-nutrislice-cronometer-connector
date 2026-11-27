@@ -6620,8 +6620,8 @@
   "2272628@4.38 oz": {
     "cronometer_id": 85312294,
     "name": "Yale - Pineapple Fried Rice (4.38 oz, 210 cal)",
-    "sig": "e7b3729bde991a16",
-    "synced_at": "2026-10-16T04:11:46"
+    "sig": "72ee75fc1bb126d6",
+    "synced_at": "2026-11-27T11:25:31"
   },
   "2272629@3.53 oz": {
     "cronometer_id": 88061440,
@@ -8326,6 +8326,12 @@
     "name": "Yale - Apple Cardamon Cake (3.53 oz, 290 cal)",
     "sig": "4eac78c8e696aca3",
     "synced_at": "2026-10-10T03:53:24"
+  },
+  "2314905@2.31 oz": {
+    "cronometer_id": 88720243,
+    "name": "Yale - Rocky Road Brownies with Pecans (2.31 oz, 280 cal)",
+    "sig": "fc902a1e5385a155",
+    "synced_at": "2026-11-27T11:25:31"
   },
   "2314907@1.94 oz": {
     "cronometer_id": 84769059,
