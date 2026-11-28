@@ -2669,6 +2669,12 @@
     "sig": "5d0cec200a80d4e6",
     "synced_at": "2026-10-10T03:53:43"
   },
+  "2235232@5.1 oz": {
+    "cronometer_id": 88774924,
+    "name": "Yale - Peach and Blueberry Brioche French Toast Casserole (5.1 oz, 370 cal)",
+    "sig": "9357cd54c4ad40da",
+    "synced_at": "2026-11-28T10:53:49"
+  },
   "2235233@1.76 oz": {
     "cronometer_id": 84767393,
     "name": "Yale - Cage-Free Hard-Boiled Eggs (1.76 oz, 70 cal)",
@@ -3851,6 +3857,12 @@
     "sig": "4eaeb9c3e7d69955",
     "synced_at": "2026-11-15T08:10:34"
   },
+  "2264349@3.48 oz": {
+    "cronometer_id": 88774929,
+    "name": "Yale - Lemon Marinated Chicken Breast (3.48 oz, 150 cal)",
+    "sig": "70a0814485c444b9",
+    "synced_at": "2026-11-28T10:53:50"
+  },
   "2264349@3.49 oz": {
     "cronometer_id": 84767369,
     "name": "Yale - Lemon Marinated Chicken Breast (3.49 oz, 160 cal)",
@@ -3898,6 +3910,12 @@
     "name": "Yale - Beef and Chicken Meatballs with Pomodoro (6.08 oz, 210 cal)",
     "sig": "7dce7ea519ce4ed0",
     "synced_at": "2026-10-31T04:11:23"
+  },
+  "2264353@6.09 oz": {
+    "cronometer_id": 88774928,
+    "name": "Yale - Beef and Chicken Meatballs with Pomodoro (6.09 oz, 210 cal)",
+    "sig": "facb83eb9c7f2c68",
+    "synced_at": "2026-11-28T10:53:49"
   },
   "2264354@3.53 oz": {
     "cronometer_id": 87588921,
@@ -5027,11 +5045,23 @@
     "sig": "18f116497185d3ca",
     "synced_at": "2026-10-29T11:52:32"
   },
+  "2264522@4.01 oz": {
+    "cronometer_id": 88774931,
+    "name": "Yale - Scrambled Eggs with Smoked Salmon (4.01 oz, 190 cal)",
+    "sig": "9e9465fdc2044d82",
+    "synced_at": "2026-11-28T10:53:50"
+  },
   "2264522@4.21 oz": {
     "cronometer_id": 84767353,
     "name": "Yale - Scrambled Eggs with Smoked Salmon (4.21 oz, 200 cal)",
     "sig": "c4512eb663a2164a",
     "synced_at": "2026-10-10T04:10:59"
+  },
+  "2264524@1.36 oz": {
+    "cronometer_id": 88774925,
+    "name": "Yale - Chef's Choice 'Just Egg' Frittata (1.36 oz, 60 cal)",
+    "sig": "4cbb3572ac6f6c92",
+    "synced_at": "2026-11-28T10:53:49"
   },
   "2264524@4.22 oz": {
     "cronometer_id": 84767354,
@@ -5069,6 +5099,12 @@
     "sig": "8cc5994e7cc5d8f6",
     "synced_at": "2026-10-28T23:19:45"
   },
+  "2264529@5.33 oz": {
+    "cronometer_id": 88774932,
+    "name": "Yale - Roasted Garlic Potatoes with Rosemary, Parsley and Sage (5.33 oz, 110 cal)",
+    "sig": "b35331d58e8b4413",
+    "synced_at": "2026-11-28T10:53:50"
+  },
   "2264529@5.41 oz": {
     "cronometer_id": 84767357,
     "name": "Yale - Roasted Garlic Potatoes with Rosemary, Parsley and Sage (5.41 oz, 120 cal)",
@@ -5080,6 +5116,12 @@
     "name": "Yale - Roasted Asparagus (3.53 oz, 45 cal)",
     "sig": "308c87858fab4f2a",
     "synced_at": "2026-10-14T15:34:52"
+  },
+  "2264530@4 oz": {
+    "cronometer_id": 88774933,
+    "name": "Yale - Roasted Asparagus (4 oz, 50 cal)",
+    "sig": "1cf6c3c6457176f3",
+    "synced_at": "2026-11-28T10:53:50"
   },
   "2264530@4.12 oz": {
     "cronometer_id": 84767358,
@@ -11381,6 +11423,18 @@
     "sig": "7e735e1559082ddb",
     "synced_at": "2026-11-23T09:48:13"
   },
+  "2490144@5.11 oz": {
+    "cronometer_id": 88774921,
+    "name": "Yale - Quiche Lorraine (5.11 oz, 210 cal)",
+    "sig": "e8783da36a820068",
+    "synced_at": "2026-11-28T10:53:48"
+  },
+  "2490146@4.52 oz": {
+    "cronometer_id": 88774926,
+    "name": "Yale - Cage-Free Scrambled Eggs with White Cheddar and Herbs (4.52 oz, 230 cal)",
+    "sig": "36d5e25c3b2aea42",
+    "synced_at": "2026-11-28T10:53:49"
+  },
   "2490148@5.81 oz": {
     "cronometer_id": 87819823,
     "name": "Yale - Organic White Miso Whole Grain Mustard Catfish (5.81 oz, 160 cal)",
@@ -11537,6 +11591,12 @@
     "sig": "6d32e21eb0f54732",
     "synced_at": "2026-11-20T09:45:28"
   },
+  "2494209@4.91 oz": {
+    "cronometer_id": 88774920,
+    "name": "Yale - Roasted Chicken with Lemon and Herbs (4.91 oz, 300 cal)",
+    "sig": "b4d4e3087a6cf78f",
+    "synced_at": "2026-11-28T10:53:48"
+  },
   "2494211@8.75 oz": {
     "cronometer_id": 88545084,
     "name": "Yale - YSC HD Red Wine Braised Short Rib Mashed Yukon (8.75 oz, 540 cal)",
@@ -11626,6 +11686,12 @@
     "name": "Yale - Cocoa Mini Donut (0.59 oz, 80 cal)",
     "sig": "a1329e015790f522",
     "synced_at": "2026-11-24T16:13:38"
+  },
+  "2494425@5.97 oz": {
+    "cronometer_id": 88774922,
+    "name": "Yale - Roasted Chicken with Garlic and Rosemary (5.97 oz, 580 cal)",
+    "sig": "8d7515f789ad2cdd",
+    "synced_at": "2026-11-28T10:53:48"
   },
   "2494836@3.53 oz": {
     "cronometer_id": 88545103,
